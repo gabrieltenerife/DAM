@@ -1,0 +1,108 @@
+<!-- Escribes html:5 y se te realiza todo el openig -->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Primer proyecto html</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <!-- contenido grafico de la pagina -->
+    <!-- etiquetas <nombre attr='valores'>contenido</nombre> -->
+
+    <div>
+      <!-- Los div son bloques de etiquetas, es decir si yo le doy una serie de caracteristicas al div, como un color de fondo, todo lo que se escriba dentro del div tendra esta caracteristica -->
+    </div>
+
+    <!-- Dan tamaño a la letra, cuanto mas alto el numero, h1 h2 h3, la letra se va haciendo mas pequeña conforme avanza -->
+    <h1>Titulo</h1>
+
+    <!-- Parrafo, por ejemplo para meterlo debajo de un titulo como texto y a su vez todo esto puede estar dentro de un <div></div> para darle una serie de caracteristicas a todo como por ejemplo un color de fondo -->
+    <!-- Con <br /> haces un salto de linea, tambien se puede hacer poniendo otro parrafo aparte claro, con un <p></p> -->
+    <p>
+      Esto en un parrafo de ejemplo <br />
+      Esto es un salto de linea acontinuacion unas listas
+    </p>
+
+    <!-- Lista desordenada. Para duplicar lineas Shit+Alt+ArrowDown -->
+    <ul>
+      <li>Elemento 1</li>
+      <li>Elemento 2</li>
+      <li>Elemento 3</li>
+    </ul>
+
+    <!-- Lista ordenada -->
+    <ol>
+      <li>elemento 1</li>
+      <li>elemento 2</li>
+      <li>elemento 3</li>
+    </ol>
+
+    <!-- Lista de descripción -->
+    <dl>
+      <dt>Elemento 1</dt>
+      <dd>descripción 1</dd>
+    </dl>
+
+    <!-- Como hacer una tabla. Consta de Head, Body, Foot -->
+    <h1>Tablas</h1>
+    <table border="1">
+      <!-- Esto sirve para dar un aspecto especifico. Con span="Columna numero" dices cuantas casillas se extiende el color teniendo en cuenta que la la linea por encima tiene preferencia, es decir la segunda linea en este caso va a a pintar la segunda y la tercera columna ya que la primera corresponde al color del primer span, la segunda se va extender 2 casillas mas alla. -->
+      <colgroup span="1" style="background-color: rgb(67, 155, 59)"></colgroup>
+      <colgroup span="2" style="background-color: aquamarine"></colgroup>
+      <thead>
+        <th>Cabecera 1</th>
+        <th>Cabecera 2</th>
+        <th>Cabecera 3</th>
+      </thead>
+      <tbody>
+        <!-- Fila -->
+        <tr>
+          <td>Columna 1</td>
+          <td>Columna 2</td>
+          <!-- rowspan="" sierve para expandir una casilla a lo alto con el numero de casillas que indiques al atributo. Se espande comiendo la de debajo justo. -->
+          <td rowspan="2">Columna 3</td>
+        </tr>
+        <tr>
+          <td>Columna 1.1</td>
+          <td>Columna 2.1</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td>Resultado 1</td>
+          <!-- colspan="" sirve para expandir una casilla a lo ancho el numero de casillas que indiques al atributo. Se expande comiendo la de la derecha-->
+          <td colspan="2">Resultado 2</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <h1>Formulario</h1>
+    <!-- Formularios se pueden hacer independientes pero lo mas logico es introducirlos dentro del nodo logico <form>-->
+    <form>
+      <!-- <br /> es para que salgan uno debajo de otro y dar un poco de formato, ya que sino saldria todo en la misma linea -->
+      <!-- El placeholder es el texto que te aparece en clarito en la casilla para indicar que hacer al usuario de la web -->
+      <input type="text" placeholder="porfavor introduce un dato" /><br />
+      <input type="number" placeholder="porfavor introduce un numero" /><br />
+      <input type="date" placeholder="introduce fecha" /><br />
+      <!-- Hacer una opción de 3 botones, no sale en los apuntes. No lleva placeholder. Se pone el atributo name y todos con el mismo nombre para que cuando selecciones 1 se te desmarque el resto, si no pues se nombran diferente y te permite seleccionar varios. El lable se utiliza para mostar un nombre de cada uno al usuario -->
+      <input type="radio" name="grupo 1" />
+      <label>Opcion 1</label>
+      <input type="radio" name="grupo 1" />
+      <label>Opcion 2</label>
+      <input type="radio" name="grupo 1" />
+      <label>Opcion 3</label><br />
+      <!-- Desplegable para seleccionar una opción -->
+      <select>
+        <option>Opcion 1</option>
+        <option>Opcion 2</option>
+        <option>Opcion 3</option>
+      </select>
+      <br />
+      <!-- Al poner el boton como ultimo elemento y al estar contenido todo dentro de un <form></form> se enviaria automaticamente -->
+      <button>Enviar</button>
+    </form>
+
+    <!-- Poner una imagen. Con el src se puede apuntar a un link de imagen de google, tambien se puede guardar en local pero no es lo comun. style="width: 50%" te cambia la escala original de la imagen al % indicado -->
+    <img src="" style="width: 50%" />
+  </body>
+</html>
