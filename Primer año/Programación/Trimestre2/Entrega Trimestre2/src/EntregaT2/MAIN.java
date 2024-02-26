@@ -17,7 +17,7 @@ public class MAIN {
 		ArrayList<Empleado>listaEmpleados = new ArrayList<Empleado>();
 		Empleado e = new Empleado ();
 		
-		//Pedir datos
+		//op
 		do {
 			mostrarmenu();
 			opcion=sc.nextInt();
@@ -39,6 +39,9 @@ public class MAIN {
 				break;
 				
 			case 3:
+				System.out.print("Introduce el DNI del programador");
+				dni=sc.next();
+				aumentarsalario(listaEmpleados, dni, sc);
 				break;
 				
 			case 4:
@@ -46,12 +49,6 @@ public class MAIN {
 			}
 		}while(opcion!=4);
 		
-		
-		
-		
-		//Operaciones
-		
-		//Mostar resultados
 		
 	//NOTO main	
 	}
@@ -93,8 +90,7 @@ public class MAIN {
 		System.out.println("Introduce lineas de codigo por hora: ");
 		int Lineasdecodigoporhora = sc.nextInt();
 		System.out.println("Introduce lenguaje dominante: ");
-		String Lenguajedominante = sc.nextLine();
-		sc.next();
+		String Lenguajedominante = sc.next();
 		e = new Programador(dni, nombre, edad, casado, salario, Lineasdecodigoporhora, Lenguajedominante);
 		listaEmpleados.add(e);
 	}
@@ -113,8 +109,15 @@ public class MAIN {
 		return existe;
 	}
 	
-	
-	
+	public static void aumentarsalario (ArrayList<Empleado>listaEmpleados, String dni, Scanner sc) {
+		for(Empleado e1:listaEmpleados) {
+			if(e1.getDni().equals(dni)) {
+				System.out.print("Indique el porcentaje de salario que desea aumentar al trabajador con DNI :" +dni);
+				int aumento = sc.nextInt();
+			}
+		}
+	}
+			
 	
 	
 	

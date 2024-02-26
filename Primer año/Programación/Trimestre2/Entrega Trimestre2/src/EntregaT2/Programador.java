@@ -15,6 +15,7 @@ public class Programador extends Empleado {
 		Lineasdecodigoporhora = lineasdecodigoporhora;
 		Lenguajedominate = lenguajedominate;
 	}
+	
 	//Metodos
 	public int getLineasdecodigoporhora() {
 		return Lineasdecodigoporhora;
@@ -27,5 +28,8 @@ public class Programador extends Empleado {
 	}
 	public void setLenguajedominate(String lenguajedominate) {
 		Lenguajedominate = lenguajedominate;
+	}
+	public String toString() {
+		return super.toString()+" lenguaje dominante : " +Lenguajedominate+ "y con " +Lineasdecodigoporhora+ "lineas de codigo por hora";
 	}
 }
