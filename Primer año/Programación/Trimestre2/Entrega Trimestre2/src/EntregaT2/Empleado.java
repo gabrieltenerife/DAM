@@ -52,32 +52,4 @@ public class Empleado {
 	public void setSalario(double salario) {
 		this.salario = salario;
 	}
-	
-	//Metodo experiencia empleado
-	public void experiencia (int edad) {
-		if(edad<=21) {
-			System.out.print("Principiante");
-		}else if(edad>=22 && edad<=35) {
-			System.out.print("Intermedio");
-		}else if(edad>35) {
-			System.out.print("Senior");
-		}else{
-			System.out.print("Edad no contemplada");
-		}	
-	}
-	
-	//Metodo imprimir datos 
-	public void imprimir (String dni, String nombre, int edad, boolean casado, double salario) {
-		System.out.println("DNI del empleado: "+dni);
-		System.out.println("Nombre del empleado: "+dni);
-		System.out.println("Edad del empleado: "+dni);
-		System.out.println("Estado civil del empleado: "+dni);
-		System.out.println("Salario del empleado: "+dni);
-	}
-	
-	
-	
-	
-	
-	//NOTO
 }
