@@ -15,7 +15,9 @@ public class Programador extends Empleado {
 		Lineasdecodigoporhora = lineasdecodigoporhora;
 		Lenguajedominate = lenguajedominate;
 	}
-	
+	public Programador(double salario) {
+		super(salario);
+	}
 	//Metodos
 	public int getLineasdecodigoporhora() {
 		return Lineasdecodigoporhora;

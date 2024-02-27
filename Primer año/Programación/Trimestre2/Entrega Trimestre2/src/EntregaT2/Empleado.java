@@ -1,6 +1,6 @@
 package EntregaT2;
 
-public class Empleado {
+public abstract class Empleado {
 
 	//Variables
 	protected String dni, nombre;
@@ -20,7 +20,10 @@ public class Empleado {
 		this.casado = casado;
 		this.salario = salario;
 	}
-	
+	public Empleado(double salario) {
+		super();
+		this.salario = salario;
+	}
 	//Metodos
 	public String getDni() {
 		return dni;

@@ -9,13 +9,12 @@ public class MAIN {
 		
 		// Variables
 		Scanner sc = new Scanner (System.in);
-		String dni, nombre, Lenguajedominante;
-		int edad, opcion, Lineasdecodigoporhora;
-		boolean casado;
-		double salario;
+		String dni;
+		int opcion;
+		
 		
 		ArrayList<Empleado>listaEmpleados = new ArrayList<Empleado>();
-		Empleado e = new Empleado ();
+		Empleado e = new Programador ();
 		
 		//op
 		do {
@@ -41,21 +40,18 @@ public class MAIN {
 			case 3:
 				System.out.print("Introduce el DNI del programador");
 				dni=sc.next();
-				aumentarsalario(listaEmpleados, dni, sc);
+				if(!aumentarsalario(listaEmpleados, dni, sc)) {
+					System.out.println("No existe ningun empleado con DNI : " +dni+ " en la base de datos");
+				}
 				break;
 				
 			case 4:
+				System.out.print("Hasta la proxima!");
 				break;
 			}
 		}while(opcion!=4);
-		
-		
-	//NOTO main	
 	}
 
-	
-	
-	
 	//METODOS
 	public static void mostrarmenu() {
 		System.out.println("Menu principal");
@@ -109,24 +105,24 @@ public class MAIN {
 		return existe;
 	}
 	
-	public static void aumentarsalario (ArrayList<Empleado>listaEmpleados, String dni, Scanner sc) {
-		for(Empleado e1:listaEmpleados) {
-			if(e1.getDni().equals(dni)) {
-				System.out.print("Indique el porcentaje de salario que desea aumentar al trabajador con DNI :" +dni);
-				int aumento = sc.nextInt();
+	public static boolean aumentarsalario(ArrayList<Empleado>listaEmpleados, String dni, Scanner sc) {
+		boolean existe = false;
+		for(int i=0;i<listaEmpleados.size();i++) {
+			if(listaEmpleados.get(i).getDni().equals(dni)) {
+				System.out.println("Introduce el aumento porcentual en un rago de 0,1 a 100");
+				double aumento = sc.nextInt();
+				aumento = aumento/100;
+				aumento = aumento +1;
+				aumento = listaEmpleados.get(i).getSalario() * aumento;
+				listaEmpleados.get(i).setSalario(aumento);
+				System.out.println("Operacion realizada correctamente");
+				existe = true;
+				break;
 			}
 		}
+		return existe;
 	}
-			
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	public static void experiencia(int edad) {
 		if(edad<=21) {
 			System.out.print("Este trabajador es de rango principiante");
@@ -138,16 +134,4 @@ public class MAIN {
 			System.out.print("Edad no contemplada");
 		}	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	//NOTO
 }
