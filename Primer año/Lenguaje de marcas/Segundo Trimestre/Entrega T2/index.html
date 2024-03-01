@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link rel="stylesheet" href="./utils/css/style.css" />
+    <title>Gestion de trabajadores</title>
+  </head>
+  <body>
+    <header>
+      <h1 style="text-align: center" class="display-1">
+        Sistema de gestión de trabajadores
+      </h1>
+    </header>
+    <main style="margin-top: 40px" class="container">
+      <div class="row">
+        <article class="col-7">
+          <h2>Formulario trabajadores</h2>
+
+          <input placeholder="Nombre" class="form-control" id="inputnombre" />
+          <input
+            placeholder="Apellido"
+            class="form-control"
+            id="inputapellido"
+          />
+          <select class="form-control" id="select" style="margin-top: 5px">
+            <option value="1">IT</option>
+            <option value="2">Marketing</option>
+            <option value="3">Ventas</option>
+            <option value="4">Administración</option>
+          </select>
+          <button class="btn btn-primary" id="boton" style="margin-top: 5px">
+            Enviar
+          </button>
+        </article>
+        <article class="col-5" style="border-style: dotted">
+          <h2>Lista trabajadores</h2>
+          <ul style="margin: 30px" id="listausuarios" class="list-group"></ul>
+        </article>
+      </div>
+      <hr size="2px" color="black" />
+    </main>
+    <footer>
+      <div class="row" style="margin-top: 50px">
+        <article class="col">
+          <h2 class="shadow-sm p-3 mb-5 bg-body-tertiary rounded">IT</h2>
+          <span id="spanit" class="fs-1">0</span>
+        </article>
+        <article class="col">
+          <h2 class="shadow-sm p-3 mb-5 bg-body-tertiary rounded">Marketing</h2>
+          <span id="spanmarketing" class="fs-1">0</span>
+        </article>
+        <article class="col">
+          <h2 class="shadow-sm p-3 mb-5 bg-body-tertiary rounded">Ventas</h2>
+          <span id="spanventas" class="fs-1">0</span>
+        </article>
+        <article class="col">
+          <h2 class="shadow-sm p-3 mb-5 bg-body-tertiary rounded">
+            Administración
+          </h2>
+          <span id="spanadministracion" class="fs-1">0</span>
+        </article>
+      </div>
+    </footer>
+    <script src="./utils/index.js"></script>
+  </body>
+</html>
