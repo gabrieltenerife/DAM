@@ -8,13 +8,12 @@ public class MAIN {
 	public static void main(String[] args) {
 		
 		//Variables
-		String user;
+		String user, numero;
 		int opcion, opcion2, opcion3;
 		final String AdminU="admin", AdminP="123";
 		Scanner sc = new Scanner (System.in);
-		ArrayList <Persona> Login = new ArrayList <Persona>();	
-		Persona P;
-		
+		ArrayList <Persona> Login = new ArrayList <Persona>();
+		ArrayList <Habitaciones> rooms = new ArrayList <Habitaciones>();
 		
 		do {
 		menu1();
@@ -22,18 +21,31 @@ public class MAIN {
 		switch(opcion) {
 		case 0:
 			if(Loginadmin(sc, AdminU, AdminP)==true) {
-				menu3();
-				opcion2 = sc.nextInt();
-				switch(opcion2) {
-				case 1:
-					break;
-				case 2:
-					break;
-				case 3:
-					break;
-				case 4:
-					break;
-				}
+				do {
+					menu3();
+					opcion2 = sc.nextInt();
+					switch(opcion2) {
+					case 1:
+						System.out.println("Introduce el numero de habitacion");
+						numero = sc.next();
+						if(!comprobarhabitacion(numero, rooms)) {
+							registrarhabitacion(rooms, sc, numero);
+						}else{System.out.println("Esta habitacion ya esta registrada");}
+						break;
+					case 2:
+						System.out.println("Introduce el numero de habitacion");
+						numero = sc.next();
+						if(!bajahabitacion(rooms,numero)) {
+							System.out.println("No existe ninguna habitacion con numero : " +numero+ " registrada");
+						}
+						break;
+					case 3:
+						
+						break;
+					case 4: System.out.println("Sesion cerrada correctametne");
+						break;
+					}
+				}while(opcion2!=4);
 			}
 			break;
 		case 1:
@@ -108,6 +120,17 @@ public class MAIN {
 		return existe;
 	}
 	
+	public static boolean comprobarhabitacion(String numero, ArrayList<Habitaciones>rooms) {
+
+		boolean existe = false;
+		for(Habitaciones H:rooms) {
+			if(H.getNumero().equals(numero)) {
+				existe = true;
+			}
+		}
+		return existe;
+	}
+	
 	public static boolean Loguear(Scanner sc, ArrayList<Persona>Login) {
 		
 		boolean entrar = false;
@@ -151,6 +174,30 @@ public class MAIN {
 		Persona P = new Usuario (nombre, apellido, dni, user, password);
 		Login.add(P);
 	}
+	
+	public static void registrarhabitacion(ArrayList<Habitaciones>rooms, Scanner sc, String numero){
+		System.out.println("Introduzca el precio por noche");
+		String precio = sc.next();
+		System.out.println("Introduzca el tipo de habitacion");
+		String tipo = sc.next();
+		Habitaciones H = new Habitaciones (numero, precio, tipo);
+		rooms.add(H);
+	}
+	
+	public static boolean bajahabitacion (ArrayList<Habitaciones>rooms, String numero) {
+		boolean existe=false;
+				
+		for(Habitaciones e1:rooms) {
+			if(e1.getNumero().equals(numero)) {
+				existe=true;
+				rooms.remove(e1);
+				System.out.println("Habitacion con numero : " +numero+ " eliminada correctamente");
+				break;
+			}
+		}
+		return existe;
+	}
+
 	
 	//NTIO
 }
