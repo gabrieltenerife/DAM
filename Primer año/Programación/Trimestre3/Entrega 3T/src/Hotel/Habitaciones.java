@@ -2,17 +2,18 @@ package Hotel;
 
 public class Habitaciones {
 
-	protected String tipo, precio, numero;
+	protected String tipo, numero;
+	protected int precio;
 	protected boolean disponible = true;
 
-	public Habitaciones(String numero, String precio, String tipo) {
+	public Habitaciones(String numero, int precio, String tipo) {
 		super();
 		this.numero = numero;
 		this.precio = precio;
 		this.tipo = tipo;
 	}
-
-	public Habitaciones(String tipo, String precio, String numero, boolean disponible) {
+	
+	public Habitaciones(String tipo, int precio, String numero, boolean disponible) {
 		super();
 		this.tipo = tipo;
 		this.precio = precio;
@@ -28,11 +29,11 @@ public class Habitaciones {
 		this.tipo = tipo;
 	}
 
-	public String getPrecio() {
+	public int getPrecio() {
 		return precio;
 	}
 
-	public void setPrecio(String precio) {
+	public void setPrecio(int precio) {
 		this.precio = precio;
 	}
 
@@ -43,4 +44,13 @@ public class Habitaciones {
 	public void setNumero(String numero) {
 		this.numero = numero;
 	}
+
+	public boolean isDisponible() {
+		return disponible;
+	}
+
+	public void setDisponible(boolean disponible) {
+		this.disponible = disponible;
+	}
+	
 }
