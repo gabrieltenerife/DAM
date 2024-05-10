@@ -1,14 +1,16 @@
-package Hotel;
+	package Hotel;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class MAIN {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Controlexepciones {
+		
+		//PARA ADMIN USUARIO=ADMIN CONTRASEÑA=123
 		
 		//Variables
-		String user, numero;
+		String user, numero, dni="0";
 		int opcion, opcion2, opcion3;
 		final String AdminU="admin", AdminP="123";
 		Scanner sc = new Scanner (System.in);
@@ -84,7 +86,7 @@ public class MAIN {
 			System.out.println("Introduzca un nombre de usuario");
 			user = sc.next();
 			if(!comprobarusuario(user, Login)) {
-				registrar(user, Login, sc);
+				registrar(user, Login, sc, dni);
 			} else {System.out.println("Este nombre de usuario ya esta siendo utilizado");}
 			break;
 		
@@ -174,17 +176,28 @@ public class MAIN {
 		return login;
 	}
 	
-	public static void registrar(String user, ArrayList<Persona>Login, Scanner sc){
+	public static void registrar(String user, ArrayList<Persona>Login, Scanner sc, String dni) throws Controlexepciones{
 		System.out.println("Introduzca una contraseña");
 		String password = sc.next();
 		System.out.println("Introduzca su nombre");
 		String nombre = sc.next();
 		System.out.println("Introduzca su primer apellido");
 		String apellido = sc.next();
+		do {
 		System.out.println("Introduzca su DNI");
-		String dni = sc.next();
-		Persona P = new Usuario (nombre, apellido, dni, user, password);
-		Login.add(P);
+		dni = sc.next();
+		try {
+		if(dni.length()!=9) throw new Controlexepciones(
+				"El valor debe tener 9 digitos"
+				);
+		else {Persona P = new Usuario (nombre, apellido, dni, user, password);
+		Login.add(P);}
+		System.out.println("Registrado correctamente");
+		}
+		catch(Controlexepciones e) {
+			System.out.println("Exepcion capturada: " +e.getMessage());
+		}
+		}while(dni.length()!=9);
 	}
 	
 	public static void registrarhabitacion(ArrayList<Habitaciones>rooms, Scanner sc, String numero){
