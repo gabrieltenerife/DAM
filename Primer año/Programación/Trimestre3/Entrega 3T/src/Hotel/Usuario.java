@@ -1,23 +1,18 @@
 package Hotel;
 
-public class Usuario extends Persona {
+import java.util.ArrayList;
+
+public class Usuario {
 	
-	protected String Usuariouser, Contraseñauser;
+	protected String Usuariouser, Contraseñauser, Nombre, Apellido, Dni;
 
-	public Usuario() {
-		super();
-	}
-
-	public Usuario(String usuariouser, String contraseñauser) {
+	public Usuario(String usuariouser, String contraseñauser, String nombre, String apellido, String dni) {
 		super();
 		Usuariouser = usuariouser;
 		Contraseñauser = contraseñauser;
-	}
-	
-	public Usuario(String nombre, String apellidos, String dni, String usuariouser, String contraseñauser) {
-		super(nombre, apellidos, dni);
-		Usuariouser = usuariouser;
-		Contraseñauser = contraseñauser;
+		Nombre = nombre;
+		Apellido = apellido;
+		Dni = dni;
 	}
 
 	public String getUsuariouser() {
@@ -34,5 +29,29 @@ public class Usuario extends Persona {
 
 	public void setContraseñauser(String contraseñauser) {
 		Contraseñauser = contraseñauser;
+	}
+
+	public String getNombre() {
+		return Nombre;
+	}
+
+	public void setNombre(String nombre) {
+		Nombre = nombre;
+	}
+
+	public String getApellido() {
+		return Apellido;
+	}
+
+	public void setApellido(String apellido) {
+		Apellido = apellido;
+	}
+
+	public String getDni() {
+		return Dni;
+	}
+
+	public void setDni(String dni) {
+		Dni = dni;
 	}
 }

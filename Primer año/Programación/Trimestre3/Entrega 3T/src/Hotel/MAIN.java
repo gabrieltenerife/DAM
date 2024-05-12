@@ -14,7 +14,7 @@ public class MAIN {
 		int opcion, opcion2, opcion3;
 		final String AdminU="admin", AdminP="123";
 		Scanner sc = new Scanner (System.in);
-		ArrayList <Persona> Login = new ArrayList <Persona>();
+		ArrayList <Usuario> Login = new ArrayList <Usuario>();
 		ArrayList <Habitaciones> rooms = new ArrayList <Habitaciones>();
 		ArrayList <Reservas> reserva = new ArrayList <Reservas>();
 		
@@ -125,10 +125,10 @@ public class MAIN {
 		System.out.println("4. Cerrar sesión");
 	}
 	
-	public static boolean comprobarusuario(String user, ArrayList<Persona>Login) {
+	public static boolean comprobarusuario(String user, ArrayList<Usuario>Login) {
 
 		boolean existe = false;
-		for(Persona P:Login) {
+		for(Usuario P:Login) {
 			if(((Usuario)P).getUsuariouser().equals(user)) {
 				existe = true;
 			}
@@ -147,10 +147,10 @@ public class MAIN {
 		return existe;
 	}
 	
-	public static boolean Loguear(Scanner sc, ArrayList<Persona>Login, String user) {
+	public static boolean Loguear(Scanner sc, ArrayList<Usuario>Login, String user) {
 		
 		boolean entrar = false;;
-		for(Persona P:Login){
+		for(Usuario P:Login){
 			if(((Usuario)P).getUsuariouser().equals(user)) {
 				System.out.println("Introduzca su contraseña:");
 				String password = sc.next();
@@ -176,7 +176,7 @@ public class MAIN {
 		return login;
 	}
 	
-	public static void registrar(String user, ArrayList<Persona>Login, Scanner sc, String dni) throws Controlexepciones{
+	public static void registrar(String user, ArrayList<Usuario>Login, Scanner sc, String dni) throws Controlexepciones{
 		System.out.println("Introduzca una contraseña");
 		String password = sc.next();
 		System.out.println("Introduzca su nombre");
@@ -190,7 +190,7 @@ public class MAIN {
 		if(dni.length()!=9) throw new Controlexepciones(
 				"El valor debe tener 9 digitos"
 				);
-		else {Persona P = new Usuario (nombre, apellido, dni, user, password);
+		else {Usuario P = new Usuario (nombre, apellido, dni, user, password);
 		Login.add(P);}
 		System.out.println("Registrado correctamente");
 		}
@@ -260,7 +260,7 @@ public class MAIN {
 		}
 	}
 	
-	public static void reservarhabitaciones(ArrayList<Habitaciones>rooms,ArrayList<Persona>Login, String user, Scanner sc,ArrayList<Reservas>reserva){
+	public static void reservarhabitaciones(ArrayList<Habitaciones>rooms,ArrayList<Usuario>Login, String user, Scanner sc,ArrayList<Reservas>reserva){
 		
 		System.out.println("En estos momentos se encuentran disponibles encuentran disponibles las siguientes habitaciones:");
 		for(Habitaciones h:rooms) {
@@ -279,7 +279,7 @@ public class MAIN {
 					System.out.println("Introduzca el numero de noches que desee reservar:");
 					int noches = sc.nextInt();
 					
-					for(Persona p:Login){
+					for(Usuario p:Login){
 						if(((Usuario)p).getUsuariouser().equals(user)) {
 							String nom = ((Usuario)p).getNombre();
 							String id = ((Usuario)p).getDni();
@@ -304,8 +304,8 @@ public class MAIN {
 			}
 	}
 	
-	public static void misreservas(ArrayList<Reservas>reserva, ArrayList<Persona>Login, String user) {
-		for(Persona p:Login) {
+	public static void misreservas(ArrayList<Reservas>reserva, ArrayList<Usuario>Login, String user) {
+		for(Usuario p:Login) {
 			if(((Usuario)p).getUsuariouser().equals(user)) {
 				for(Reservas r:reserva) {
 					if(((Usuario)p).getDni().equals(r.getDni())) {
