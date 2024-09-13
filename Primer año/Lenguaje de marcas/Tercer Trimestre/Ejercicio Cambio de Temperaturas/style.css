@@ -1,0 +1,9 @@
+.box{
+    background-color: aquamarine;
+    margin: 50px 50px 50px 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+p{
+    padding-top: 10px;
+}
