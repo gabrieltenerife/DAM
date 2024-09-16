@@ -9,12 +9,12 @@ public class omnivoro extends Dinosaurio {
 
 		@Override
 		public int comer(int ataque, int vida) {
-			// TODO Auto-generated method stub
-			return 0;
+			int hp = ataque;
+			return hp;
 		}
 		@Override
 		public void ruido(String ruido) {
-			
+			System.out.println(ruido + "!!!");
 		}
 	}
 

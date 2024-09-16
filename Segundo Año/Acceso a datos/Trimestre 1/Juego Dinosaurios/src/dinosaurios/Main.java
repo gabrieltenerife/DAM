@@ -10,10 +10,38 @@ public class Main {
 		//Variables
 		Scanner sc = new Scanner(System.in);
 		ArrayList <Dinosaurio> dino = new ArrayList <Dinosaurio>();
-		int opcion;
+		ArrayList <Jugador> player = new ArrayList <Jugador>();
+		int opcion, pasar = 0;
+		String user;
 		
-		
+		do {
 		menu();
+		opcion = sc.nextInt();
+		switch(opcion) {
+			case 1:
+				System.out.println("Introduce un nombre de usuario");
+				user = sc.next();
+				if (!comprobarusuario(player, user)) {
+					registrarusuario(player,user,sc);
+				} else System.out.println("Este usuario ya se encuentra registrado");
+				break;
+			case 2:
+				System.out.println("Introduce un nombre de usuario");
+				user = sc.next();
+				if (comprobarusuario(player, user)) {
+				  if (comprobarcontraseña(player, user, sc)) {
+					  pasar = 1;
+				  } else System.out.println("Contraseña erronea");
+				} else System.out.println("Este usuario no existe");
+				break;
+		}
+		
+		}while (pasar != 1);
+		
+		
+		
+		
+		menu1();
 		opcion = sc.nextInt();
 		switch (opcion) {
 		case 1:
@@ -30,12 +58,52 @@ public class Main {
 	//Metodos
 	
 	public static void menu() {
+		System.out.println("1. Registrarse");
+		System.out.println("2. Loguearse");
+	}
+	
+	
+	
+	public static void menu1() {
 		System.out.println("Registar dinosaurio");
 		System.out.println("Atacar dinosaurio");
 		System.out.println("Salir");
 	}
 	
-	public static void registar(ArrayList <Dinosaurio> dino, Scanner sc) {
+	
+	public static boolean comprobarusuario(ArrayList <Jugador> player, String user) {
+		boolean existe = false;
+		for(Jugador p1:player) {
+			if(p1.getUsuario().equals(user)) {
+				existe = true; 
+			}
+			else existe = false;
+		}
+		return existe;
+	}
+	
+	public static boolean comprobarcontraseña(ArrayList <Jugador> player, String user, Scanner sc ) {
+		boolean correcto = false;
+		
+		System.out.print("Introduce tu contraseña");
+		String password = sc.next();
+		for(Jugador p1:player) {
+			if(p1.getUsuario().equals(user) && p1.getContraseña().equals(password)) {
+				correcto = true;
+			} else correcto = false;
+		}
+		
+		return correcto;
+	}
+	
+	public static void registrarusuario (ArrayList <Jugador> player, String user, Scanner sc) {
+		System.out.println("Introduce una contraseña");
+		String password = sc.next();
+		Jugador e = new Jugador (user, password);
+		player.add(e);
+	}
+	
+	public static void registardino(ArrayList <Dinosaurio> dino, Scanner sc) {
 		System.out.println("1. Carnivoro");
 		System.out.println("2. Herbivoro");
 		System.out.println("3. Omnivoro");
