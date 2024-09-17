@@ -23,7 +23,7 @@ public class Main {
 				user = sc.next();
 				if (!comprobarusuario(player, user)) {
 					registrarusuario(player,user,sc);
-				} else System.out.println("Este usuario ya se encuentra registrado");
+				}else System.out.println("Este usuario ya se encuentra registrado");
 				break;
 			case 2:
 				System.out.println("Introduce un nombre de usuario");
@@ -34,25 +34,18 @@ public class Main {
 				  } else System.out.println("Contraseña erronea");
 				} else System.out.println("Este usuario no existe");
 				break;
+				
+			case 3:
+				for(Jugador j1 : player) {
+					System.out.println("contraseña: " + j1.getContraseña() + "usuario:" + j1.getUsuario());
+				}
+				break;
 		}
+	
+			
 		
 		}while (pasar != 1);
 		
-		
-		
-		
-		menu1();
-		opcion = sc.nextInt();
-		switch (opcion) {
-		case 1:
-			
-			break;
-		case 2:
-			break;
-		case 3:
-			break;
-		}
-
 	}
 	
 	//Metodos
@@ -76,6 +69,7 @@ public class Main {
 		for(Jugador p1:player) {
 			if(p1.getUsuario().equals(user)) {
 				existe = true; 
+				break;
 			}
 			else existe = false;
 		}
