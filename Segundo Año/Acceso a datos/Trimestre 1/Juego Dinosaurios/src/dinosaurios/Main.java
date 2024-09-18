@@ -58,9 +58,9 @@ public class Main {
 	
 	
 	public static void menu1() {
-		System.out.println("Registar dinosaurio");
-		System.out.println("Atacar dinosaurio");
-		System.out.println("Salir");
+		System.out.println("1. Capturar dinosaurio");
+		System.out.println("2. Comer");
+		System.out.println("3. Salir");
 	}
 	
 	
