@@ -1,4 +1,4 @@
-package dinosaurios;
+package Selva;
 
 public class Carnivoro extends Dinosaurio{
 	//Cons

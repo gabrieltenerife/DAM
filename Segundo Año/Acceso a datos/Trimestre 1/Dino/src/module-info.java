@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Dinosaurios {
+module Dino {
 }

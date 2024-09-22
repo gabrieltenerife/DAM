@@ -1,4 +1,4 @@
-package dinosaurios;
+package Selva;
 
 public abstract class Dinosaurio {
 	

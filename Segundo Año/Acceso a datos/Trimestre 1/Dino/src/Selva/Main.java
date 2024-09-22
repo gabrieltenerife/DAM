@@ -1,4 +1,4 @@
-package dinosaurios;
+package Selva;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -9,12 +9,14 @@ public class Main {
 		
 		//Variables
 		Scanner sc = new Scanner(System.in);
+		//Ramdom aleatorio = new Ramdom (System.currentTimeMillis());
 		ArrayList <Dinosaurio> dino = new ArrayList <Dinosaurio>();
 		ArrayList <Jugador> player = new ArrayList <Jugador>();
 		int opcion, pasar = 0;
 		String user;
 		
 		do {
+		  capturar();
 		menu();
 		opcion = sc.nextInt();
 		switch(opcion) {
@@ -55,14 +57,23 @@ public class Main {
 		System.out.println("2. Loguearse");
 	}
 	
-	
-	
 	public static void menu1() {
 		System.out.println("1. Capturar dinosaurio");
 		System.out.println("2. Comer");
 		System.out.println("3. Salir");
 	}
 	
+	public static void capturar() {
+		int numero = (int) (Math.random() * 3);
+		System.out.print(numero);
+		
+		if(numero == 1) {
+			
+			int ataque = (int) (Math.random() * 100) + 1;
+			
+		} else System.out.print("Parece que no ha habido suerte!!!");
+		
+	}
 	
 	public static boolean comprobarusuario(ArrayList <Jugador> player, String user) {
 		boolean existe = false;
@@ -86,7 +97,6 @@ public class Main {
 				correcto = true;
 			} else correcto = false;
 		}
-		
 		return correcto;
 	}
 	
