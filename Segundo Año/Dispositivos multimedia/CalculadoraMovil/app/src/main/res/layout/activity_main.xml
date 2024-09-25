@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button14"
+        android:id="@+id/div"
         android:layout_width="339dp"
         android:layout_height="50dp"
         android:layout_marginStart="40dp"
@@ -19,11 +19,11 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/pantalla"
         android:layout_width="340dp"
         android:layout_height="61dp"
-        android:layout_marginStart="36dp"
-        android:layout_marginTop="96dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="100dp"
         android:fadingEdge="horizontal|vertical"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
@@ -32,7 +32,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber"
+        android:id="@+id/numa"
         android:layout_width="161dp"
         android:layout_height="56dp"
         android:layout_marginStart="40dp"
@@ -44,7 +44,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/editTextNumber3"
+        android:id="@+id/numb"
         android:layout_width="160dp"
         android:layout_height="55dp"
         android:layout_marginTop="188dp"
@@ -56,7 +56,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button13"
+        android:id="@+id/res"
         android:layout_width="339dp"
         android:layout_height="50dp"
         android:layout_marginStart="40dp"
@@ -67,7 +67,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button12"
+        android:id="@+id/sum"
         android:layout_width="339dp"
         android:layout_height="50dp"
         android:layout_marginStart="40dp"
@@ -78,7 +78,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button15"
+        android:id="@+id/mul"
         android:layout_width="339dp"
         android:layout_height="50dp"
         android:layout_marginStart="40dp"
@@ -100,7 +100,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button17"
+        android:id="@+id/clear"
         android:layout_width="160dp"
         android:layout_height="50dp"
         android:layout_marginEnd="32dp"
@@ -109,5 +109,14 @@
         android:text="Clear"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="176dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
