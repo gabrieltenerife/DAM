@@ -16,6 +16,7 @@ Desarrollo de aplicaciones multiplataforma 2023-2025
   -Sistemas de Gestion Empresarial
   -Desarrollo de Interfaces
 
+
 IDES y Entornos;
 
 1er año
