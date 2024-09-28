@@ -8,6 +8,7 @@ Desarrollo de aplicaciones multiplataforma 2023-2025
   -Lenguaje de Marcas
   -Sistemas Informaticos
   -Entornos de Desarrollo
+  
 2do año
   -Acceso a Datos
   -Servicios y Procesos
