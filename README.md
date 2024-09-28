@@ -23,7 +23,7 @@ IDES y Entornos;
    -Visual Studio Code : Lenguaje de Marcas
    -Php My Admin : Bases de Datos
     
-2do añp
+2do año
   -IntelliJ IDEA : Acceso a Datos
   -NetBeans : Servicios y Procesos, Desarrollo de Interfaces
   -Android Studio Code : Multimedia y Dispositivos Móviles
