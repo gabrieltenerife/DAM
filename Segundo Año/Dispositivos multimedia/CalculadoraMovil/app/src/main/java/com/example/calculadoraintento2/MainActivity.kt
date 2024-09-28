@@ -6,6 +6,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import java.util.Timer
+import kotlin.concurrent.schedule
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,10 +19,15 @@ class MainActivity : AppCompatActivity() {
     lateinit var Res: Button
     lateinit var Mul: Button
     lateinit var Divi: Button
+    lateinit var Ele : Button
     lateinit var Limp: Button
 
     lateinit var Pantalla: TextView
     lateinit var Alerta: TextView
+
+    var timer = Timer()
+    var delay = 0L
+    var intervalo = 5000L
 
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -35,6 +42,7 @@ class MainActivity : AppCompatActivity() {
         Res = findViewById(R.id.res)
         Mul = findViewById(R.id.mul)
         Divi = findViewById(R.id.div)
+        Ele = findViewById(R.id.ele)
         Limp = findViewById(R.id.clear)
 
         Pantalla = findViewById(R.id.pantalla)
@@ -49,12 +57,25 @@ class MainActivity : AppCompatActivity() {
             resta()
         }
 
+        Mul.setOnClickListener(){
+            multiplicacion()
+        }
+
+        Divi.setOnClickListener(){
+            divicion()
+        }
+
         Limp.setOnClickListener{
             clear()
         }
 
+        Ele.setOnClickListener(){
+            elevar()
+        }
 
-
+        timer.schedule(delay, intervalo){
+            borrar()
+        }
     }
 
     //Metodos
@@ -91,8 +112,54 @@ class MainActivity : AppCompatActivity() {
         } else Alerta.text = "Introduce ambos numeros para operar"
     }
 
-    fun clear () {
-        Pantalla.text = ""
+    @SuppressLint("SetTextI18n")
+    fun multiplicacion (){
+        var valor1 = Numa.text.toString()
+        var valor2 = Numb.text.toString()
+        var resultado = 0
+
+        if(valor1.isNotEmpty() && valor2.isNotEmpty()){
+            resultado = valor1.toInt() * valor2.toInt()
+            Pantalla.text = "El resultado es ${resultado.toString()}"
+        } else Alerta.text = "Introduce ambos numeros para operar"
     }
 
+    @SuppressLint("SetTextI18n")
+    fun divicion () {
+        var valor1 = Numa.text.toString()
+        var valor2 = Numb.text.toString()
+        var resultado = 0
+        var resto = 0
+
+        if(valor1.isNotEmpty() && valor2.isNotEmpty()){
+            resultado = valor1.toInt() / valor2.toInt()
+            resto = valor1.toInt() % valor2.toInt()
+
+            Pantalla.text = "Resultado ${resultado.toString()} Resto ${resto.toString()}"
+        } else Alerta.text = "Introduce ambos numeros para operar"
+    }
+
+    @SuppressLint("SetTextI18n")
+    fun elevar () {
+        var valor1 = Numa.text.toString()
+        var valor2 = Numb.text.toString()
+        var resultado = 0.0
+
+        if(valor1.isNotEmpty() && valor2.isNotEmpty()) {
+            resultado = Math.pow(valor1.toDouble(),valor2.toDouble())
+            resultado.toInt()
+            Pantalla.text = "El resultado es ${resultado.toString()}"
+        } else Alerta.text = "Introduce ambos numeros para operar"
+    }
+
+    @SuppressLint("SetTextI18n")
+    fun clear () {
+        Pantalla.text = ""
+        Numa.text.clear()
+        Numb.text.clear()
+    }
+
+    fun borrar() {
+        Alerta.text = ""
+    }
 }
