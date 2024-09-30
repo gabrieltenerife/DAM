@@ -26,30 +26,41 @@ public class Main {
 
             raf.close();
 
-        } catch (FileNotFoundException e) {
-            throw new RuntimeException(e);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
 
     }
 
-    public static void leer(int posicion){
 
-        try {
-            RandomAccessFile fichero = new RandomAccessFile("fruta", "rw");
+    public static void leerposicion(int posicion) throws IOException {
+        // 0
+        RandomAccessFile fichero = new RandomAccessFile("frutita","rw");
+        int posBuscado = 37 * posicion;
 
-            //Cada variable ocupa un numero de bites, en este caso ocupa 37 bites cada fruta.
+        fichero.seek(posBuscado);
+        String name = fichero.readUTF();
+        int cantidad = fichero.readInt();
+        double precio = fichero.readDouble();
+        long fechaCad = fichero.readLong();
 
-            int numerofrutas = (int) ((fichero.length()) / 37);
-            
+        fichero.close();
+    }
 
+    public static void leerFichero() throws IOException {
+        // 0
+        RandomAccessFile fichero = new RandomAccessFile("frutita","rw");
 
+        int numeroFrutas = (int) (fichero.length() / 37);
 
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        for(int i = 0; i < numeroFrutas; i++) {
+            String name = fichero.readUTF();
+            int cantidad = fichero.readInt();
+            double precio = fichero.readDouble();
+            long fechaCad = fichero.readLong();
+
         }
 
-
+        fichero.close();
     }
 }
