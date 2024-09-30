@@ -2,6 +2,8 @@
 
 Desarrollo de aplicaciones multiplataforma 2023-2025
 
+ASIGNATURAS
+
 1er año
   -Programacion
   -Bases de Datos
@@ -17,7 +19,7 @@ Desarrollo de aplicaciones multiplataforma 2023-2025
   -Desarrollo de Interfaces
 
 
-IDES y Entornos;
+IDES Y ENTORNOS;
 
 1er año
    -Eclipse : Programacion, Entornos de Desarroyo
