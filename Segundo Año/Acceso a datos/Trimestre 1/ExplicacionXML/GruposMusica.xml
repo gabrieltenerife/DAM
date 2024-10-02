@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Musicos>
+    <Musico>
+        <nombre>The Wonder Years</nombre>
+        <año_formacion>2005</año_formacion>
+        <genero>Punk-Pop</genero>
+    </Musico>
+    <Musico>
+        <nombre>La Polla Records</nombre>
+        <año_formacion>1980</año_formacion>
+        <genero>Punk</genero>
+    </Musico>
+    <Musico>
+        <nombre>Phoebe Bridgers</nombre>
+        <año_formacion>2012</año_formacion>
+        <genero>Indie-folk</genero>
+    </Musico>
+</Musicos>
