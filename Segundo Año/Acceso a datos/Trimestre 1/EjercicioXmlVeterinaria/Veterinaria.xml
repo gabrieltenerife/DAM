@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Gatos>
+    <Gatos>
+        <Edad>1</Edad>
+        <Raza/>Persa
+        <nombre>hikaru</nombre>
+    </Gatos>
+    <Gatos>
+        <Edad>3</Edad>
+        <Raza/>British
+        <nombre>ElDandy</nombre>
+    </Gatos>
+    <Gatos>
+        <Edad>8</Edad>
+        <Raza/>Maine
+        <nombre>SantiA</nombre>
+    </Gatos>
+    <Gatos>
+        <Edad>123</Edad>
+        <Raza/>Bengala
+        <nombre>IDA</nombre>
+    </Gatos>
+</Gatos>

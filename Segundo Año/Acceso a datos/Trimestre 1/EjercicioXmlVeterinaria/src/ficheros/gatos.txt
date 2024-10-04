@@ -1,0 +1,4 @@
+hikaru 1 Persa false
+ElDandy 3 British true
+SantiA 8 Maine false
+IDA 123 Bengala true
