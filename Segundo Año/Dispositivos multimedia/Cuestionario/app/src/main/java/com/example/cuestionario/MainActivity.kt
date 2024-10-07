@@ -167,7 +167,7 @@ class MainActivity : AppCompatActivity() {
             comprobarp1(P7a, P7b, P7c, "verdadera", "falsa", "verdadera", P7t)
             comprobarp1(P8a, P8b, P8c, "verdadera", "falsa", "falsa", P8t)
             comprobarp1(P9a, P9b, P9c, "falsa", "verdadera", "falsa", P9t)
-            Puntos.text = "${(ContadorGlobal * 10) / 13} pts"
+            Puntos.text = "El resultado final es de: ${(ContadorGlobal * 10) / 13} pts"
         }
     }
 
