@@ -1,32 +1,32 @@
-# DAM Universidad Europea de Madrid
+#DAM European University of Madrid
 
-Desarrollo de aplicaciones multiplataforma 2023-2025
+Multiplatform Application Development 2023-2025
 
-ASIGNATURAS
+SUBJECTS
 
-1er año
-  -Programacion
-  -Bases de Datos
-  -Lenguaje de Marcas
-  -Sistemas Informaticos
-  -Entornos de Desarrollo
-  
-2do año
-  -Acceso a Datos
-  -Servicios y Procesos
-  -Multimedia y Dispositivos Móviles
-  -Sistemas de Gestion Empresarial
-  -Desarrollo de Interfaces
+1st Year
 
+Programming
+Databases
+Markup Languages
+Computer Systems
+Development Environments
+2nd Year
 
-IDES Y ENTORNOS;
+Data Access
+Services and Processes
+Multimedia and Mobile Devices
+Business Management Systems
+Interface Development
+IDEs and Tools
 
-1er año
-   -Eclipse : Programacion, Entornos de Desarroyo
-   -Visual Studio Code : Lenguaje de Marcas
-   -Php My Admin : Bases de Datos
-    
-2do año
-  -IntelliJ IDEA : Acceso a Datos
-  -NetBeans : Servicios y Procesos, Desarrollo de Interfaces
-  -Android Studio Code : Multimedia y Dispositivos Móviles
+1st Year
+
+Eclipse: Programming, Development Environments
+Visual Studio Code: Markup Languages
+PhpMyAdmin: Databases
+2nd Year
+
+IntelliJ IDEA: Data Access
+NetBeans: Services and Processes, Interface Development
+Android Studio: Multimedia and Mobile Devices
