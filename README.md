@@ -4,14 +4,14 @@ Multiplatform Application Development 2023-2025
 
 SUBJECTS
 
-2ST YEAR:
+1ST YEAR:
 Programming bases,
 Databases,
 Markup Languages,
 Computer Systems,
 Development Environments.
 
-2nd Year
+2ND YEAR
 Data Access,
 Services and Processes,
 Multimedia and Mobile Devices,
