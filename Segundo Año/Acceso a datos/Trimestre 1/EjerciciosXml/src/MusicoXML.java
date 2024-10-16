@@ -245,6 +245,12 @@ public class MusicoXML {
 						System.out.print(elemento.getElementsByTagName("genero").item(0).getTextContent());
 						System.out.print(" ");
 						System.out.print(elemento.getElementsByTagName("frontman").item(0).getTextContent());
+						System.out.print(" ");
+						NodeList discos = elemento.getElementsByTagName("disco");
+							for (int j = 0; j < discos.getLength(); j++) {
+								Node disco = discos.item(j);
+								System.out.print(disco.getTextContent() + ", ");
+							}
 						System.out.println();
 
 						/*
