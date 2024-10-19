@@ -1,6 +1,8 @@
 package org.example;
 
-public class Juego {
+import java.io.Serializable;
+
+public class Juego implements Serializable {
     String game, platform, developer, genere, number_players, rating, release_date,
             positive_critics, neutral_critics, negative_critics, positive_users,
             neutral_users, negative_users, metascore, users_score;

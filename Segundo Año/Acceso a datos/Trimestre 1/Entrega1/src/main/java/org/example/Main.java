@@ -14,11 +14,10 @@ public class Main {
 
         //EJERCICIO 1
         crearArrayJuegos(Juegos);
-        crearbinario(Juegos);
+        crearBinario(Juegos);
 
         //EJERCICIO 2
-
-
+        notasdispares();
     }
 
     //EJERCICIO 1
@@ -74,29 +73,30 @@ public class Main {
         }
     }
 
-    public static void crearbinario(ArrayList<Juego> Juegos) {
+    public static void crearBinario(ArrayList<Juego> juegos) {
 
         try {
-
             ObjectOutputStream escritor = new ObjectOutputStream(new FileOutputStream("src/Files/juegos.dat"));
-            for (Juego j : Juegos) {
+
+            for (Juego j : juegos) {
                 escritor.writeObject(j);
             }
-            escritor.close();
 
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+
     }
 
     //EJERCICIO 2
-    public static void crearaleatorioordenado(){
+    public static void crearaleatorioordenado() {
 
 
         try {
             ObjectInputStream lector = new ObjectInputStream(new FileInputStream("src/Files/juegos.dat"));
             Juego juego = (Juego) lector.readObject();
-            while(true){
+            while (true) {
 
                 String game = juego.getGame();
                 String platform = juego.getPlatform();
@@ -115,7 +115,6 @@ public class Main {
                 String userScore = juego.getUsers_score();
 
 
-
                 juego = (Juego) lector.readObject();
             }
         } catch (IOException e) {
@@ -123,6 +122,83 @@ public class Main {
         } catch (ClassNotFoundException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    //EJERCICIO 6
+    public static void notasdispares() {
+
+        String nombre = "";
+        String NotaUsuarios = "";
+        String NotaCriticos = "";
+        String nombre1 = "";
+        String NotaUsuarios1 = "";
+        String NotaCriticos1 = "";
+
+        int disparCritico = 0;
+        int disparUsuarios = 0;
+
+        ObjectInputStream lector = null;
+        try {
+            lector = new ObjectInputStream(new FileInputStream("src/Files/juegos.dat"));
+            Juego juego = (Juego) lector.readObject();
+
+            while (true) {
+
+                if (juego.getGame().equals("game")) {
+                    disparUsuarios = 0;
+                } else {
+                    int Upositivas = Integer.parseInt(juego.getPositive_critics());
+                    int Uneutrales = Integer.parseInt(juego.getNeutral_critics());
+                    int Unegativas = Integer.parseInt(juego.getNegative_critics());
+
+                    int Utotales = Upositivas + Uneutrales + Unegativas + 1;
+                    int Uresultadopositivo = (Upositivas * 100) / Utotales;
+                    int Uresultadonegativo = (Unegativas * 100) / Utotales;
+
+
+                    int Cpositivas = Integer.parseInt(juego.getPositive_users());
+                    int Cneutrales = Integer.parseInt(juego.getNeutral_users());
+                    int Cnegativas = Integer.parseInt(juego.getNegative_users());
+
+                    int Ctotales = Cnegativas + Cpositivas + Cneutrales + 1;
+                    int Cresultadopositivo = (Cpositivas * 100) / Ctotales;
+                    int Cresultadonegativo = (Cnegativas * 100) / Ctotales;
+
+
+                    //Para mucha más nota de los usuarios que de los críticos.
+                    int variable = Uresultadopositivo - Uresultadonegativo;
+                    int variable1 = Cresultadopositivo - Cresultadonegativo;
+                    int total = variable - variable1;
+                    int total2 = variable1 - variable;
+
+                    if (total > disparUsuarios) {
+                        disparUsuarios = total;
+                        nombre = juego.getGame();
+                        NotaUsuarios = juego.getPositive_users();
+                        NotaCriticos = juego.getPositive_critics();
+                    }
+
+                    if (total2 > disparCritico) {
+                        disparCritico = total;
+                        nombre1 = juego.getGame();
+                        NotaUsuarios1 = juego.getPositive_users();
+                        NotaCriticos1 = juego.getPositive_critics();
+                    }
+
+
+                    juego = (Juego) lector.readObject();
+                }
+                juego = (Juego) lector.readObject();
+
+            }
+
+
+        } catch (EOFException e) {
+        } catch (IOException | ClassNotFoundException e) {
+            throw new RuntimeException(e);
+        }
+        System.out.println("El juego " + nombre + " tiene tan solo " + NotaUsuarios + " notas positivas de criticos y tiene " + NotaCriticos + " notas positivas de usuarios");
+        System.out.println("El juego " + nombre1 + " tiene " + NotaUsuarios1 + " notas positivas de criticos y tiene tan solo " + NotaCriticos1 + " notas positivas de usuarios");
 
     }
 }
