@@ -1,0 +1,16 @@
+Game: game
+Platform: platform
+Developer: developer
+Genre: genre
+Number of Players: number_players
+Rating: rating
+Release Date: release_date
+Positive Critics: positive_critics
+Neutral Critics: neutral_critics
+Negative Critics: negative_critics
+Positive Users: positive_users
+Neutral Users: neutral_users
+Negative Users: negative_users
+Metascore: metascore
+Users Score: user_score
+------------------------------------------------------------------

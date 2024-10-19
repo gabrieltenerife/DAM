@@ -1,0 +1,16 @@
+Game: Kingdom Hearts III
+Platform: XONE
+Developer: Square Enix
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 29, 2019
+Positive Critics: 17
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 3
+Negative Users: 11
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------

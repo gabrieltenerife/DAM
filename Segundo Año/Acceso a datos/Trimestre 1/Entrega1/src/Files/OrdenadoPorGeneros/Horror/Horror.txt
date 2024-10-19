@@ -1,0 +1,16 @@
+Game: The Forest
+Platform: PC
+Developer: SKS Games
+Genre: Horror
+Number of Players: 
+Rating: 
+Release Date: Apr 30, 2018
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 15
+Negative Users: 6
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------

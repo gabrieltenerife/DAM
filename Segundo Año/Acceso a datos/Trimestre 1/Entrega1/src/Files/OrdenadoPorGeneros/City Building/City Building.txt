@@ -1,0 +1,16 @@
+Game: Cities: Skylines
+Platform: PC
+Developer: Colossal Order
+Genre: City Building
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 10, 2015
+Positive Critics: 58
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 233
+Neutral Users: 30
+Negative Users: 8
+Metascore: 85
+Users Score: 89
+------------------------------------------------------------------

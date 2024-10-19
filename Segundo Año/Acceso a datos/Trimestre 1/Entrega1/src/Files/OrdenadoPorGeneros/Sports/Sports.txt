@@ -1,0 +1,16 @@
+Game: MLB The Show 19
+Platform: PS4
+Developer: Sony Interactive Entertainment
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Mar 26, 2019
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 2
+Metascore: 85
+Users Score: 69
+------------------------------------------------------------------

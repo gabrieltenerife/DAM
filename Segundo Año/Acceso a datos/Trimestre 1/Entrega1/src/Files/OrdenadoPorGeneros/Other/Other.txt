@@ -1,0 +1,16 @@
+Game: Mario Kart 8 Deluxe
+Platform: Switch
+Developer: Nintendo
+Genre: Other
+Number of Players: Up to 12 
+Rating: E
+Release Date: Apr 28, 2017
+Positive Critics: 93
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 247
+Neutral Users: 20
+Negative Users: 17
+Metascore: 92
+Users Score: 87
+------------------------------------------------------------------

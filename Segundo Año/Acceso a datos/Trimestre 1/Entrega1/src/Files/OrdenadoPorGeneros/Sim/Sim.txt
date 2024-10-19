@@ -1,0 +1,16 @@
+Game: NBA 2K14
+Platform: XONE
+Developer: Visual Concepts
+Genre: Sim
+Number of Players: Up to 10 
+Rating: E
+Release Date: Nov 12, 2013
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 8
+Negative Users: 25
+Metascore: 86
+Users Score: 57
+------------------------------------------------------------------

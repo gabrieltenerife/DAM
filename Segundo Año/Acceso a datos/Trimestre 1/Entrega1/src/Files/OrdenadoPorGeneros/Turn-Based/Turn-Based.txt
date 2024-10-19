@@ -1,0 +1,16 @@
+Game: Atlas Reactor
+Platform: PC
+Developer: Trion Worlds
+Genre: Turn-Based
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Oct  4, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 2
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------

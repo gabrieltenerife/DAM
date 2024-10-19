@@ -1,6 +1,9 @@
 package org.example;
 
 import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -31,6 +34,7 @@ public class Main {
 
         ArrayList<Juego> juegos = new ArrayList<Juego>();
         ArrayList<Juego> ordenadosPorFecha = new ArrayList<Juego>();
+        ArrayList<String> plataformas = new ArrayList<String>();
 
         //EJERCICIO 1
         crearArrayJuegos(juegos);
@@ -41,7 +45,13 @@ public class Main {
         crearaleatorioordenado(ordenadosPorFecha);
 
         //EJERCICIO 3
-        escribirXML(ordenadosPorFecha);
+        escribirXML(ordenadosPorFecha, plataformas);
+
+        //EJERCICIO 4
+        carpetasapartirxml(plataformas, juegos);
+
+        //EJERCICIO 5
+        carpetasporgenero(ordenadosPorFecha);
 
         //EJERCICIO 6
         notasdispares();
@@ -238,7 +248,7 @@ public class Main {
 
     //Para este ejercicio, reutilizare el metodo leer binario, que ya lee el archivo juegos.dat
 
-    public static void escribirXML(ArrayList<Juego> OrdenadosPorFecha) {
+    public static void escribirXML(ArrayList<Juego> OrdenadosPorFecha, ArrayList<String> plataformas) {
         // Creamos el DocumentBuilderFactory, que es el objeto que crea objetos de clase DocumentBuilder
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
         Document documento = null;
@@ -276,7 +286,6 @@ public class Main {
             Automatizar meidante un array la creacion de nodos por cada consola y cambiando por "P_" en caso de que empieze por un numero ya que XML no permite que una etiqueta empieze por numero
              */
 
-            ArrayList<String> plataformas = new ArrayList<String>();
 
             for (Juego juego : OrdenadosPorFecha) {
                 if (juego.getPlatform().equals("platform")) {
@@ -346,8 +355,120 @@ public class Main {
         }
     }
 
-    //EJERCICIO 6
 
+    //EJERCICIO 4
+
+    public static void carpetasapartirxml(ArrayList<String> plataformas, ArrayList<Juego> juegos) {
+
+        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+        Document documento = null;
+
+        try {
+
+            DocumentBuilder builder = factory.newDocumentBuilder();
+
+            documento = builder.parse(new File("src/Files/juegos.xml"));
+
+            for (int i = 0; i < plataformas.size(); i++) {
+                NodeList Plataformas = documento.getElementsByTagName(plataformas.get(i));
+
+                for (int e = 0; e < Plataformas.getLength(); e++) {
+                    Node Juego = Plataformas.item(e);
+
+                    // Siempre que se lee de un DOM hay que comprobar que es de tipo ELEMENT_NODE
+                    if (Juego.getNodeType() == Node.ELEMENT_NODE) {
+
+                        //Creamos las carpetas
+                        Element elemento = (Element) Juego;
+                        Path carpeta = Paths.get("src/Files/Plataformas/" + elemento.getNodeName());
+                        Files.createDirectories(carpeta);
+
+                        //Creamos los archivos Txt y escribimos cada uno de los juegos y sus desarrolladores dentro
+                        BufferedWriter bw = null;
+                        bw = new BufferedWriter(new FileWriter("src/Files/Plataformas/" + elemento.getNodeName() + "/" + elemento.getNodeName() + ".txt"));
+                        for (Juego j : juegos) {
+                            if (j.getPlatform().equals(plataformas.get(i))) {
+                                bw.write("El juego se llama " + j.getGame() + " y lo desarrolla " + j.getDeveloper());
+                                bw.newLine();
+                            }
+                        }
+                        bw.close();
+                    }
+                }
+            }
+
+        } catch (ParserConfigurationException | IOException | SAXException pce) {
+            pce.printStackTrace();
+        }
+    }
+
+    //EJERCICIO 5
+
+    //Para leer el archivo vinario voy a reutilizar el metodo leerbinario, que me genera un array de objetos
+
+    public static void carpetasporgenero(ArrayList<Juego> ordenadosPorFecha) {
+
+
+
+
+        for (Juego j : ordenadosPorFecha) {
+
+            String genero = j.getGenere().trim().replaceAll("[/\\\\:*?\"<>|]", "_");
+            Path carpeta = Paths.get("src/Files/OrdenadoPorGeneros/"+genero);
+
+            try {
+                Files.createDirectories(carpeta);
+
+                boolean continuar = false;
+
+                BufferedWriter bw = null;
+                bw = new BufferedWriter(new FileWriter("src/Files/OrdenadoPorGeneros/"+genero+"/"+genero+".txt"));
+
+                    if(j.getMetascore().compareTo("80")>=0){
+                        bw.write("Game: " + j.getGame());
+                        bw.newLine();
+                        bw.write("Platform: " + j.getPlatform());
+                        bw.newLine();
+                        bw.write("Developer: " + j.getDeveloper());
+                        bw.newLine();
+                        bw.write("Genre: " + j.getGenere());
+                        bw.newLine();
+                        bw.write("Number of Players: " + j.getNumber_players());
+                        bw.newLine();
+                        bw.write("Rating: " + j.getRating());
+                        bw.newLine();
+                        bw.write("Release Date: " + j.getRelease_date());
+                        bw.newLine();
+                        bw.write("Positive Critics: " + j.getPositive_critics());
+                        bw.newLine();
+                        bw.write("Neutral Critics: " + j.getNeutral_critics());
+                        bw.newLine();
+                        bw.write("Negative Critics: " + j.getNegative_critics());
+                        bw.newLine();
+                        bw.write("Positive Users: " + j.getPositive_users());
+                        bw.newLine();
+                        bw.write("Neutral Users: " + j.getNeutral_users());
+                        bw.newLine();
+                        bw.write("Negative Users: " + j.getNegative_users());
+                        bw.newLine();
+                        bw.write("Metascore: " + j.getMetascore());
+                        bw.newLine();
+                        bw.write("Users Score: " + j.getUsers_score());
+                        bw.newLine();
+                        bw.write("------------------------------------------------------------------");
+                        bw.newLine();
+                    }
+
+                    bw.close();
+
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
+    }
+
+
+    //EJERCICIO 6
     public static void notasdispares() {
 
         String nombre = "";

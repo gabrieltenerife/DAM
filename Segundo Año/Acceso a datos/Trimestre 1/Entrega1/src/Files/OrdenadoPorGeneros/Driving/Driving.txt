@@ -1,0 +1,16 @@
+Game: Wreckfest
+Platform: PC
+Developer: Bugbear
+Genre: Driving
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jun 14, 2018
+Positive Critics: 27
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 4
+Negative Users: 1
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
