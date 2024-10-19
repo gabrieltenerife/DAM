@@ -1,0 +1,3040 @@
+Game: Batman: Arkham City
+Platform: PC
+Developer: Rocksteady Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Nov 21, 2011
+Positive Critics: 27
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 240
+Neutral Users: 34
+Negative Users: 27
+Metascore: 91
+Users Score: 87
+------------------------------------------------------------------
+Game: 'Assassin''s Creed: Brotherhood'
+Platform: PC
+Developer: Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 22, 2011
+Positive Critics: 24
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 107
+Neutral Users: 34
+Negative Users: 13
+Metascore: 88
+Users Score: 82
+------------------------------------------------------------------
+Game: Saints Row: The Third
+Platform: PC
+Developer: Volition Inc.
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Nov 14, 2011
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 219
+Neutral Users: 63
+Negative Users: 24
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: L.A. Noire: The Complete Edition
+Platform: PC
+Developer: Rockstar Leeds
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov  8, 2011
+Positive Critics: 23
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 114
+Neutral Users: 54
+Negative Users: 30
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Dead Island
+Platform: PC
+Developer: Techland
+Genre: Action Adventure
+Number of Players: 4  Online
+Rating: M
+Release Date: Sep  5, 2011
+Positive Critics: 18
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 197
+Neutral Users: 97
+Negative Users: 82
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: 'Assassin''s Creed: Revelations'
+Platform: PC
+Developer: Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 29, 2011
+Positive Critics: 15
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 62
+Neutral Users: 53
+Negative Users: 26
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Dishonored
+Platform: PC
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  8, 2012
+Positive Critics: 29
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 470
+Neutral Users: 129
+Negative Users: 53
+Metascore: 91
+Users Score: 84
+------------------------------------------------------------------
+Game: Rayman Origins
+Platform: VITA
+Developer: UBlart Montpellier
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Feb 15, 2012
+Positive Critics: 54
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 2
+Negative Users: 1
+Metascore: 88
+Users Score: 84
+------------------------------------------------------------------
+Game: 'Assassin''s Creed III'
+Platform: WIIU
+Developer: Ubisoft Quebec
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: M
+Release Date: Nov 18, 2012
+Positive Critics: 25
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 10
+Negative Users: 2
+Metascore: 85
+Users Score: 72
+------------------------------------------------------------------
+Game: Batman: Arkham City - Armored Edition
+Platform: WIIU
+Developer: Rocksteady Studios, WB Games Montreal
+Genre: Action Adventure
+Number of Players: 1 Player
+Rating: T
+Release Date: Nov 18, 2012
+Positive Critics: 33
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 5
+Negative Users: 0
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Kid Icarus: Uprising
+Platform: 3DS
+Developer: Opus, Project Sora
+Genre: Action Adventure
+Number of Players: Up to 6 
+Rating: E10+
+Release Date: Mar 23, 2012
+Positive Critics: 66
+Neutral Critics: 8
+Negative Critics: 1
+Positive Users: 170
+Neutral Users: 7
+Negative Users: 4
+Metascore: 83
+Users Score: 88
+------------------------------------------------------------------
+Game: 'Oddworld: Stranger''s Wrath HD'
+Platform: VITA
+Developer: Just Add Water
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Dec 18, 2012
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Alan Wake
+Platform: PC
+Developer: Remedy Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Feb 16, 2012
+Positive Critics: 27
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 186
+Neutral Users: 69
+Negative Users: 41
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Resident Evil: Revelations
+Platform: 3DS
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Feb  7, 2012
+Positive Critics: 68
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 98
+Neutral Users: 13
+Negative Users: 2
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Darksiders II
+Platform: PC
+Developer: Vigil Games
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 13, 2012
+Positive Critics: 21
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 93
+Neutral Users: 30
+Negative Users: 21
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Lone Survivor
+Platform: PC
+Developer: superflat games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 23, 2012
+Positive Critics: 20
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 5
+Negative Users: 10
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Uncharted: Golden Abyss
+Platform: VITA
+Developer: Naughty Dog, Sony Bend
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Feb 15, 2012
+Positive Critics: 64
+Neutral Critics: 16
+Negative Critics: 0
+Positive Users: 119
+Neutral Users: 28
+Negative Users: 7
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: 'Assassin''s Creed III'
+Platform: PC
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 20, 2012
+Positive Critics: 18
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 127
+Neutral Users: 124
+Negative Users: 141
+Metascore: 80
+Users Score: 63
+------------------------------------------------------------------
+Game: The Legend of Zelda: The Wind Waker HD
+Platform: WIIU
+Developer: Nintendo, HexaDrive
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 20, 2013
+Positive Critics: 70
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 176
+Neutral Users: 5
+Negative Users: 5
+Metascore: 90
+Users Score: 89
+------------------------------------------------------------------
+Game: Brothers: A Tale of Two Sons
+Platform: PC
+Developer: Starbreeze
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  3, 2013
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 205
+Neutral Users: 30
+Negative Users: 17
+Metascore: 90
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Deus Ex: Human Revolution - Director''s Cut'
+Platform: WIIU
+Developer: Eidos Montreal, Straight Right
+Genre: Action Adventure
+Number of Players: 1 Player
+Rating: M
+Release Date: Oct 22, 2013
+Positive Critics: 30
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 2
+Metascore: 88
+Users Score: 85
+------------------------------------------------------------------
+Game: Saints Row IV
+Platform: PC
+Developer: Volition Inc.
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 19, 2013
+Positive Critics: 42
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 195
+Neutral Users: 82
+Negative Users: 64
+Metascore: 86
+Users Score: 74
+------------------------------------------------------------------
+Game: Tomb Raider
+Platform: PC
+Developer: Crystal Dynamics, Nixxes Software
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar  4, 2013
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 547
+Neutral Users: 123
+Negative Users: 63
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Luigi''s Mansion: Dark Moon'
+Platform: 3DS
+Developer: Next Level Games
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: E
+Release Date: Mar 24, 2013
+Positive Critics: 67
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 98
+Neutral Users: 17
+Negative Users: 2
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: The Wolf Among Us: Episode 1 - Faith
+Platform: PC
+Developer: Telltale Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 11, 2013
+Positive Critics: 43
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 96
+Neutral Users: 6
+Negative Users: 5
+Metascore: 85
+Users Score: 89
+------------------------------------------------------------------
+Game: 'Assassin''s Creed IV: Black Flag'
+Platform: PC
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 19, 2013
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 200
+Neutral Users: 58
+Negative Users: 59
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: 'Assassin''s Creed IV: Black Flag'
+Platform: PS4
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: M
+Release Date: Nov 12, 2013
+Positive Critics: 25
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 203
+Neutral Users: 65
+Negative Users: 24
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: LEGO Marvel Super Heroes
+Platform: PS4
+Developer: TT Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov 15, 2013
+Positive Critics: 19
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 9
+Negative Users: 5
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: LEGO Marvel Super Heroes
+Platform: WIIU
+Developer: TT Games
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Oct 22, 2013
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: 'Tom Clancy''s Splinter Cell: Blacklist'
+Platform: PC
+Developer: Ubisoft Toronto
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 20, 2013
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 79
+Neutral Users: 32
+Negative Users: 53
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: 'Lone Survivor: The Director''s Cut'
+Platform: VITA
+Developer: Curve Studios, superflat games
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Sep 24, 2013
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 0
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: Castlevania: Lords of Shadow Ultimate Edition
+Platform: PC
+Developer: Mercury Steam
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 27, 2013
+Positive Critics: 19
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 61
+Neutral Users: 19
+Negative Users: 21
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Dishonored: The Brigmore Witches
+Platform: PC
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 13, 2013
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 87
+------------------------------------------------------------------
+Game: Dishonored: The Knife of Dunwall
+Platform: PC
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Apr 16, 2013
+Positive Critics: 17
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 7
+Negative Users: 0
+Metascore: 80
+Users Score: 82
+------------------------------------------------------------------
+Game: LEGO City Undercover
+Platform: WIIU
+Developer: TT Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 18, 2013
+Positive Critics: 52
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 51
+Neutral Users: 4
+Negative Users: 2
+Metascore: 80
+Users Score: 83
+------------------------------------------------------------------
+Game: The Wolf Among Us
+Platform: PC
+Developer: Telltale Games
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 11, 2013
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 64
+Neutral Users: 14
+Negative Users: 2
+Metascore: 80
+Users Score: 88
+------------------------------------------------------------------
+Game: Resident Evil: Revelations
+Platform: WIIU
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: May 21, 2013
+Positive Critics: 14
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 3
+Negative Users: 4
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Grand Theft Auto V
+Platform: XONE
+Developer: Rockstar North
+Genre: Action Adventure
+Number of Players: Up to 30 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 114
+Neutral Users: 15
+Negative Users: 13
+Metascore: 97
+Users Score: 78
+------------------------------------------------------------------
+Game: Grand Theft Auto V
+Platform: PS4
+Developer: Rockstar North
+Genre: Action Adventure
+Number of Players: Up to 30 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 66
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 369
+Neutral Users: 71
+Negative Users: 69
+Metascore: 97
+Users Score: 83
+------------------------------------------------------------------
+Game: The Last of Us Remastered
+Platform: PS4
+Developer: Naughty Dog
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: M
+Release Date: Jul 29, 2014
+Positive Critics: 68
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 943
+Neutral Users: 53
+Negative Users: 35
+Metascore: 95
+Users Score: 91
+------------------------------------------------------------------
+Game: Bayonetta 2
+Platform: WIIU
+Developer: PlatinumGames
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 20, 2014
+Positive Critics: 78
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 186
+Neutral Users: 5
+Negative Users: 7
+Metascore: 91
+Users Score: 89
+------------------------------------------------------------------
+Game: Minecraft: PlayStation 4 Edition
+Platform: PS4
+Developer: 4J Studios, Mojang AB
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Sep  3, 2014
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 12
+Negative Users: 8
+Metascore: 89
+Users Score: 65
+------------------------------------------------------------------
+Game: Minecraft: Xbox One Edition
+Platform: XONE
+Developer: 4J Studios, Mojang AB
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Nov 18, 2014
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 9
+Negative Users: 9
+Metascore: 88
+Users Score: 67
+------------------------------------------------------------------
+Game: Minecraft: PlayStation Vita Edition
+Platform: VITA
+Developer: 4J Studios, Mojang AB
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Oct 14, 2014
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 75
+------------------------------------------------------------------
+Game: Retro City Rampage DX
+Platform: 3DS
+Developer: Vblank Entertainment Inc.
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Feb  6, 2014
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: Alien: Isolation
+Platform: PC
+Developer: Creative Assembly
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  6, 2014
+Positive Critics: 32
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 328
+Neutral Users: 53
+Negative Users: 37
+Metascore: 81
+Users Score: 84
+------------------------------------------------------------------
+Game: Metal Gear Solid V: Ground Zeroes
+Platform: PC
+Developer: Kojima Productions
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Dec 18, 2014
+Positive Critics: 18
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 12
+Negative Users: 10
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Danganronpa: Trigger Happy Havoc
+Platform: VITA
+Developer: Spike Chunsoft
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 11, 2014
+Positive Critics: 48
+Neutral Critics: 6
+Negative Critics: 1
+Positive Users: 24
+Neutral Users: 7
+Negative Users: 1
+Metascore: 80
+Users Score: 87
+------------------------------------------------------------------
+Game: Metal Gear Solid V: The Phantom Pain
+Platform: PC
+Developer: Kojima Productions
+Genre: Action Adventure
+Number of Players: Up to 16 
+Rating: M
+Release Date: Sep  1, 2015
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 156
+Neutral Users: 72
+Negative Users: 50
+Metascore: 91
+Users Score: 78
+------------------------------------------------------------------
+Game: System Shock: Enhanced Edition
+Platform: PC
+Developer: Looking Glass Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 22, 2015
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Life is Strange
+Platform: PC
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 232
+Neutral Users: 22
+Negative Users: 24
+Metascore: 83
+Users Score: 87
+------------------------------------------------------------------
+Game: Life is Strange: Episode 5 - Polarized
+Platform: PC
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 12
+Negative Users: 9
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Resident Evil HD Remaster
+Platform: PC
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 20, 2015
+Positive Critics: 24
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 6
+Negative Users: 2
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Tearaway Unfolded
+Platform: PS4
+Developer: Media Molecule
+Genre: Action Adventure
+Number of Players: 
+Rating: E
+Release Date: Sep  8, 2015
+Positive Critics: 58
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 10
+Negative Users: 2
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: Life is Strange: Episode 3 - Chaos Theory
+Platform: PS4
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: May 19, 2015
+Positive Critics: 28
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: Life is Strange: Episode 5 - Polarized
+Platform: PS4
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 24
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 3
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Brothers: A Tale of Two Sons
+Platform: PS4
+Developer: Starbreeze
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Aug 11, 2015
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 3
+Negative Users: 0
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Life is Strange: Episode 4 - Dark Room
+Platform: PS4
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Jul 28, 2015
+Positive Critics: 28
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: God of War III Remastered
+Platform: PS4
+Developer: Wholesale Algorithms
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jul 14, 2015
+Positive Critics: 55
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 72
+Neutral Users: 15
+Negative Users: 5
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: LEGO Dimensions
+Platform: XONE
+Developer: 'Traveller''s Tales'
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Sep 27, 2015
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 70
+------------------------------------------------------------------
+Game: Life is Strange: Episode 5 - Polarized
+Platform: XONE
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 86
+------------------------------------------------------------------
+Game: Disney Infinity 3.0 Edition
+Platform: PS4
+Developer: Avalanche Software
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Aug 30, 2015
+Positive Critics: 45
+Neutral Critics: 7
+Negative Critics: 1
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 3
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: Life is Strange: Episode 3 - Chaos Theory
+Platform: XONE
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: May 19, 2015
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 87
+------------------------------------------------------------------
+Game: LEGO Dimensions
+Platform: PS4
+Developer: 'Traveller''s Tales'
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Sep 27, 2015
+Positive Critics: 45
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Dishonored: Definitive Edition
+Platform: PS4
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 25, 2015
+Positive Critics: 26
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 9
+Negative Users: 4
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Life is Strange: Episode 3 - Chaos Theory
+Platform: PC
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: May 19, 2015
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 89
+------------------------------------------------------------------
+Game: The Evil Within: The Assignment
+Platform: PS4
+Developer: Tango Gameworks
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 10, 2015
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 82
+------------------------------------------------------------------
+Game: Axiom Verge
+Platform: PC
+Developer: Tom Happ
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 14, 2015
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Axiom Verge
+Platform: WIIU
+Developer: Tom Happ
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Sep  1, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 1
+Metascore: 89
+Users Score: 86
+------------------------------------------------------------------
+Game: Dishonored 2
+Platform: XONE
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 10, 2016
+Positive Critics: 25
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 10
+Negative Users: 6
+Metascore: 88
+Users Score: 72
+------------------------------------------------------------------
+Game: Rise of the Tomb Raider: 20 Year Celebration
+Platform: PS4
+Developer: Crystal Dynamics, Nixxes Software
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Oct 11, 2016
+Positive Critics: 54
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 93
+Neutral Users: 28
+Negative Users: 12
+Metascore: 88
+Users Score: 81
+------------------------------------------------------------------
+Game: Dishonored 2
+Platform: PS4
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2016
+Positive Critics: 59
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 95
+Neutral Users: 25
+Negative Users: 15
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Rise of the Tomb Raider
+Platform: PC
+Developer: Crystal Dynamics, Nixxes Software
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 28, 2016
+Positive Critics: 44
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 125
+Neutral Users: 44
+Negative Users: 20
+Metascore: 86
+Users Score: 79
+------------------------------------------------------------------
+Game: Dishonored 2
+Platform: PC
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2016
+Positive Critics: 35
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 57
+Neutral Users: 24
+Negative Users: 40
+Metascore: 86
+Users Score: 68
+------------------------------------------------------------------
+Game: Dying Light: The Following
+Platform: XONE
+Developer: Techland
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Feb  9, 2016
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: The Legend of Zelda: Twilight Princess HD
+Platform: WIIU
+Developer: Tantalus, Tantatus, Nintendo
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar  4, 2016
+Positive Critics: 70
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 9
+Negative Users: 2
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: Deus Ex: Mankind Divided
+Platform: PS4
+Developer: Eidos Montreal
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 23, 2016
+Positive Critics: 53
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 39
+Negative Users: 23
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Hitman - Episode 2: Sapienza
+Platform: PC
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Apr 26, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 3
+Metascore: 84
+Users Score: 59
+------------------------------------------------------------------
+Game: Hitman - Episode 2: Sapienza
+Platform: PS4
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Apr 26, 2016
+Positive Critics: 33
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 3
+Metascore: 84
+Users Score: 69
+------------------------------------------------------------------
+Game: Deus Ex: Mankind Divided
+Platform: PC
+Developer: Eidos Montreal, Nixxes Software
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 23, 2016
+Positive Critics: 48
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 94
+Neutral Users: 58
+Negative Users: 74
+Metascore: 83
+Users Score: 66
+------------------------------------------------------------------
+Game: Dragon Quest Builders
+Platform: PS4
+Developer: Square Enix
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct 11, 2016
+Positive Critics: 72
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 4
+Negative Users: 4
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Deus Ex: Mankind Divided
+Platform: XONE
+Developer: Eidos Montreal
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 23, 2016
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 5
+Negative Users: 7
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: ABZU
+Platform: PC
+Developer: Giant Squid
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug  2, 2016
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 14
+Negative Users: 6
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: Severed
+Platform: WIIU
+Developer: DrinkBox Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Sep 22, 2016
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Watch Dogs 2
+Platform: PS4
+Developer: Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 15, 2016
+Positive Critics: 89
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 149
+Neutral Users: 46
+Negative Users: 15
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Resident Evil 4
+Platform: PS4
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 30, 2016
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 6
+Negative Users: 7
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: Hitman - Episode 6: Hokkaido
+Platform: PS4
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Oct 31, 2016
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 67
+------------------------------------------------------------------
+Game: Watch Dogs 2
+Platform: XONE
+Developer: Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 15, 2016
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 6
+Negative Users: 4
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Darksiders: Warmastered Edition
+Platform: PS4
+Developer: Nordic Games Publishing, Kaiko
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 22, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 4
+Negative Users: 0
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Darksiders: Warmastered Edition
+Platform: XONE
+Developer: Nordic Games Publishing
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Nov 22, 2016
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Oxenfree
+Platform: PC
+Developer: Night School Studio
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 14, 2016
+Positive Critics: 41
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 15
+Negative Users: 4
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Ghost 1.0
+Platform: PC
+Developer: @unepic_fran
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun  7, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: The Legend of Zelda: Breath of the Wild
+Platform: Switch
+Developer: Nintendo
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar  3, 2017
+Positive Critics: 106
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2762
+Neutral Users: 241
+Negative Users: 135
+Metascore: 97
+Users Score: 85
+------------------------------------------------------------------
+Game: Okami HD
+Platform: PC
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec 12, 2017
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 2
+Negative Users: 5
+Metascore: 92
+Users Score: 77
+------------------------------------------------------------------
+Game: Bayonetta
+Platform: PC
+Developer: PlatinumGames, Nex Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 11, 2017
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 44
+Neutral Users: 6
+Negative Users: 6
+Metascore: 90
+Users Score: 82
+------------------------------------------------------------------
+Game: Lone Echo
+Platform: PC
+Developer: Ready at Dawn
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Jul 20, 2017
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 2
+Metascore: 89
+Users Score: 77
+------------------------------------------------------------------
+Game: Okami HD
+Platform: PS4
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Dec 12, 2017
+Positive Critics: 38
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 0
+Metascore: 87
+Users Score: 80
+------------------------------------------------------------------
+Game: Hollow Knight
+Platform: PC
+Developer: Team Cherry
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 24, 2017
+Positive Critics: 26
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 111
+Neutral Users: 9
+Negative Users: 8
+Metascore: 87
+Users Score: 90
+------------------------------------------------------------------
+Game: Axiom Verge
+Platform: Switch
+Developer: Tom Happ
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  5, 2017
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 5
+Negative Users: 1
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: Okami HD
+Platform: XONE
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Dec 12, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 82
+------------------------------------------------------------------
+Game: Minecraft: Switch Edition
+Platform: Switch
+Developer: 4J Studios
+Genre: Action Adventure
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: May 11, 2017
+Positive Critics: 23
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 3
+Negative Users: 4
+Metascore: 86
+Users Score: 73
+------------------------------------------------------------------
+Game: Resident Evil 7: biohazard
+Platform: XONE
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 24, 2017
+Positive Critics: 19
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 6
+Negative Users: 6
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Resident Evil 7: biohazard
+Platform: PS4
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 24, 2017
+Positive Critics: 96
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 376
+Neutral Users: 51
+Negative Users: 100
+Metascore: 86
+Users Score: 79
+------------------------------------------------------------------
+Game: Metroid: Samus Returns
+Platform: 3DS
+Developer: Mercury Steam
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 15, 2017
+Positive Critics: 77
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 110
+Neutral Users: 14
+Negative Users: 6
+Metascore: 85
+Users Score: 89
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Origins'
+Platform: XONE
+Developer: Ubisoft, Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 37
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 103
+Neutral Users: 11
+Negative Users: 11
+Metascore: 85
+Users Score: 75
+------------------------------------------------------------------
+Game: Yakuza 0
+Platform: PS4
+Developer: Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 24, 2017
+Positive Critics: 77
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 119
+Neutral Users: 4
+Negative Users: 8
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Dishonored: Death of the Outsider
+Platform: XONE
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Sep 15, 2017
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 67
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Origins'
+Platform: PC
+Developer: Ubisoft, Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 26
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 162
+Neutral Users: 44
+Negative Users: 76
+Metascore: 84
+Users Score: 68
+------------------------------------------------------------------
+Game: 'Hellblade: Senua''s Sacrifice'
+Platform: PC
+Developer: Ninja Theory
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug  7, 2017
+Positive Critics: 21
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 91
+Neutral Users: 20
+Negative Users: 21
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Little Nightmares
+Platform: XONE
+Developer: Tarsier Studios
+Genre: Action Adventure
+Number of Players: 
+Rating: T
+Release Date: Apr 28, 2017
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 4
+Negative Users: 2
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Resident Evil 7: biohazard
+Platform: PC
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 23, 2017
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 94
+Neutral Users: 20
+Negative Users: 32
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: SOMA
+Platform: XONE
+Developer: Frictional Games
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Dec  1, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: The Evil Within 2
+Platform: XONE
+Developer: Tango Gameworks
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 13, 2017
+Positive Critics: 21
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 2
+Negative Users: 2
+Metascore: 82
+Users Score: 91
+------------------------------------------------------------------
+Game: Slime-san
+Platform: Switch
+Developer: Fabraz
+Genre: Action Adventure
+Number of Players: 
+Rating: E
+Release Date: Jun  8, 2017
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Dishonored: Death of the Outsider
+Platform: PS4
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 15, 2017
+Positive Critics: 45
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 6
+Negative Users: 4
+Metascore: 82
+Users Score: 70
+------------------------------------------------------------------
+Game: Oxenfree
+Platform: Switch
+Developer: Night School Studio
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct  6, 2017
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 10
+Negative Users: 4
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Deus Ex: Mankind Divided - A Criminal Past
+Platform: PS4
+Developer: Eidos Montreal
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Feb 23, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 1
+Metascore: 81
+Users Score: 63
+------------------------------------------------------------------
+Game: Life is Strange: Before the Storm - Episode 3: Hell is Empty
+Platform: XONE
+Developer: Deck Nine Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Dec 20, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Middle-earth: Shadow of War
+Platform: XONE
+Developer: Monolith Productions
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 10, 2017
+Positive Critics: 30
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 3
+Negative Users: 38
+Metascore: 81
+Users Score: 37
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Origins'
+Platform: PS4
+Developer: Ubisoft, Ubisoft Montreal
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 53
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 267
+Neutral Users: 73
+Negative Users: 101
+Metascore: 81
+Users Score: 72
+------------------------------------------------------------------
+Game: Dishonored: Death of the Outsider
+Platform: PC
+Developer: Arkane Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 14, 2017
+Positive Critics: 20
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 5
+Negative Users: 6
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: 'The Legend of Zelda: Breath of the Wild - The Champions'' Ballad'
+Platform: Switch
+Developer: Nintendo
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Dec  7, 2017
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 9
+Negative Users: 3
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: The Evil Within 2
+Platform: PC
+Developer: Tango Gameworks
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 12, 2017
+Positive Critics: 23
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 56
+Neutral Users: 15
+Negative Users: 7
+Metascore: 80
+Users Score: 89
+------------------------------------------------------------------
+Game: Yakuza Kiwami
+Platform: PS4
+Developer: Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 29, 2017
+Positive Critics: 59
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 5
+Negative Users: 5
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: Darkwood
+Platform: PC
+Developer: Acid Wizard Studio
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jul 17, 2017
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: 'Wonder Boy: The Dragon''s Trap'
+Platform: XONE
+Developer: Lizardcube
+Genre: Action Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Apr 18, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Blossom Tales: The Sleeping King
+Platform: Switch
+Developer: Castle Pixel, LLC.
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 21, 2017
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 6
+Negative Users: 1
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Life is Strange: Before the Storm - Episode 1: Awake
+Platform: PC
+Developer: Deck Nine Games
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 31, 2017
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 3
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: EVERYTHING
+Platform: PS4
+Developer: David OReilly
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 21, 2017
+Positive Critics: 17
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Middle-earth: Shadow of War
+Platform: PS4
+Developer: Monolith Productions
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 10, 2017
+Positive Critics: 53
+Neutral Critics: 16
+Negative Critics: 0
+Positive Users: 114
+Neutral Users: 51
+Negative Users: 186
+Metascore: 80
+Users Score: 39
+------------------------------------------------------------------
+Game: Red Dead Redemption 2
+Platform: XONE
+Developer: Rockstar Games
+Genre: Action Adventure
+Number of Players: Up to 32 
+Rating: M
+Release Date: Oct 26, 2018
+Positive Critics: 33
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 346
+Neutral Users: 62
+Negative Users: 85
+Metascore: 97
+Users Score: 74
+------------------------------------------------------------------
+Game: Red Dead Redemption 2
+Platform: PS4
+Developer: Rockstar Games
+Genre: Action Adventure
+Number of Players: Up to 32 
+Rating: M
+Release Date: Oct 26, 2018
+Positive Critics: 97
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1462
+Neutral Users: 279
+Negative Users: 331
+Metascore: 97
+Users Score: 79
+------------------------------------------------------------------
+Game: God of War
+Platform: PS4
+Developer: SCE Santa Monica
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 20, 2018
+Positive Critics: 118
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2488
+Neutral Users: 109
+Negative Users: 109
+Metascore: 94
+Users Score: 91
+------------------------------------------------------------------
+Game: Bayonetta 2
+Platform: Switch
+Developer: Nintendo
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 16, 2018
+Positive Critics: 31
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 2
+Negative Users: 0
+Metascore: 92
+Users Score: 84
+------------------------------------------------------------------
+Game: Shadow of the Colossus
+Platform: PS4
+Developer: Bluepoint Games, SCE Japan Studio
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  6, 2018
+Positive Critics: 97
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 132
+Neutral Users: 41
+Negative Users: 39
+Metascore: 91
+Users Score: 78
+------------------------------------------------------------------
+Game: Hollow Knight
+Platform: Switch
+Developer: Team Cherry
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 12, 2018
+Positive Critics: 27
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 124
+Neutral Users: 8
+Negative Users: 18
+Metascore: 90
+Users Score: 88
+------------------------------------------------------------------
+Game: Astro Bot: Rescue Mission
+Platform: PS4
+Developer: JapanStudio
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  2, 2018
+Positive Critics: 50
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 105
+Neutral Users: 1
+Negative Users: 3
+Metascore: 90
+Users Score: 88
+------------------------------------------------------------------
+Game: Okami HD
+Platform: Switch
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  9, 2018
+Positive Critics: 31
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 0
+Metascore: 89
+Users Score: 86
+------------------------------------------------------------------
+Game: Owlboy
+Platform: PS4
+Developer: BlitWorks
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr 10, 2018
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 2
+Metascore: 88
+Users Score: 66
+------------------------------------------------------------------
+Game: 'Hellblade: Senua''s Sacrifice'
+Platform: XONE
+Developer: Ninja Theory
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 11, 2018
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 7
+Negative Users: 3
+Metascore: 88
+Users Score: 73
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Odyssey'
+Platform: XONE
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  2, 2018
+Positive Critics: 34
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 58
+Neutral Users: 12
+Negative Users: 17
+Metascore: 87
+Users Score: 56
+------------------------------------------------------------------
+Game: 'Marvel''s Spider-Man'
+Platform: PS4
+Developer: Insomniac Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  7, 2018
+Positive Critics: 110
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 795
+Neutral Users: 66
+Negative Users: 44
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Monster Boy and the Cursed Kingdom
+Platform: Switch
+Developer: FDG Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec  4, 2018
+Positive Critics: 18
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 1
+Metascore: 87
+Users Score: 82
+------------------------------------------------------------------
+Game: Monster Boy and the Cursed Kingdom
+Platform: PS4
+Developer: FDG Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec  4, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 87
+Users Score: 78
+------------------------------------------------------------------
+Game: Owlboy
+Platform: Switch
+Developer: BlitWorks
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 13, 2018
+Positive Critics: 25
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 11
+Negative Users: 6
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: Iconoclasts
+Platform: PC
+Developer: Joakim Sandberg, Konjak
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 23, 2018
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 4
+Negative Users: 1
+Metascore: 87
+Users Score: 76
+------------------------------------------------------------------
+Game: Iconoclasts
+Platform: Switch
+Developer: MP2 Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  2, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 3
+Negative Users: 1
+Metascore: 87
+Users Score: 79
+------------------------------------------------------------------
+Game: Katamari Damacy REROLL
+Platform: Switch
+Developer: Bandai Namco Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec  7, 2018
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 1
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: Yakuza 0
+Platform: PC
+Developer: Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: Up to 4 
+Rating: M
+Release Date: Aug  1, 2018
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 1
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Odyssey'
+Platform: PC
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  2, 2018
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 127
+Neutral Users: 27
+Negative Users: 104
+Metascore: 86
+Users Score: 56
+------------------------------------------------------------------
+Game: Night in the Woods
+Platform: Switch
+Developer: Infinite Fall
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  1, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 4
+Negative Users: 2
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Yakuza Kiwami 2
+Platform: PS4
+Developer: Sega, Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 28, 2018
+Positive Critics: 64
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: Moss
+Platform: PS4
+Developer: Polyarc
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 27, 2018
+Positive Critics: 59
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 4
+Negative Users: 0
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: Monster Boy and the Cursed Kingdom
+Platform: XONE
+Developer: FDG Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec  4, 2018
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: 428: Shibuya Scramble
+Platform: PS4
+Developer: Spike Chunsoft
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 17
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 73
+------------------------------------------------------------------
+Game: Bayonetta
+Platform: Switch
+Developer: Nintendo
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 16, 2018
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 5
+Negative Users: 0
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Frostpunk
+Platform: PC
+Developer: 11 bit studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 24, 2018
+Positive Critics: 62
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 9
+Negative Users: 9
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Hitman 2
+Platform: XONE
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Nov  9, 2018
+Positive Critics: 25
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 4
+Metascore: 84
+Users Score: 70
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Origins: The Curse of the Pharaohs'
+Platform: PS4
+Developer: Ubisoft Sofia
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 13, 2018
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: Yakuza 6: The Song of Life
+Platform: PS4
+Developer: Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 17, 2018
+Positive Critics: 82
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 7
+Negative Users: 1
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Owlboy
+Platform: XONE
+Developer: BlitWorks
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr 10, 2018
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 61
+------------------------------------------------------------------
+Game: Iconoclasts
+Platform: PS4
+Developer: Joakim Sandberg, Konjak
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 23, 2018
+Positive Critics: 20
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 2
+Metascore: 83
+Users Score: 66
+------------------------------------------------------------------
+Game: 'Assassin''s Creed Odyssey'
+Platform: PS4
+Developer: Ubisoft
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  2, 2018
+Positive Critics: 73
+Neutral Critics: 13
+Negative Critics: 0
+Positive Users: 194
+Neutral Users: 59
+Negative Users: 126
+Metascore: 83
+Users Score: 59
+------------------------------------------------------------------
+Game: Hitman 2
+Platform: PC
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Nov 13, 2018
+Positive Critics: 21
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 9
+Negative Users: 7
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Shadow of the Tomb Raider
+Platform: XONE
+Developer: Eidos Montreal
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Sep 12, 2018
+Positive Critics: 51
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 17
+Negative Users: 8
+Metascore: 82
+Users Score: 72
+------------------------------------------------------------------
+Game: Hitman 2
+Platform: PS4
+Developer: Io Interactive
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Nov  9, 2018
+Positive Critics: 65
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 4
+Negative Users: 5
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: Bloodstained: Curse of the Moon
+Platform: Switch
+Developer: Inti Creates
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 24, 2018
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 3
+Negative Users: 0
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: Dragon Quest Builders
+Platform: Switch
+Developer: Square Enix
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb  9, 2018
+Positive Critics: 43
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 3
+Negative Users: 0
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Slime-san: Superslime Edition
+Platform: PS4
+Developer: Fabraz
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 26, 2018
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 66
+------------------------------------------------------------------
+Game: Katamari Damacy REROLL
+Platform: PC
+Developer: MONKEYCRAFT Co. Ltd.
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec  6, 2018
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Life is Strange 2: Episode 1 - Roads
+Platform: PS4
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 27, 2018
+Positive Critics: 32
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 3
+Negative Users: 10
+Metascore: 81
+Users Score: 58
+------------------------------------------------------------------
+Game: Aragami: Shadow Edition
+Platform: XONE
+Developer: Lince Works
+Genre: Action Adventure
+Number of Players: 2
+Rating: M
+Release Date: Jun  5, 2018
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 54
+------------------------------------------------------------------
+Game: Youropa
+Platform: PC
+Developer: frecle ApS
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun 27, 2018
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Life is Strange: Before the Storm - Farewell
+Platform: PS4
+Developer: Deck Nine Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar  5, 2018
+Positive Critics: 9
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Life is Strange 2: Episode 1 - Roads
+Platform: PC
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 27, 2018
+Positive Critics: 18
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 16
+Metascore: 80
+Users Score: 54
+------------------------------------------------------------------
+Game: Life is Strange 2: Episode 1 - Roads
+Platform: XONE
+Developer: DONTNOD Entertainment
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 27, 2018
+Positive Critics: 9
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 4
+Metascore: 80
+Users Score: 51
+------------------------------------------------------------------
+Game: Resident Evil 2
+Platform: XONE
+Developer: Capcom R&D Division 1
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 25, 2019
+Positive Critics: 25
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 62
+Neutral Users: 3
+Negative Users: 1
+Metascore: 93
+Users Score: 84
+------------------------------------------------------------------
+Game: Sekiro: Shadows Die Twice
+Platform: PC
+Developer: From Software
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 22, 2019
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 80
+Neutral Users: 26
+Negative Users: 27
+Metascore: 92
+Users Score: 79
+------------------------------------------------------------------
+Game: Sekiro: Shadows Die Twice
+Platform: XONE
+Developer: From Software
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 22, 2019
+Positive Critics: 20
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 2
+Negative Users: 5
+Metascore: 91
+Users Score: 85
+------------------------------------------------------------------
+Game: Resident Evil 2
+Platform: PS4
+Developer: Capcom R&D Division 1
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 25, 2019
+Positive Critics: 82
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 315
+Neutral Users: 20
+Negative Users: 18
+Metascore: 90
+Users Score: 87
+------------------------------------------------------------------
+Game: Devil May Cry 5
+Platform: PC
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: Online Multiplayer
+Rating: M
+Release Date: Mar  7, 2019
+Positive Critics: 19
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 10
+Negative Users: 6
+Metascore: 90
+Users Score: 89
+------------------------------------------------------------------
+Game: Sekiro: Shadows Die Twice
+Platform: PS4
+Developer: From Software
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 22, 2019
+Positive Critics: 58
+Neutral Critics: 0
+Negative Critics: 1
+Positive Users: 169
+Neutral Users: 38
+Negative Users: 40
+Metascore: 90
+Users Score: 77
+------------------------------------------------------------------
+Game: Resident Evil 2
+Platform: PC
+Developer: Capcom R&D Division 1
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 25, 2019
+Positive Critics: 25
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 159
+Neutral Users: 6
+Negative Users: 8
+Metascore: 89
+Users Score: 90
+------------------------------------------------------------------
+Game: Devil May Cry 5
+Platform: PS4
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar  8, 2019
+Positive Critics: 38
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 111
+Neutral Users: 10
+Negative Users: 11
+Metascore: 87
+Users Score: 78
+------------------------------------------------------------------
+Game: Devil May Cry 5
+Platform: XONE
+Developer: Capcom
+Genre: Action Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar  8, 2019
+Positive Critics: 56
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 9
+Negative Users: 7
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: Sunless Skies
+Platform: PC
+Developer: Failbetter Games
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 31, 2019
+Positive Critics: 24
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 1
+Metascore: 86
+Users Score: 64
+------------------------------------------------------------------
+Game: Devotion
+Platform: PC
+Developer: Red Candle Game
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 19, 2019
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 1
+Metascore: 85
+Users Score: 73
+------------------------------------------------------------------
+Game: Baba Is You
+Platform: Switch
+Developer: Hempuli Oy, MP2 Games
+Genre: Action Adventure
+Number of Players: 
+Rating: 
+Release Date: Mar 13, 2019
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Catherine Classic
+Platform: PC
+Developer: Atlus
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 10, 2019
+Positive Critics: 12
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Yakuza Kiwami
+Platform: PC
+Developer: Ryu ga Gotoku Studios
+Genre: Action Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 19, 2019
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------

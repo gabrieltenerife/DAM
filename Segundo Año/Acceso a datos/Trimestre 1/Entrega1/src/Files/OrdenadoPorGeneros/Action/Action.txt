@@ -1,0 +1,7328 @@
+Game: Portal 2
+Platform: PC
+Developer: Valve Software
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr 18, 2011
+Positive Critics: 51
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1700
+Neutral Users: 107
+Negative Users: 19
+Metascore: 95
+Users Score: 90
+------------------------------------------------------------------
+Game: Super Mario 3D Land
+Platform: 3DS
+Developer: Nintendo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 13, 2011
+Positive Critics: 81
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 251
+Neutral Users: 39
+Negative Users: 11
+Metascore: 90
+Users Score: 84
+------------------------------------------------------------------
+Game: Deus Ex: Human Revolution
+Platform: PC
+Developer: Nixxes Software
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 23, 2011
+Positive Critics: 52
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 520
+Neutral Users: 112
+Negative Users: 78
+Metascore: 90
+Users Score: 85
+------------------------------------------------------------------
+Game: Battlefield 3
+Platform: PC
+Developer: EA DICE
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 25, 2011
+Positive Critics: 60
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1061
+Neutral Users: 191
+Negative Users: 271
+Metascore: 89
+Users Score: 76
+------------------------------------------------------------------
+Game: LIMBO
+Platform: PC
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  2, 2011
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 190
+Neutral Users: 63
+Negative Users: 25
+Metascore: 88
+Users Score: 81
+------------------------------------------------------------------
+Game: Dead Space 2
+Platform: PC
+Developer: Visceral Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Jan 25, 2011
+Positive Critics: 27
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 128
+Neutral Users: 31
+Negative Users: 12
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: Bastion
+Platform: PC
+Developer: Supergiant Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 16, 2011
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 302
+Neutral Users: 51
+Negative Users: 12
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: Crysis 2
+Platform: PC
+Developer: Crytek
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Mar 22, 2011
+Positive Critics: 39
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 202
+Neutral Users: 119
+Negative Users: 120
+Metascore: 86
+Users Score: 68
+------------------------------------------------------------------
+Game: Battlefield 3: Back to Karkand
+Platform: PC
+Developer: EA DICE
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Dec 13, 2011
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 8
+Negative Users: 6
+Metascore: 86
+Users Score: 72
+------------------------------------------------------------------
+Game: Super Street Fighter IV: 3D Edition
+Platform: 3DS
+Developer: Capcom
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Mar 27, 2011
+Positive Critics: 67
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 9
+Negative Users: 2
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: Super Street Fighter IV: Arcade Edition
+Platform: PC
+Developer: Capcom, QLOC
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jul  7, 2011
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 3
+Negative Users: 5
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: The Binding of Isaac
+Platform: PC
+Developer: Edmund McMillen, Florian Himsl
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 28, 2011
+Positive Critics: 28
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 194
+Neutral Users: 34
+Negative Users: 23
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Trine 2
+Platform: PC
+Developer: Frozenbyte, Inc.
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Dec  7, 2011
+Positive Critics: 51
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 84
+Neutral Users: 14
+Negative Users: 4
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Orcs Must Die!
+Platform: PC
+Developer: Robot Entertainment
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct 11, 2011
+Positive Critics: 22
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 93
+Neutral Users: 19
+Negative Users: 3
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Terraria
+Platform: PC
+Developer: Re-Logic
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: May 16, 2011
+Positive Critics: 25
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 495
+Neutral Users: 53
+Negative Users: 26
+Metascore: 83
+Users Score: 86
+------------------------------------------------------------------
+Game: VVVVVV
+Platform: 3DS
+Developer: Terry Cavanagh
+Genre: Action
+Number of Players: 1 Player
+Rating: E
+Release Date: Dec 29, 2011
+Positive Critics: 18
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 8
+Negative Users: 0
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Cave Story 3D
+Platform: 3DS
+Developer: Nicalis
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  8, 2011
+Positive Critics: 26
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: 'Skylanders: Spyro''s Adventure'
+Platform: 3DS
+Developer: Vicarious Visions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct 16, 2011
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 8
+Metascore: 82
+Users Score: 50
+------------------------------------------------------------------
+Game: Monday Night Combat
+Platform: PC
+Developer: Uber Entertainment
+Genre: Action
+Number of Players: 1 Player
+Rating: T
+Release Date: Jan 24, 2011
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 8
+Negative Users: 4
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Star Fox 64 3D
+Platform: 3DS
+Developer: Nintendo
+Genre: Action
+Number of Players: 4  Online
+Rating: E10+
+Release Date: Sep  9, 2011
+Positive Critics: 56
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 53
+Neutral Users: 17
+Negative Users: 3
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Rochard
+Platform: PC
+Developer: Recoil Games
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Nov 15, 2011
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 6
+Negative Users: 2
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Jamestown: Legend of the Lost Colony
+Platform: PC
+Developer: Final Form Games, LLC
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jun  8, 2011
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 9
+Negative Users: 2
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------
+Game: CAPSIZED
+Platform: PC
+Developer: Alientrap
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 29, 2011
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 10
+Negative Users: 5
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Mark of the Ninja
+Platform: PC
+Developer: Klei Entertainment
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 16, 2012
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 124
+Neutral Users: 12
+Negative Users: 13
+Metascore: 91
+Users Score: 80
+------------------------------------------------------------------
+Game: Borderlands 2
+Platform: PC
+Developer: Gearbox Software
+Genre: Action
+Number of Players: Up to 4 
+Rating: M
+Release Date: Sep 17, 2012
+Positive Critics: 37
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 400
+Neutral Users: 90
+Negative Users: 58
+Metascore: 89
+Users Score: 82
+------------------------------------------------------------------
+Game: Far Cry 3
+Platform: PC
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: Up to 4 
+Rating: M
+Release Date: Dec  4, 2012
+Positive Critics: 42
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 465
+Neutral Users: 116
+Negative Users: 87
+Metascore: 88
+Users Score: 83
+------------------------------------------------------------------
+Game: LittleBigPlanet PS Vita
+Platform: VITA
+Developer: Tarsier Studios, Double Eleven
+Genre: Action
+Number of Players: Up to 4 
+Rating: E
+Release Date: Sep 18, 2012
+Positive Critics: 70
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 60
+Neutral Users: 4
+Negative Users: 2
+Metascore: 88
+Users Score: 86
+------------------------------------------------------------------
+Game: Max Payne 3
+Platform: PC
+Developer: Rockstar Games, Rockstar Studios
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: May 31, 2012
+Positive Critics: 28
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 277
+Neutral Users: 109
+Negative Users: 135
+Metascore: 87
+Users Score: 77
+------------------------------------------------------------------
+Game: Battlefield 3: Armored Kill
+Platform: PC
+Developer: EA DICE
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Sep 11, 2012
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 2
+Metascore: 87
+Users Score: 71
+------------------------------------------------------------------
+Game: Black Mesa
+Platform: PC
+Developer: Black Mesa Modification Team
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Sep 14, 2012
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 98
+Neutral Users: 6
+Negative Users: 3
+Metascore: 86
+Users Score: 89
+------------------------------------------------------------------
+Game: Tribes: Ascend
+Platform: PC
+Developer: Hi-Rez Studios
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Apr 12, 2012
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 146
+Neutral Users: 13
+Negative Users: 23
+Metascore: 86
+Users Score: 78
+------------------------------------------------------------------
+Game: Rayman Origins
+Platform: PC
+Developer: UBlart Montpellier
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 29, 2012
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 4
+Negative Users: 5
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: Tales From Space: Mutant Blobs Attack
+Platform: VITA
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Feb 21, 2012
+Positive Critics: 30
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 3
+Negative Users: 0
+Metascore: 86
+Users Score: 83
+------------------------------------------------------------------
+Game: Hotline Miami
+Platform: PC
+Developer: Dennaton
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 23, 2012
+Positive Critics: 48
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 214
+Neutral Users: 32
+Negative Users: 18
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: Sine Mora
+Platform: VITA
+Developer: Digital Reality, Grasshopper Manufacture
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Nov 20, 2012
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 6
+Negative Users: 0
+Metascore: 85
+Users Score: 72
+------------------------------------------------------------------
+Game: Mortal Kombat
+Platform: VITA
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: May  1, 2012
+Positive Critics: 47
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 50
+Neutral Users: 6
+Negative Users: 2
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: Pinball FX 2
+Platform: PC
+Developer: Zen Studios
+Genre: Action
+Number of Players: 1-4 
+Rating: E
+Release Date: Oct 27, 2012
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 3
+Negative Users: 2
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Sound Shapes
+Platform: VITA
+Developer: SCEA
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Aug  7, 2012
+Positive Critics: 46
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 9
+Negative Users: 2
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: 'Trine 2: Director''s Cut'
+Platform: WIIU
+Developer: Frozenbyte, Inc.
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Nov 18, 2012
+Positive Critics: 22
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: New Super Mario Bros. U
+Platform: WIIU
+Developer: Nintendo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 18, 2012
+Positive Critics: 65
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 126
+Neutral Users: 39
+Negative Users: 11
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: Tekken Tag Tournament 2: Wii U Edition
+Platform: WIIU
+Developer: Namco Bandai Games
+Genre: Action
+Number of Players: Up to 4 
+Rating: T
+Release Date: Nov 18, 2012
+Positive Critics: 26
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 1
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Orcs Must Die! 2
+Platform: PC
+Developer: Robot Entertainment
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jul 30, 2012
+Positive Critics: 39
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 66
+Neutral Users: 24
+Negative Users: 3
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Gravity Rush
+Platform: VITA
+Developer: SCE Japan Studio
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jun 12, 2012
+Positive Critics: 62
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 134
+Neutral Users: 20
+Negative Users: 0
+Metascore: 83
+Users Score: 86
+------------------------------------------------------------------
+Game: Counter-Strike: Global Offensive
+Platform: PC
+Developer: Valve Software, Hidden Path Entertainment
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Aug 21, 2012
+Positive Critics: 34
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 406
+Neutral Users: 118
+Negative Users: 155
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: BlazBlue: Continuum Shift Extend
+Platform: VITA
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 6 
+Rating: T
+Release Date: Feb 14, 2012
+Positive Critics: 26
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 0
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: 'Borderlands 2: Mr. Torgue''s Campaign of Carnage'
+Platform: PC
+Developer: Gearbox Software
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Nov 20, 2012
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 4
+Negative Users: 0
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: The Walking Dead: Episode 1 - A New Day
+Platform: PC
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Apr 24, 2012
+Positive Critics: 33
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 116
+Neutral Users: 25
+Negative Users: 22
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops II
+Platform: WIIU
+Developer: Treyarch
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Nov 18, 2012
+Positive Critics: 26
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 34
+Neutral Users: 10
+Negative Users: 4
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: Vessel
+Platform: PC
+Developer: Strange Loop Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar  1, 2012
+Positive Critics: 22
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 8
+Negative Users: 0
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Mighty Switch Force! Hyper Drive Edition
+Platform: WIIU
+Developer: WayForward
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Nov 18, 2012
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 4
+Negative Users: 1
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Mutant Mudds
+Platform: 3DS
+Developer: Renegade Kid
+Genre: Action
+Number of Players: 1 Player
+Rating: E
+Release Date: Jan 26, 2012
+Positive Critics: 18
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 3
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------
+Game: La-Mulana (Remake)
+Platform: PC
+Developer: Nigoro
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jul 13, 2012
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 9
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Natural Selection 2
+Platform: PC
+Developer: Unknown Worlds Entertainment
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Oct 30, 2012
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 177
+Neutral Users: 27
+Negative Users: 12
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Borderlands 2: Captain Scarlett and Her Pirate''s Booty'
+Platform: PC
+Developer: Gearbox Software
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 16, 2012
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 4
+Negative Users: 2
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Skylanders Giants
+Platform: WIIU
+Developer: Vicarious Visions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Nov 18, 2012
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: Ultimate Marvel vs. Capcom 3
+Platform: VITA
+Developer: Capcom
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Feb 15, 2012
+Positive Critics: 41
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Stealth Bastard Deluxe
+Platform: PC
+Developer: Curve Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov 28, 2012
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: BioShock Infinite
+Platform: PC
+Developer: Irrational Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 25, 2013
+Positive Critics: 68
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1105
+Neutral Users: 297
+Negative Users: 147
+Metascore: 94
+Users Score: 86
+------------------------------------------------------------------
+Game: Rayman Legends
+Platform: WIIU
+Developer: Ubisoft Montpellier
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep  3, 2013
+Positive Critics: 34
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 4
+Negative Users: 0
+Metascore: 92
+Users Score: 88
+------------------------------------------------------------------
+Game: Fez
+Platform: PC
+Developer: Polytron Corp.
+Genre: Action
+Number of Players: 1 Player
+Rating: E
+Release Date: May  1, 2013
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 104
+Neutral Users: 36
+Negative Users: 31
+Metascore: 91
+Users Score: 67
+------------------------------------------------------------------
+Game: Spelunky
+Platform: PC
+Developer: Derek Yu
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  8, 2013
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 51
+Neutral Users: 7
+Negative Users: 23
+Metascore: 90
+Users Score: 72
+------------------------------------------------------------------
+Game: Skylanders Swap Force
+Platform: WIIU
+Developer: Vicarious Visions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct 13, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 1
+Metascore: 89
+Users Score: 60
+------------------------------------------------------------------
+Game: Rocksmith 2014 Edition
+Platform: PC
+Developer: Ubisoft
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct 22, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 5
+Negative Users: 8
+Metascore: 89
+Users Score: 79
+------------------------------------------------------------------
+Game: Spelunky
+Platform: VITA
+Developer: Mossmouth
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Aug 27, 2013
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 2
+Metascore: 88
+Users Score: 80
+------------------------------------------------------------------
+Game: The Stanley Parable
+Platform: PC
+Developer: Davey Wreden
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 17, 2013
+Positive Critics: 46
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 287
+Neutral Users: 66
+Negative Users: 90
+Metascore: 88
+Users Score: 80
+------------------------------------------------------------------
+Game: Guacamelee! Gold Edition
+Platform: PC
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  8, 2013
+Positive Critics: 21
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 12
+Negative Users: 4
+Metascore: 88
+Users Score: 73
+------------------------------------------------------------------
+Game: Guacamelee!
+Platform: VITA
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr  9, 2013
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 3
+Negative Users: 1
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: The Swapper
+Platform: PC
+Developer: Facepalm Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 30, 2013
+Positive Critics: 35
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 85
+Neutral Users: 15
+Negative Users: 0
+Metascore: 87
+Users Score: 86
+------------------------------------------------------------------
+Game: Rayman Legends
+Platform: VITA
+Developer: Ubisoft Montpellier
+Genre: Action
+Number of Players: 2
+Rating: E10+
+Release Date: Sep  3, 2013
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 5
+Negative Users: 4
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: Velocity Ultra
+Platform: VITA
+Developer: FuturLab
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jul  2, 2013
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 0
+Metascore: 87
+Users Score: 79
+------------------------------------------------------------------
+Game: Pac-Man Championship Edition DX +
+Platform: PC
+Developer: Namco Bandai Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Sep 24, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 3
+Negative Users: 5
+Metascore: 86
+Users Score: 75
+------------------------------------------------------------------
+Game: Battlefield 4
+Platform: PS4
+Developer: EA DICE
+Genre: Action
+Number of Players: Up to 64 
+Rating: M
+Release Date: Nov 12, 2013
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 191
+Neutral Users: 93
+Negative Users: 104
+Metascore: 85
+Users Score: 70
+------------------------------------------------------------------
+Game: Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien
+Platform: PC
+Developer: Gaijin Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 26, 2013
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 7
+Negative Users: 1
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Hotline Miami
+Platform: VITA
+Developer: Abstraction Games, Dennaton
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Jun 25, 2013
+Positive Critics: 26
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 3
+Negative Users: 0
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: DmC: Devil May Cry
+Platform: PC
+Developer: Ninja Theory, QLOC
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 24, 2013
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 203
+Neutral Users: 65
+Negative Users: 44
+Metascore: 85
+Users Score: 69
+------------------------------------------------------------------
+Game: Terraria
+Platform: VITA
+Developer: Engine Software
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: Dec 17, 2013
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 0
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: Mutant Mudds Deluxe
+Platform: WIIU
+Developer: Renegade Kid
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jun 13, 2013
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien
+Platform: WIIU
+Developer: Gaijin Games
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Feb 26, 2013
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Donkey Kong Country Returns 3D
+Platform: 3DS
+Developer: Monster Games Inc.
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: May 24, 2013
+Positive Critics: 55
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 2
+Negative Users: 5
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien
+Platform: VITA
+Developer: Gaijin Games
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec 17, 2013
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: Star Wars Pinball
+Platform: WIIU
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jul 11, 2013
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: Valdis Story: Abyssal City
+Platform: PC
+Developer: Endless Fluff
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Sep  8, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 8
+Negative Users: 4
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: The Pinball Arcade
+Platform: PS4
+Developer: Farsight Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 17, 2013
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 2
+Metascore: 82
+Users Score: 68
+------------------------------------------------------------------
+Game: Gunman Clive
+Platform: 3DS
+Developer: Horberg Productions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jan  3, 2013
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 5
+Negative Users: 0
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: SteamWorld Dig
+Platform: 3DS
+Developer: Image & Form
+Genre: Action
+Number of Players: 1 Player
+Rating: E10+
+Release Date: Aug  8, 2013
+Positive Critics: 26
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 0
+Negative Users: 1
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Metro: Last Light
+Platform: PC
+Developer: 4A Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 13, 2013
+Positive Critics: 60
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 364
+Neutral Users: 67
+Negative Users: 41
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: Rising Storm
+Platform: PC
+Developer: Antimatter Games
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: May 30, 2013
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 51
+Neutral Users: 5
+Negative Users: 5
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: ZEN Pinball 2
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Dec 24, 2013
+Positive Critics: 8
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 4
+Negative Users: 2
+Metascore: 82
+Users Score: 70
+------------------------------------------------------------------
+Game: Battlefield 4
+Platform: PC
+Developer: EA DICE
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 29, 2013
+Positive Critics: 42
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 339
+Neutral Users: 172
+Negative Users: 448
+Metascore: 81
+Users Score: 61
+------------------------------------------------------------------
+Game: War Thunder
+Platform: PC
+Developer: Gaijin Entertainment
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Aug 15, 2013
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 89
+Neutral Users: 40
+Negative Users: 122
+Metascore: 81
+Users Score: 65
+------------------------------------------------------------------
+Game: Far Cry 3: Blood Dragon
+Platform: PC
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: May  1, 2013
+Positive Critics: 26
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 119
+Neutral Users: 25
+Negative Users: 15
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Mortal Kombat Komplete Edition
+Platform: PC
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Jul  3, 2013
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 13
+Negative Users: 3
+Metascore: 81
+Users Score: 87
+------------------------------------------------------------------
+Game: Injustice: Gods Among Us - Ultimate Edition
+Platform: PS4
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Nov 12, 2013
+Positive Critics: 19
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 23
+Negative Users: 3
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Brutal Legend
+Platform: PC
+Developer: Double Fine Productions
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Feb 26, 2013
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 19
+Negative Users: 10
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst
+Platform: PC
+Developer: CyberConnect2
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Oct 24, 2013
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 1
+Negative Users: 7
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: Dead or Alive 5 Plus
+Platform: VITA
+Developer: Team Ninja
+Genre: Action
+Number of Players: 2
+Rating: M
+Release Date: Mar 19, 2013
+Positive Critics: 31
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Dungeons & Dragons: Chronicles of Mystara
+Platform: PC
+Developer: Iron Galaxy Studios
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jun 18, 2013
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 3
+Negative Users: 3
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------
+Game: The Walking Dead: Season Two - A Telltale Games Series
+Platform: PC
+Developer: Telltale Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Dec 17, 2013
+Positive Critics: 10
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 13
+Negative Users: 5
+Metascore: 80
+Users Score: 83
+------------------------------------------------------------------
+Game: Super Smash Bros. for Wii U
+Platform: WIIU
+Developer: Bandai Namco Games
+Genre: Action
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Nov 21, 2014
+Positive Critics: 76
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 410
+Neutral Users: 38
+Negative Users: 14
+Metascore: 92
+Users Score: 89
+------------------------------------------------------------------
+Game: Fez
+Platform: PS4
+Developer: Polytron Corp.
+Genre: Action
+Number of Players: 1 Player
+Rating: E
+Release Date: Mar 25, 2014
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 20
+Negative Users: 9
+Metascore: 90
+Users Score: 63
+------------------------------------------------------------------
+Game: Guacamelee! Super Turbo Championship Edition
+Platform: WIIU
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jul  2, 2014
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 1
+Negative Users: 0
+Metascore: 90
+Users Score: 77
+------------------------------------------------------------------
+Game: Guacamelee! Super Turbo Championship Edition
+Platform: XONE
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jul  2, 2014
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 3
+Negative Users: 3
+Metascore: 88
+Users Score: 70
+------------------------------------------------------------------
+Game: Guacamelee! Super Turbo Championship Edition
+Platform: PS4
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jul  1, 2014
+Positive Critics: 30
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 8
+Negative Users: 2
+Metascore: 87
+Users Score: 76
+------------------------------------------------------------------
+Game: TowerFall Ascension
+Platform: PC
+Developer: Matt Thorson
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 11, 2014
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 3
+Negative Users: 2
+Metascore: 87
+Users Score: 68
+------------------------------------------------------------------
+Game: TowerFall Ascension
+Platform: PS4
+Developer: Matt Thorson
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Mar 11, 2014
+Positive Critics: 30
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 54
+Neutral Users: 6
+Negative Users: 9
+Metascore: 87
+Users Score: 70
+------------------------------------------------------------------
+Game: Astebreed
+Platform: PC
+Developer: Edelweiss
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 30, 2014
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 2
+Negative Users: 2
+Metascore: 86
+Users Score: 73
+------------------------------------------------------------------
+Game: Velocity 2X
+Platform: PS4
+Developer: FuturLab
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep  2, 2014
+Positive Critics: 36
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 12
+Negative Users: 7
+Metascore: 86
+Users Score: 69
+------------------------------------------------------------------
+Game: Bayonetta
+Platform: WIIU
+Developer: Bee Tribe
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 24, 2014
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 2
+Negative Users: 1
+Metascore: 86
+Users Score: 88
+------------------------------------------------------------------
+Game: Resogun: Heroes
+Platform: PS4
+Developer: Housemarque
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jun 24, 2014
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 73
+------------------------------------------------------------------
+Game: Rogue Legacy
+Platform: VITA
+Developer: Cellar Door Games
+Genre: Action
+Number of Players: 1 Player
+Rating: E10+
+Release Date: Jul 29, 2014
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 3
+Negative Users: 2
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: BattleBlock Theater
+Platform: PC
+Developer: The Behemoth
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: May 15, 2014
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 4
+Negative Users: 1
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: Rogue Legacy
+Platform: PS4
+Developer: Cellar Door Games
+Genre: Action
+Number of Players: 1 Player
+Rating: E10+
+Release Date: Jul 29, 2014
+Positive Critics: 21
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 6
+Negative Users: 1
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Geometry Wars 3: Dimensions
+Platform: PS4
+Developer: Lucid Games
+Genre: Action
+Number of Players: Up to 8 
+Rating: E
+Release Date: Nov 25, 2014
+Positive Critics: 23
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 75
+------------------------------------------------------------------
+Game: Far Cry 4
+Platform: PS4
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: Up to 10 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 75
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 236
+Neutral Users: 106
+Negative Users: 28
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: 'Shantae and the Pirate''s Curse'
+Platform: WIIU
+Developer: WayForward
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec 25, 2014
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 88
+------------------------------------------------------------------
+Game: Guilty Gear Xrd -SIGN-
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec 16, 2014
+Positive Critics: 29
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: TxK
+Platform: VITA
+Developer: Llamasoft
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Feb 11, 2014
+Positive Critics: 35
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 1
+Metascore: 84
+Users Score: 72
+------------------------------------------------------------------
+Game: ZEN Pinball 2: South Park: Super-Sweet Pinball
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct 14, 2014
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 2
+Metascore: 84
+Users Score: 60
+------------------------------------------------------------------
+Game: Metro Redux
+Platform: PC
+Developer: 4A Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Aug 26, 2014
+Positive Critics: 28
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 5
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Child of Light
+Platform: WIIU
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr 29, 2014
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 5
+Negative Users: 0
+Metascore: 84
+Users Score: 85
+------------------------------------------------------------------
+Game: Metro Redux
+Platform: XONE
+Developer: 4A Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Aug 26, 2014
+Positive Critics: 17
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 3
+Negative Users: 5
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: This War of Mine
+Platform: PC
+Developer: 11 bit studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov 14, 2014
+Positive Critics: 57
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 106
+Neutral Users: 21
+Negative Users: 12
+Metascore: 83
+Users Score: 84
+------------------------------------------------------------------
+Game: Metro Redux
+Platform: PS4
+Developer: 4A Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 26, 2014
+Positive Critics: 27
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 53
+Neutral Users: 16
+Negative Users: 2
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: The Swapper
+Platform: PS4
+Developer: Facepalm Games
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Aug  5, 2014
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 8
+Negative Users: 2
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: Metal Gear Rising: Revengeance
+Platform: PC
+Developer: PlatinumGames
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan  9, 2014
+Positive Critics: 26
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 78
+Neutral Users: 23
+Negative Users: 18
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Call of Duty: Advanced Warfare
+Platform: PS4
+Developer: Sledgehammer Games
+Genre: Action
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  3, 2014
+Positive Critics: 35
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 166
+Neutral Users: 110
+Negative Users: 118
+Metascore: 83
+Users Score: 57
+------------------------------------------------------------------
+Game: Freedom Planet
+Platform: PC
+Developer: GalaxyTrail
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jul 21, 2014
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Luftrausers
+Platform: VITA
+Developer: Vlambeer
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar 18, 2014
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 7
+Negative Users: 0
+Metascore: 83
+Users Score: 74
+------------------------------------------------------------------
+Game: SteamWorld Dig
+Platform: WIIU
+Developer: Image & Form
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Aug 28, 2014
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 5
+Negative Users: 0
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Theatrhythm Final Fantasy: Curtain Call
+Platform: 3DS
+Developer: Indies Zero 
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Sep 16, 2014
+Positive Critics: 47
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 90
+------------------------------------------------------------------
+Game: Outland
+Platform: PC
+Developer: Housemarque, Knockout Games
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep 29, 2014
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 2
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: ZEN Pinball 2: The Walking Dead
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Aug 26, 2014
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 60
+------------------------------------------------------------------
+Game: Child of Light
+Platform: XONE
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr 30, 2014
+Positive Critics: 28
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 7
+Negative Users: 2
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: Geometry Wars 3: Dimensions
+Platform: XONE
+Developer: Lucid Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Nov 26, 2014
+Positive Critics: 25
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 3
+Negative Users: 1
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Stealth Inc 2: A Game of Clones
+Platform: WIIU
+Developer: Curve Digital
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Oct 30, 2014
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2015
+Platform: PS4
+Developer: Konami
+Genre: Action
+Number of Players: Up to 22 
+Rating: E
+Release Date: Nov 11, 2014
+Positive Critics: 50
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 58
+Neutral Users: 14
+Negative Users: 27
+Metascore: 82
+Users Score: 71
+------------------------------------------------------------------
+Game: Child of Light
+Platform: PS4
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr 29, 2014
+Positive Critics: 41
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 18
+Negative Users: 5
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Far Cry 4
+Platform: XONE
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: Up to 10 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 55
+Neutral Users: 25
+Negative Users: 7
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: SteamWorld Dig
+Platform: PS4
+Developer: Image & Form
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Mar 18, 2014
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 8
+Negative Users: 3
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Lethal League
+Platform: PC
+Developer: Reptile
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Aug 27, 2014
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 0
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: PixelJunk Shooter Ultimate
+Platform: PS4
+Developer: Double Eleven
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jun  3, 2014
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 7
+Negative Users: 5
+Metascore: 82
+Users Score: 72
+------------------------------------------------------------------
+Game: Kalimba
+Platform: XONE
+Developer: Press Play
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Dec 17, 2014
+Positive Critics: 22
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Call of Duty: Advanced Warfare
+Platform: XONE
+Developer: Sledgehammer Games
+Genre: Action
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  3, 2014
+Positive Critics: 45
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 118
+Neutral Users: 62
+Negative Users: 96
+Metascore: 81
+Users Score: 55
+------------------------------------------------------------------
+Game: Gunslugs
+Platform: VITA
+Developer: Abstraction Games
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Feb 18, 2014
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 2
+Metascore: 81
+Users Score: 72
+------------------------------------------------------------------
+Game: Captain Toad: Treasure Tracker
+Platform: WIIU
+Developer: Nintendo EAD Tokyo 
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec  5, 2014
+Positive Critics: 67
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 6
+Negative Users: 3
+Metascore: 81
+Users Score: 86
+------------------------------------------------------------------
+Game: Hatsune Miku: Project Diva f
+Platform: VITA
+Developer: Sega
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Mar  4, 2014
+Positive Critics: 7
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 1
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: Danganronpa 2: Goodbye Despair
+Platform: VITA
+Developer: Spike Chunsoft
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep  2, 2014
+Positive Critics: 44
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 88
+------------------------------------------------------------------
+Game: Hatsune Miku: Project Diva F 2nd
+Platform: VITA
+Developer: Sega
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Nov 18, 2014
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Stick it to the Man!
+Platform: WIIU
+Developer: Zoink!
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: May  1, 2014
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------
+Game: Super Time Force
+Platform: XONE
+Developer: Capy Games
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: May 14, 2014
+Positive Critics: 30
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 66
+------------------------------------------------------------------
+Game: Pix the Cat
+Platform: PS4
+Developer: Pasta Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Oct  7, 2014
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 7
+Negative Users: 4
+Metascore: 80
+Users Score: 60
+------------------------------------------------------------------
+Game: Game of Thrones: Episode One - Iron From Ice
+Platform: XONE
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Dec  3, 2014
+Positive Critics: 11
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Far Cry 4
+Platform: PC
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Nov 17, 2014
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 130
+Neutral Users: 78
+Negative Users: 66
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------
+Game: Super Time Force Ultra
+Platform: PC
+Developer: Capy Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 25, 2014
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 65
+------------------------------------------------------------------
+Game: Star Wars Pinball: Heroes Within
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Apr 29, 2014
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 52
+------------------------------------------------------------------
+Game: Journey
+Platform: PS4
+Developer: Tricky Pixels
+Genre: Action
+Number of Players: 2
+Rating: E
+Release Date: Jul 21, 2015
+Positive Critics: 44
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 118
+Neutral Users: 34
+Negative Users: 33
+Metascore: 92
+Users Score: 84
+------------------------------------------------------------------
+Game: Shovel Knight
+Platform: PS4
+Developer: Yacht Club Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Apr 21, 2015
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 4
+Negative Users: 6
+Metascore: 90
+Users Score: 77
+------------------------------------------------------------------
+Game: 3D Gunstar Heroes
+Platform: 3DS
+Developer: M2
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Aug 20, 2015
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 89
+Users Score: 79
+------------------------------------------------------------------
+Game: 3D Streets of Rage II
+Platform: 3DS
+Developer: M2
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jul 23, 2015
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 89
+Users Score: 75
+------------------------------------------------------------------
+Game: Destiny: The Taken King
+Platform: XONE
+Developer: Bungie Software, Bungie
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep 15, 2015
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 44
+Neutral Users: 15
+Negative Users: 40
+Metascore: 89
+Users Score: 52
+------------------------------------------------------------------
+Game: Super Mario Maker
+Platform: WIIU
+Developer: Nintendo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Sep 11, 2015
+Positive Critics: 81
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 164
+Neutral Users: 20
+Negative Users: 5
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: Ori and the Blind Forest
+Platform: XONE
+Developer: Moon Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 11, 2015
+Positive Critics: 69
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 114
+Neutral Users: 6
+Negative Users: 9
+Metascore: 88
+Users Score: 86
+------------------------------------------------------------------
+Game: Ori and the Blind Forest
+Platform: PC
+Developer: Moon Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 11, 2015
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 124
+Neutral Users: 14
+Negative Users: 3
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: 'Oddworld: Abe''s Oddysee - New ''n'' Tasty'
+Platform: PC
+Developer: Just Add Water
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 25, 2015
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 4
+Metascore: 87
+Users Score: 77
+------------------------------------------------------------------
+Game: Crypt of the NecroDancer
+Platform: PC
+Developer: Brace Yourself Games
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Apr 23, 2015
+Positive Critics: 43
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 4
+Negative Users: 0
+Metascore: 87
+Users Score: 77
+------------------------------------------------------------------
+Game: Skylanders SuperChargers
+Platform: WIIU
+Developer: Vicarious Visions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep 20, 2015
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 0
+Metascore: 87
+Users Score: 56
+------------------------------------------------------------------
+Game: 3D Sonic the Hedgehog 2
+Platform: 3DS
+Developer: M2
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Oct  8, 2015
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: NBA 2K16
+Platform: PS4
+Developer: Visual Concepts
+Genre: Action
+Number of Players: Up to 10 
+Rating: E10+
+Release Date: Sep 25, 2015
+Positive Critics: 47
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 32
+Negative Users: 37
+Metascore: 87
+Users Score: 67
+------------------------------------------------------------------
+Game: Shovel Knight
+Platform: XONE
+Developer: Yacht Club Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Apr 21, 2015
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 77
+------------------------------------------------------------------
+Game: NBA 2K16
+Platform: XONE
+Developer: Visual Concepts
+Genre: Action
+Number of Players: Up to 10 
+Rating: E10+
+Release Date: Sep 25, 2015
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 10
+Negative Users: 20
+Metascore: 86
+Users Score: 61
+------------------------------------------------------------------
+Game: Heroes of the Storm
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Action
+Number of Players: Up to 10 
+Rating: T
+Release Date: Jun  2, 2015
+Positive Critics: 54
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 147
+Neutral Users: 61
+Negative Users: 122
+Metascore: 86
+Users Score: 64
+------------------------------------------------------------------
+Game: Mortal Kombat X
+Platform: XONE
+Developer: Warner Bros. Interactive Entertainment, NetherRealm Studios
+Genre: Action
+Number of Players: Up to 10 
+Rating: M
+Release Date: Apr 14, 2015
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 64
+Neutral Users: 17
+Negative Users: 4
+Metascore: 86
+Users Score: 75
+------------------------------------------------------------------
+Game: The Binding of Isaac: Afterbirth
+Platform: PC
+Developer: Nicalis
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 30, 2015
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 3
+Negative Users: 1
+Metascore: 85
+Users Score: 82
+------------------------------------------------------------------
+Game: Resogun: Defenders
+Platform: PS4
+Developer: Housemarque
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Feb 17, 2015
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 71
+------------------------------------------------------------------
+Game: Zenzizenzic
+Platform: PC
+Developer: Ruud Koorevaar
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jul 23, 2015
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 85
+Users Score: 61
+------------------------------------------------------------------
+Game: Super Meat Boy
+Platform: PS4
+Developer: Team Meat
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Oct  6, 2015
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 2
+Negative Users: 8
+Metascore: 85
+Users Score: 70
+------------------------------------------------------------------
+Game: Freedom Planet
+Platform: WIIU
+Developer: GalaxyTrail
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 20, 2015
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 0
+Metascore: 84
+Users Score: 85
+------------------------------------------------------------------
+Game: ZEN Pinball 2: Portal Pinball
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: May 26, 2015
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 2
+Metascore: 83
+Users Score: 49
+------------------------------------------------------------------
+Game: SteamWorld Dig
+Platform: XONE
+Developer: Image & Form
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jun  5, 2015
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Castle Crashers Remastered
+Platform: XONE
+Developer: The Behemoth
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep  9, 2015
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 4
+Negative Users: 1
+Metascore: 83
+Users Score: 74
+------------------------------------------------------------------
+Game: Helldivers
+Platform: PC
+Developer: Arrowhead Game Studios
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec  7, 2015
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: Mortal Kombat X
+Platform: PS4
+Developer: Warner Bros. Interactive Entertainment, NetherRealm Studios
+Genre: Action
+Number of Players: Up to 10 
+Rating: M
+Release Date: Apr 14, 2015
+Positive Critics: 76
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 140
+Neutral Users: 29
+Negative Users: 14
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Gears of War: Ultimate Edition
+Platform: XONE
+Developer: Splash Damage, The Coalition
+Genre: Action
+Number of Players: Up to 8 
+Rating: M
+Release Date: Aug 25, 2015
+Positive Critics: 69
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 82
+Neutral Users: 18
+Negative Users: 12
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: Stealth Inc 2: A Game of Clones
+Platform: XONE
+Developer: Curve Digital
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Apr  3, 2015
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 69
+------------------------------------------------------------------
+Game: Runbow
+Platform: WIIU
+Developer: 13AM Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Aug 27, 2015
+Positive Critics: 27
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Skullgirls: 2nd Encore
+Platform: PS4
+Developer: Lab Zero Games
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Jul  7, 2015
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops III
+Platform: XONE
+Developer: Treyarch
+Genre: Action
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  6, 2015
+Positive Critics: 12
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 51
+Negative Users: 92
+Metascore: 81
+Users Score: 45
+------------------------------------------------------------------
+Game: Downwell
+Platform: PC
+Developer: Moppin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 15, 2015
+Positive Critics: 16
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 2
+Metascore: 81
+Users Score: 66
+------------------------------------------------------------------
+Game: Guitar Hero Live
+Platform: XONE
+Developer: FreeStyleGames
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Oct 20, 2015
+Positive Critics: 17
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 5
+Negative Users: 11
+Metascore: 81
+Users Score: 51
+------------------------------------------------------------------
+Game: Skylanders SuperChargers
+Platform: PS4
+Developer: Vicarious Visions
+Genre: Action
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Sep 20, 2015
+Positive Critics: 45
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 5
+Metascore: 81
+Users Score: 36
+------------------------------------------------------------------
+Game: Joe Danger 2: The Movie
+Platform: VITA
+Developer: Four Door Lemon
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jan 13, 2015
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 64
+------------------------------------------------------------------
+Game: SUPERBEAT: XONiC
+Platform: VITA
+Developer: Nurijoy
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Nov 10, 2015
+Positive Critics: 17
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 2
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops III
+Platform: PS4
+Developer: Treyarch
+Genre: Action
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  6, 2015
+Positive Critics: 73
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 208
+Neutral Users: 144
+Negative Users: 243
+Metascore: 81
+Users Score: 48
+------------------------------------------------------------------
+Game: 3D After Burner II
+Platform: 3DS
+Developer: M2
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jan 15, 2015
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: Lovers in a Dangerous Spacetime
+Platform: PC
+Developer: Asteroid Base
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep  9, 2015
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Westerado: Double Barreled
+Platform: PC
+Developer: Ostrich Banditos
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 16, 2015
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Volume
+Platform: PC
+Developer: Mike Bithell
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug 18, 2015
+Positive Critics: 29
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Game of Thrones: Episode Three - The Sword in the Darkness
+Platform: XONE
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Mar 25, 2015
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: BlazBlue: Chrono Phantasma Extend
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 64 
+Rating: T
+Release Date: Jun 30, 2015
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 1
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Dariusburst: Chronicle Saviours
+Platform: PC
+Developer: Pyramid
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec  3, 2015
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 86
+------------------------------------------------------------------
+Game: Dariusburst: Chronicle Saviours
+Platform: PS4
+Developer: Pyramid
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Dec  2, 2015
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Gunman Clive 2
+Platform: 3DS
+Developer: Horberg Productions
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jan 20, 2015
+Positive Critics: 15
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Game of Thrones: Episode Six - The Ice Dragon
+Platform: XONE
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Nov 17, 2015
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 4
+Negative Users: 1
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Guitar Hero Live
+Platform: PS4
+Developer: FreeStyleGames
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Oct 20, 2015
+Positive Critics: 54
+Neutral Critics: 15
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 14
+Negative Users: 14
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: Game of Thrones: Episode Four - Sons of Winter
+Platform: XONE
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: May 26, 2015
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: BADLAND: Game of the Year Edition
+Platform: WIIU
+Developer: Frogmind
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jul 30, 2015
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Ziggurat
+Platform: PS4
+Developer: Milkstone Studios
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Apr 21, 2015
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 3
+Negative Users: 0
+Metascore: 80
+Users Score: 70
+------------------------------------------------------------------
+Game: INSIDE
+Platform: XONE
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Jun 29, 2016
+Positive Critics: 87
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 7
+Negative Users: 4
+Metascore: 93
+Users Score: 83
+------------------------------------------------------------------
+Game: Overwatch
+Platform: XONE
+Developer: Blizzard Entertainment
+Genre: Action
+Number of Players: Up to 12 
+Rating: T
+Release Date: May 23, 2016
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 91
+Neutral Users: 24
+Negative Users: 34
+Metascore: 91
+Users Score: 59
+------------------------------------------------------------------
+Game: INSIDE
+Platform: PS4
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Aug 23, 2016
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 83
+Neutral Users: 13
+Negative Users: 4
+Metascore: 91
+Users Score: 83
+------------------------------------------------------------------
+Game: Overwatch
+Platform: PS4
+Developer: Blizzard Entertainment
+Genre: Action
+Number of Players: Up to 12 
+Rating: T
+Release Date: May 23, 2016
+Positive Critics: 31
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 206
+Neutral Users: 80
+Negative Users: 91
+Metascore: 90
+Users Score: 64
+------------------------------------------------------------------
+Game: Rez Infinite
+Platform: PS4
+Developer: Q Entertainment, Monstars Inc., Enhance Games
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct 13, 2016
+Positive Critics: 47
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 5
+Negative Users: 2
+Metascore: 89
+Users Score: 77
+------------------------------------------------------------------
+Game: Titanfall 2
+Platform: PS4
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: Up to 16 
+Rating: M
+Release Date: Oct 28, 2016
+Positive Critics: 60
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 217
+Neutral Users: 16
+Negative Users: 15
+Metascore: 89
+Users Score: 84
+------------------------------------------------------------------
+Game: Battlefield 1
+Platform: PS4
+Developer: EA DICE
+Genre: Action
+Number of Players: Up to 64 
+Rating: M
+Release Date: Oct 18, 2016
+Positive Critics: 34
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 205
+Neutral Users: 48
+Negative Users: 39
+Metascore: 89
+Users Score: 79
+------------------------------------------------------------------
+Game: Ori and the Blind Forest: Definitive Edition
+Platform: PC
+Developer: Moon Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Apr 27, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 1
+Negative Users: 5
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: Ori and the Blind Forest: Definitive Edition
+Platform: XONE
+Developer: Moon Studios
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar 11, 2016
+Positive Critics: 22
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 3
+Negative Users: 4
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: Battlefield 1
+Platform: XONE
+Developer: EA DICE
+Genre: Action
+Number of Players: Up to 64 
+Rating: M
+Release Date: Oct 18, 2016
+Positive Critics: 37
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 93
+Neutral Users: 19
+Negative Users: 21
+Metascore: 87
+Users Score: 76
+------------------------------------------------------------------
+Game: Titanfall 2
+Platform: XONE
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: Up to 16 
+Rating: M
+Release Date: Oct 28, 2016
+Positive Critics: 29
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 8
+Negative Users: 9
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: INSIDE
+Platform: PC
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jul  7, 2016
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 78
+Neutral Users: 24
+Negative Users: 6
+Metascore: 87
+Users Score: 86
+------------------------------------------------------------------
+Game: Killer Instinct Season 3
+Platform: XONE
+Developer: Iron Galaxy Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Mar 29, 2016
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 4
+Negative Users: 0
+Metascore: 86
+Users Score: 65
+------------------------------------------------------------------
+Game: Gears of War 4
+Platform: PC
+Developer: The Coalition
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 11, 2016
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 9
+Negative Users: 20
+Metascore: 86
+Users Score: 67
+------------------------------------------------------------------
+Game: Guilty Gear Xrd -REVELATOR-
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 64 
+Rating: T
+Release Date: Jun  7, 2016
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 2
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: Titanfall 2
+Platform: PC
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 28, 2016
+Positive Critics: 25
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 158
+Neutral Users: 28
+Negative Users: 26
+Metascore: 86
+Users Score: 82
+------------------------------------------------------------------
+Game: BlazBlue: Chrono Phantasma Extend
+Platform: PC
+Developer: Arc System Works
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Mar  2, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: SUPERHOT VR
+Platform: PC
+Developer: SUPERHOT
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec  5, 2016
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 72
+------------------------------------------------------------------
+Game: Thumper
+Platform: PC
+Developer: drool Games, Drool
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 10, 2016
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Mortal Kombat XL
+Platform: PS4
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: Up to 10 
+Rating: M
+Release Date: Mar  1, 2016
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 5
+Negative Users: 3
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Ratchet & Clank
+Platform: PS4
+Developer: Insomniac Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr 12, 2016
+Positive Critics: 98
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 260
+Neutral Users: 29
+Negative Users: 5
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: BioShock: The Collection
+Platform: XONE
+Developer: 2K Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Sep 13, 2016
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 87
+------------------------------------------------------------------
+Game: BlazBlue: Central Fiction
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 32 
+Rating: T
+Release Date: Nov  1, 2016
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Salt and Sanctuary
+Platform: PS4
+Developer: Ska Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 15, 2016
+Positive Critics: 51
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 65
+Neutral Users: 6
+Negative Users: 5
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Thumper
+Platform: PS4
+Developer: drool Games, Drool
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct 10, 2016
+Positive Critics: 36
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 72
+------------------------------------------------------------------
+Game: Enter the Gungeon
+Platform: PC
+Developer: Dodge Roll
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr  5, 2016
+Positive Critics: 25
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 6
+Negative Users: 6
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: ZEN Pinball 2: Aliens Vs. Pinball
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Apr 26, 2016
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 59
+------------------------------------------------------------------
+Game: ICEY
+Platform: PC
+Developer: Shanghai FantaBlade Network Technology Co., Ltd.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov 17, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 75
+------------------------------------------------------------------
+Game: BioShock: The Collection
+Platform: PS4
+Developer: 2K Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 13, 2016
+Positive Critics: 38
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 2
+Negative Users: 4
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: SpeedRunners
+Platform: PC
+Developer: DoubleDutch Games
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Apr 19, 2016
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 2
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Devil Daggers
+Platform: PC
+Developer: Sorath
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 18, 2016
+Positive Critics: 18
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: Mutant Mudds: Super Challenge
+Platform: WIIU
+Developer: Renegade Kid
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar 17, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: Rhythm Heaven Megamix
+Platform: 3DS
+Developer: Nintendo
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jun 15, 2016
+Positive Critics: 32
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: 10 Second Ninja X
+Platform: XONE
+Developer: GameDesignDan
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jul 19, 2016
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 45
+------------------------------------------------------------------
+Game: Lovers in a Dangerous Spacetime
+Platform: PS4
+Developer: Asteroid Base
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Feb  9, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 2
+Metascore: 82
+Users Score: 70
+------------------------------------------------------------------
+Game: Rock Band Rivals
+Platform: XONE
+Developer: Harmonix Music Systems
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Oct 18, 2016
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 66
+------------------------------------------------------------------
+Game: Enter the Gungeon
+Platform: PS4
+Developer: Dodge Roll
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Apr  5, 2016
+Positive Critics: 26
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 6
+Negative Users: 3
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: Kirby: Planet Robobot
+Platform: 3DS
+Developer: HAL Labs
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jun 10, 2016
+Positive Critics: 62
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 4
+Negative Users: 1
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Unravel
+Platform: PC
+Developer: Coldwood Interactive
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Feb  9, 2016
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 5
+Negative Users: 3
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One
+Platform: PC
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Dec 20, 2016
+Positive Critics: 30
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 9
+Negative Users: 6
+Metascore: 81
+Users Score: 71
+------------------------------------------------------------------
+Game: Shantae: Half-Genie Hero
+Platform: PS4
+Developer: WayForward
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec 20, 2016
+Positive Critics: 27
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 4
+Negative Users: 0
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: The Bug Butcher
+Platform: PC
+Developer: Awfully Nice Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jan 19, 2016
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------
+Game: Star Wars Pinball: The Force Awakens
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jan 12, 2016
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 48
+------------------------------------------------------------------
+Game: Maldita Castilla EX: Cursed Castilla
+Platform: XONE
+Developer: Locomalito
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jul 20, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 1
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Overcooked!
+Platform: PC
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Aug  3, 2016
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 1
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Motorsport Manager
+Platform: PC
+Developer: Playsport Games, Playsport Games Ltd
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  9, 2016
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Maldita Castilla EX: Cursed Castilla
+Platform: PC
+Developer: Locomalito
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 20, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Plants vs Zombies: Garden Warfare 2
+Platform: XONE
+Developer: PopCap
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Feb 23, 2016
+Positive Critics: 56
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 1
+Negative Users: 4
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Shantae: Half-Genie Hero
+Platform: WIIU
+Developer: WayForward
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec 20, 2016
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: Pac-Man 256
+Platform: XONE
+Developer: HIPSTER WHALE
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Jun 21, 2016
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Leap of Fate
+Platform: PC
+Developer: Clever-Plays
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 30, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Overcooked!
+Platform: XONE
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Aug  3, 2016
+Positive Critics: 9
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 65
+------------------------------------------------------------------
+Game: The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two
+Platform: PC
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Dec 20, 2016
+Positive Critics: 28
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 4
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Naruto Shippuden: Ultimate Ninja Storm 4
+Platform: XONE
+Developer: CyberConnect2
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Feb  9, 2016
+Positive Critics: 9
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One
+Platform: PS4
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Dec 20, 2016
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 3
+Metascore: 80
+Users Score: 70
+------------------------------------------------------------------
+Game: BioShock: The Collection
+Platform: PC
+Developer: 2K Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Sep 16, 2016
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 7
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: Score Rush Extended
+Platform: PS4
+Developer: Xona Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: May 31, 2016
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: The Turing Test
+Platform: XONE
+Developer: Bulkhead Interactive
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Aug 30, 2016
+Positive Critics: 11
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 6
+Negative Users: 2
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Candle
+Platform: PC
+Developer: Teku Studios 
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: RP
+Release Date: Nov 11, 2016
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Pinball FX2 VR
+Platform: PS4
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Nov 29, 2016
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 67
+------------------------------------------------------------------
+Game: Downwell
+Platform: PS4
+Developer: Moppin
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: May 24, 2016
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two
+Platform: PS4
+Developer: Telltale Games
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Dec 20, 2016
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 66
+------------------------------------------------------------------
+Game: Gravity Rush Remastered
+Platform: PS4
+Developer: Bluepoint Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  2, 2016
+Positive Critics: 52
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 12
+Negative Users: 2
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: World of Tanks
+Platform: PS4
+Developer: Wargaming.net
+Genre: Action
+Number of Players: Up to 30 
+Rating: T
+Release Date: Jan 19, 2016
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 4
+Metascore: 80
+Users Score: 56
+------------------------------------------------------------------
+Game: Super Mario Odyssey
+Platform: Switch
+Developer: Nintendo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct 27, 2017
+Positive Critics: 113
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 977
+Neutral Users: 62
+Negative Users: 30
+Metascore: 97
+Users Score: 90
+------------------------------------------------------------------
+Game: Shovel Knight: Treasure Trove
+Platform: Switch
+Developer: Yacht Club Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar  3, 2017
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 5
+Negative Users: 4
+Metascore: 91
+Users Score: 82
+------------------------------------------------------------------
+Game: Rez Infinite
+Platform: PC
+Developer: UGA
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  9, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 89
+Users Score: 74
+------------------------------------------------------------------
+Game: Injustice 2
+Platform: XONE
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: May 16, 2017
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 2
+Negative Users: 5
+Metascore: 89
+Users Score: 82
+------------------------------------------------------------------
+Game: N++
+Platform: XONE
+Developer: Metanet Software Inc.
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Oct  4, 2017
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 88
+Users Score: 56
+------------------------------------------------------------------
+Game: Wolfenstein II: The New Colossus
+Platform: XONE
+Developer: MachineGames
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 11
+Negative Users: 14
+Metascore: 88
+Users Score: 62
+------------------------------------------------------------------
+Game: Cuphead
+Platform: PC
+Developer: Studio MDHR
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep 29, 2017
+Positive Critics: 30
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 161
+Neutral Users: 19
+Negative Users: 17
+Metascore: 88
+Users Score: 83
+------------------------------------------------------------------
+Game: SteamWorld Dig 2
+Platform: Switch
+Developer: Image & Form
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 21, 2017
+Positive Critics: 38
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 5
+Negative Users: 0
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: Cave Story +
+Platform: Switch
+Developer: Nicalis
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 20, 2017
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 4
+Negative Users: 0
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Nex Machina: Death Machine
+Platform: PS4
+Developer: Housemarque
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jun 20, 2017
+Positive Critics: 46
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 3
+Negative Users: 1
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Injustice 2
+Platform: PS4
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: May 16, 2017
+Positive Critics: 88
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 84
+Neutral Users: 15
+Negative Users: 14
+Metascore: 87
+Users Score: 81
+------------------------------------------------------------------
+Game: Enter the Gungeon
+Platform: Switch
+Developer: Dodge Roll
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Dec 14, 2017
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 8
+Negative Users: 5
+Metascore: 87
+Users Score: 79
+------------------------------------------------------------------
+Game: Raw Data
+Platform: PC
+Developer: Survios
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Oct  5, 2017
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 87
+Users Score: 66
+------------------------------------------------------------------
+Game: Wolfenstein II: The New Colossus
+Platform: PS4
+Developer: MachineGames
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 66
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 172
+Neutral Users: 27
+Negative Users: 51
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: Destiny 2
+Platform: XONE
+Developer: Bungie
+Genre: Action
+Number of Players: Up to 16 
+Rating: T
+Release Date: Sep  6, 2017
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 62
+Neutral Users: 29
+Negative Users: 72
+Metascore: 87
+Users Score: 42
+------------------------------------------------------------------
+Game: Thumper
+Platform: XONE
+Developer: drool Games, Drool
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Aug 18, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 51
+------------------------------------------------------------------
+Game: Cuphead
+Platform: XONE
+Developer: Studio MDHR
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 29, 2017
+Positive Critics: 69
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 113
+Neutral Users: 7
+Negative Users: 7
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: Sky Force Reloaded
+Platform: XONE
+Developer: Infinite Dreams Inc.
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Dec  1, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 72
+------------------------------------------------------------------
+Game: Wolfenstein II: The New Colossus
+Platform: PC
+Developer: MachineGames
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 27, 2017
+Positive Critics: 38
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 107
+Neutral Users: 38
+Negative Users: 66
+Metascore: 86
+Users Score: 67
+------------------------------------------------------------------
+Game: Sonic Mania
+Platform: PS4
+Developer: SegaSoft, Sega, PagodaWest Games
+Genre: Action
+Number of Players: 2
+Rating: E
+Release Date: Aug 15, 2017
+Positive Critics: 65
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 108
+Neutral Users: 6
+Negative Users: 4
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: 'PlayerUnknown''s Battlegrounds'
+Platform: PC
+Developer: Bluehole, Inc., PUBG Corporation
+Genre: Action
+Number of Players: Up to more than 64 
+Rating: T
+Release Date: Dec 20, 2017
+Positive Critics: 41
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 60
+Negative Users: 157
+Metascore: 86
+Users Score: 46
+------------------------------------------------------------------
+Game: Robo Recall
+Platform: PC
+Developer: Epic Games
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Mar  1, 2017
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 1
+Metascore: 86
+Users Score: 77
+------------------------------------------------------------------
+Game: Guilty Gear Xrd: Rev 2
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: May 26, 2017
+Positive Critics: 35
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 86
+Users Score: 78
+------------------------------------------------------------------
+Game: Sonic Mania
+Platform: Switch
+Developer: Tantalus
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug 15, 2017
+Positive Critics: 17
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 141
+Neutral Users: 13
+Negative Users: 5
+Metascore: 86
+Users Score: 88
+------------------------------------------------------------------
+Game: Injustice 2
+Platform: PC
+Developer: QLOC
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Nov 30, 2017
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 2
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Thumper
+Platform: Switch
+Developer: Drool
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 18, 2017
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 4
+Negative Users: 2
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: The Binding of Isaac: Afterbirth +
+Platform: Switch
+Developer: Edmund McMillen, Nicalis
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 17, 2017
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 3
+Negative Users: 5
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: SteamWorld Dig 2
+Platform: PC
+Developer: Image & Form
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 22, 2017
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Destiny 2
+Platform: PS4
+Developer: Bungie
+Genre: Action
+Number of Players: Up to 12 
+Rating: T
+Release Date: Sep  6, 2017
+Positive Critics: 89
+Neutral Critics: 5
+Negative Critics: 1
+Positive Users: 199
+Neutral Users: 125
+Negative Users: 289
+Metascore: 85
+Users Score: 49
+------------------------------------------------------------------
+Game: Mutant Mudds Collection
+Platform: Switch
+Developer: Renegade Kid, Atooi LLC
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Dec 14, 2017
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 82
+------------------------------------------------------------------
+Game: NeuroVoider
+Platform: Switch
+Developer: Flying Oak Games
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep  7, 2017
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Mario + Rabbids: Kingdom Battle
+Platform: Switch
+Developer: Ubisoft, Ubisoft Milan
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 29, 2017
+Positive Critics: 98
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 162
+Neutral Users: 20
+Negative Users: 10
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: Shovel Knight: Specter of Torment
+Platform: Switch
+Developer: Yacht Club Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar  3, 2017
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Rayman Legends: Definitive Edition
+Platform: Switch
+Developer: Ubisoft Montpellier, Pasta Games
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Sep 12, 2017
+Positive Critics: 32
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 25
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: Lovers in a Dangerous Spacetime
+Platform: Switch
+Developer: Asteroid Base
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  3, 2017
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Enter The Gungeon
+Platform: XONE
+Developer: Dodge Roll
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Apr  5, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Nex Machina: Death Machine
+Platform: PC
+Developer: Housemarque
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jun 20, 2017
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 67
+------------------------------------------------------------------
+Game: Polybius
+Platform: PS4
+Developer: Llamasoft
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: May  9, 2017
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 75
+------------------------------------------------------------------
+Game: Uncharted: The Lost Legacy
+Platform: PS4
+Developer: Naughty Dog
+Genre: Action
+Number of Players: Up to 10 
+Rating: T
+Release Date: Aug 22, 2017
+Positive Critics: 93
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 129
+Neutral Users: 33
+Negative Users: 22
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Hatsune Miku: Project Diva Future Tone - Colorful Tone
+Platform: PS4
+Developer: Sega
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jan 10, 2017
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Hatsune Miku: Project Diva Future Tone - Future Sound
+Platform: PS4
+Developer: Sega
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jan 10, 2017
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Assault Android Cactus
+Platform: XONE
+Developer: Witch Beam
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  7, 2017
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 63
+------------------------------------------------------------------
+Game: The End Is Nigh
+Platform: PC
+Developer: Edmund McMillen, Tyler Glaiel 
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jul 12, 2017
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Sonic Mania
+Platform: XONE
+Developer: SegaSoft, Sega, PagodaWest Games
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Aug 15, 2017
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Bleed 2
+Platform: PC
+Developer: BootdiskRevolution
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Feb  8, 2017
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 70
+------------------------------------------------------------------
+Game: Splatoon 2
+Platform: Switch
+Developer: Nintendo
+Genre: Action
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Jul 21, 2017
+Positive Critics: 94
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 213
+Neutral Users: 42
+Negative Users: 13
+Metascore: 83
+Users Score: 85
+------------------------------------------------------------------
+Game: Destiny 2
+Platform: PC
+Developer: Bungie Software, Bungie
+Genre: Action
+Number of Players: Up to 16 
+Rating: 
+Release Date: Oct 24, 2017
+Positive Critics: 29
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 69
+Neutral Users: 60
+Negative Users: 254
+Metascore: 83
+Users Score: 36
+------------------------------------------------------------------
+Game: SUPERHOT
+Platform: PS4
+Developer: SUPERHOT
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Jul 21, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: Splasher
+Platform: Switch
+Developer: Splashteam
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Oct 26, 2017
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Super Hydorah
+Platform: XONE
+Developer: Locomalito
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep 20, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 64
+------------------------------------------------------------------
+Game: Pinball FX3
+Platform: Switch
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Dec 12, 2017
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: RiME
+Platform: XONE
+Developer: Tequila Works
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: May 26, 2017
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 71
+------------------------------------------------------------------
+Game: Tekken 7
+Platform: PC
+Developer: Bandai Namco Games
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jun  1, 2017
+Positive Critics: 18
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 13
+Negative Users: 16
+Metascore: 82
+Users Score: 67
+------------------------------------------------------------------
+Game: Shantae: Half-Genie Hero
+Platform: Switch
+Developer: WayForward
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jun  8, 2017
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 3
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: Tekken 7
+Platform: PS4
+Developer: Bandai Namco Games
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: Jun  2, 2017
+Positive Critics: 67
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 29
+Negative Users: 34
+Metascore: 82
+Users Score: 68
+------------------------------------------------------------------
+Game: RIVE: Ultimate Edition
+Platform: Switch
+Developer: Two Tribes
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Nov 17, 2017
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 2
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: Bulletstorm: Full Clip Edition
+Platform: XONE
+Developer: People Can Fly
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Apr  7, 2017
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Tekken 7
+Platform: XONE
+Developer: Bandai Namco Games
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: Jun  2, 2017
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 8
+Negative Users: 2
+Metascore: 81
+Users Score: 63
+------------------------------------------------------------------
+Game: Danganronpa V3: Killing Harmony
+Platform: PS4
+Developer: Spike Chunsoft
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 26, 2017
+Positive Critics: 35
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 5
+Negative Users: 2
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Teslagrad
+Platform: Switch
+Developer: Rain Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec  7, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Rising Storm 2: Vietnam
+Platform: PC
+Developer: Antimatter Games
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: May 30, 2017
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 6
+Negative Users: 3
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: VOEZ
+Platform: Switch
+Developer: Flyhigh Works
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar  9, 2017
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 3
+Negative Users: 0
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: Fortnite
+Platform: PC
+Developer: Epic Games
+Genre: Action
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Jul 25, 2017
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 16
+Negative Users: 159
+Metascore: 81
+Users Score: 29
+------------------------------------------------------------------
+Game: Slime Rancher
+Platform: PC
+Developer: Monomi Park
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  1, 2017
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 2
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Sine Mora EX
+Platform: PS4
+Developer: Digital Reality
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Aug  8, 2017
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Sniper Elite 4
+Platform: XONE
+Developer: Rebellion
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Feb 14, 2017
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Battle Chef Brigade
+Platform: Switch
+Developer: Trinket Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov 20, 2017
+Positive Critics: 19
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Flinthook
+Platform: PC
+Developer: Tribute Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 18, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: The End Is Nigh
+Platform: Switch
+Developer: Nicalis
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Dec 12, 2017
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 1
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Gravity Rush 2
+Platform: PS4
+Developer: SCE Japan Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 20, 2017
+Positive Critics: 78
+Neutral Critics: 15
+Negative Critics: 1
+Positive Users: 39
+Neutral Users: 19
+Negative Users: 4
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: Aaero
+Platform: XONE
+Developer: Mad Fellows Ltd
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr 11, 2017
+Positive Critics: 9
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 65
+------------------------------------------------------------------
+Game: Nidhogg 2
+Platform: PC
+Developer: Messhof
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Aug 15, 2017
+Positive Critics: 27
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 3
+Negative Users: 0
+Metascore: 80
+Users Score: 63
+------------------------------------------------------------------
+Game: Rabi-Ribi
+Platform: PS4
+Developer: CreSpirit
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep  1, 2017
+Positive Critics: 8
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: VVVVVV
+Platform: Switch
+Developer: Terry Cavanagh
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Nov 17, 2017
+Positive Critics: 7
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: TowerFall Ascension
+Platform: XONE
+Developer: Matt Makes Games Inc.
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jan 25, 2017
+Positive Critics: 7
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 66
+------------------------------------------------------------------
+Game: Call of Duty: WWII
+Platform: XONE
+Developer: Sledgehammer Games
+Genre: Action
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  3, 2017
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 28
+Negative Users: 53
+Metascore: 80
+Users Score: 40
+------------------------------------------------------------------
+Game: Celeste
+Platform: XONE
+Developer: Matt Makes Games Inc.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 26, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 2
+Negative Users: 2
+Metascore: 94
+Users Score: 66
+------------------------------------------------------------------
+Game: Super Smash Bros. Ultimate
+Platform: Switch
+Developer: Nintendo, HAL Labs, Bandai Namco Games, Sora Ltd.
+Genre: Action
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Dec  7, 2018
+Positive Critics: 97
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 512
+Neutral Users: 49
+Negative Users: 53
+Metascore: 93
+Users Score: 86
+------------------------------------------------------------------
+Game: Celeste
+Platform: Switch
+Developer: Matt Makes Games Inc.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 25, 2018
+Positive Critics: 36
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 95
+Neutral Users: 12
+Negative Users: 9
+Metascore: 92
+Users Score: 83
+------------------------------------------------------------------
+Game: INSIDE
+Platform: Switch
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 28, 2018
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 1
+Negative Users: 2
+Metascore: 91
+Users Score: 82
+------------------------------------------------------------------
+Game: Sonic Mania Plus
+Platform: Switch
+Developer: Sega
+Genre: Action
+Number of Players: 2
+Rating: E
+Release Date: Jul 17, 2018
+Positive Critics: 24
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 2
+Negative Users: 1
+Metascore: 91
+Users Score: 88
+------------------------------------------------------------------
+Game: Dead Cells
+Platform: XONE
+Developer: Motion Twin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  7, 2018
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 0
+Metascore: 91
+Users Score: 80
+------------------------------------------------------------------
+Game: Celeste
+Platform: PS4
+Developer: Matt Makes Games Inc.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 25, 2018
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 3
+Negative Users: 3
+Metascore: 91
+Users Score: 66
+------------------------------------------------------------------
+Game: Dead Cells
+Platform: Switch
+Developer: Motion Twin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  7, 2018
+Positive Critics: 36
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 4
+Negative Users: 3
+Metascore: 89
+Users Score: 84
+------------------------------------------------------------------
+Game: Dead Cells
+Platform: PC
+Developer: Motion Twin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  7, 2018
+Positive Critics: 33
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 5
+Negative Users: 8
+Metascore: 89
+Users Score: 75
+------------------------------------------------------------------
+Game: DUSK
+Platform: PC
+Developer: New Blood Interactive
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Dec 10, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 7
+Negative Users: 0
+Metascore: 88
+Users Score: 82
+------------------------------------------------------------------
+Game: Injustice 2: Legendary Edition
+Platform: PS4
+Developer: NetherRealm Studios
+Genre: Action
+Number of Players: 2
+Rating: 
+Release Date: Mar 27, 2018
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 0
+Metascore: 88
+Users Score: 73
+------------------------------------------------------------------
+Game: Ikaruga
+Platform: Switch
+Developer: Treasure
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 23
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 3
+Negative Users: 0
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Celeste
+Platform: PC
+Developer: Matt Makes Games Inc.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 25, 2018
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 3
+Negative Users: 5
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: Dragon Ball FighterZ
+Platform: Switch
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 6 
+Rating: T
+Release Date: Sep 28, 2018
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 0
+Metascore: 88
+Users Score: 85
+------------------------------------------------------------------
+Game: Dead Cells
+Platform: PS4
+Developer: Motion Twin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  7, 2018
+Positive Critics: 30
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 5
+Negative Users: 0
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: Street Fighter V: Arcade Edition
+Platform: PS4
+Developer: Capcom
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Jan 16, 2018
+Positive Critics: 35
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 8
+Negative Users: 15
+Metascore: 87
+Users Score: 69
+------------------------------------------------------------------
+Game: Guacamelee! 2
+Platform: Switch
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: Up to 4 
+Rating: 
+Release Date: Dec 10, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: Dragon Ball FighterZ
+Platform: PS4
+Developer: Arc System Works
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Jan 26, 2018
+Positive Critics: 73
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 54
+Neutral Users: 10
+Negative Users: 9
+Metascore: 87
+Users Score: 81
+------------------------------------------------------------------
+Game: Velocity 2X
+Platform: Switch
+Developer: FuturLab
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 20, 2018
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 1
+Metascore: 87
+Users Score: 74
+------------------------------------------------------------------
+Game: Sonic Mania Plus
+Platform: PS4
+Developer: Sega
+Genre: Action
+Number of Players: 2
+Rating: E
+Release Date: Jul 17, 2018
+Positive Critics: 24
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 0
+Metascore: 87
+Users Score: 78
+------------------------------------------------------------------
+Game: The Messenger
+Platform: Switch
+Developer: Sabotage Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 30, 2018
+Positive Critics: 40
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 3
+Negative Users: 5
+Metascore: 86
+Users Score: 82
+------------------------------------------------------------------
+Game: Donkey Kong Country: Tropical Freeze
+Platform: Switch
+Developer: Retro Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: May  4, 2018
+Positive Critics: 70
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 5
+Negative Users: 5
+Metascore: 86
+Users Score: 86
+------------------------------------------------------------------
+Game: 'Shantae and the Pirate''s Curse'
+Platform: Switch
+Developer: WayForward
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 20, 2018
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 80
+------------------------------------------------------------------
+Game: Guacamelee! Super Turbo Championship Edition
+Platform: Switch
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct  8, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 86
+Users Score: 79
+------------------------------------------------------------------
+Game: Dragon Ball FighterZ
+Platform: XONE
+Developer: Arc System Works
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Jan 26, 2018
+Positive Critics: 22
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 1
+Metascore: 86
+Users Score: 79
+------------------------------------------------------------------
+Game: Destiny 2: Forsaken
+Platform: XONE
+Developer: Bungie Software, Bungie
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 2
+Negative Users: 5
+Metascore: 86
+Users Score: 54
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops 4
+Platform: XONE
+Developer: Treyarch
+Genre: Action
+Number of Players: Up to more than 64 
+Rating: M
+Release Date: Oct 12, 2018
+Positive Critics: 18
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 16
+Negative Users: 37
+Metascore: 85
+Users Score: 41
+------------------------------------------------------------------
+Game: DJMax Respect
+Platform: PS4
+Developer: Rocky Studio
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Mar  6, 2018
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: Dragon Ball FighterZ
+Platform: PC
+Developer: Arc System Works
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Jan 26, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 4
+Negative Users: 5
+Metascore: 85
+Users Score: 75
+------------------------------------------------------------------
+Game: Full Metal Furies
+Platform: PC
+Developer: Cellar Door Games
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Jan 17, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 71
+------------------------------------------------------------------
+Game: 'PlayerUnknown''s Battlegrounds'
+Platform: XONE
+Developer: Bluehole, Inc.
+Genre: Action
+Number of Players: Up to more than 64 
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 6
+Negative Users: 9
+Metascore: 85
+Users Score: 50
+------------------------------------------------------------------
+Game: Shantae: Half-Genie Hero - Ultimate Edition
+Platform: Switch
+Developer: WayForward
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May  8, 2018
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 5
+Negative Users: 2
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Beat Saber
+Platform: PS4
+Developer: Hyperbolic Magnetism
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 20, 2018
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Destiny 2: Forsaken
+Platform: PC
+Developer: Bungie Software, Bungie
+Genre: Action
+Number of Players: Up to 16 
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 4
+Negative Users: 12
+Metascore: 84
+Users Score: 58
+------------------------------------------------------------------
+Game: SoulCalibur VI
+Platform: XONE
+Developer: Bandai Namco Games, Project Soul
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Oct 19, 2018
+Positive Critics: 19
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 1
+Metascore: 84
+Users Score: 47
+------------------------------------------------------------------
+Game: The Missing: JJ Macfield and the Island of Memories
+Platform: XONE
+Developer: White Owls
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 11, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 59
+------------------------------------------------------------------
+Game: SoulCalibur VI
+Platform: PS4
+Developer: Bandai Namco Games, Project Soul
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Oct 19, 2018
+Positive Critics: 72
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 9
+Negative Users: 12
+Metascore: 84
+Users Score: 63
+------------------------------------------------------------------
+Game: Kingdom: Two Crowns
+Platform: Switch
+Developer: Raw Fury, Noio
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Dec 11, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Guacamelee! 2
+Platform: PC
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Aug 21, 2018
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Danmaku Unlimited 3
+Platform: Switch
+Developer: Doragon Entertainment
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 13, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: GRIS
+Platform: PC
+Developer: Nomada Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec 13, 2018
+Positive Critics: 34
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 3
+Negative Users: 3
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: GRIS
+Platform: Switch
+Developer: Nomada Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec 13, 2018
+Positive Critics: 37
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 2
+Negative Users: 1
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: Super Meat Boy
+Platform: Switch
+Developer: Team Meat
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 11, 2018
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 3
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Yoku''s Island Express'
+Platform: PC
+Developer: Villa Gorilla
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Just Shapes & Beats
+Platform: Switch
+Developer: Berzerk Studio
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: E10+
+Release Date: May 31, 2018
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 0
+Negative Users: 2
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Fortnite
+Platform: Switch
+Developer: Epic Games
+Genre: Action
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Jun 12, 2018
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 14
+Negative Users: 34
+Metascore: 83
+Users Score: 56
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops 4
+Platform: PS4
+Developer: Treyarch
+Genre: Action
+Number of Players: Up to more than 64 
+Rating: M
+Release Date: Oct 12, 2018
+Positive Critics: 68
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 136
+Neutral Users: 58
+Negative Users: 222
+Metascore: 83
+Users Score: 41
+------------------------------------------------------------------
+Game: Guacamelee! 2
+Platform: PS4
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Aug 21, 2018
+Positive Critics: 55
+Neutral Critics: 13
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 0
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Overcooked! 2
+Platform: XONE
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: Up to 4 
+Rating: E
+Release Date: Aug  7, 2018
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 2
+Metascore: 83
+Users Score: 62
+------------------------------------------------------------------
+Game: Call of Duty: Black Ops 4
+Platform: PC
+Developer: Treyarch
+Genre: Action
+Number of Players: Up to more than 64 
+Rating: M
+Release Date: Oct 12, 2018
+Positive Critics: 25
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 18
+Negative Users: 175
+Metascore: 83
+Users Score: 31
+------------------------------------------------------------------
+Game: Prey: Mooncrash
+Platform: PS4
+Developer: Arkane Studios
+Genre: Action
+Number of Players: 
+Rating: M
+Release Date: Jun 11, 2018
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: 'Yoku''s Island Express'
+Platform: PS4
+Developer: Villa Gorilla
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: Dynasty Warriors 8: Xtreme Legends - Definitive Edition
+Platform: Switch
+Developer: Omega Force
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec 27, 2018
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: LIMBO
+Platform: Switch
+Developer: PLAYDEAD
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jun 28, 2018
+Positive Critics: 20
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: The Messenger
+Platform: PC
+Developer: Sabotage Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 30, 2018
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 1
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: 'Overcooked! 2: Surf ''n'' Turf'
+Platform: Switch
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Oct  3, 2018
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Flipping Death
+Platform: Switch
+Developer: Zoink!
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  7, 2018
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Yoku''s Island Express'
+Platform: XONE
+Developer: Villa Gorilla
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 25
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Warhammer: Vermintide 2
+Platform: XONE
+Developer: Fatshark AB
+Genre: Action
+Number of Players: Up to 4 
+Rating: M
+Release Date: Jul 11, 2018
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 56
+------------------------------------------------------------------
+Game: 'Yoku''s Island Express'
+Platform: Switch
+Developer: Villa Gorilla
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 26
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Flat Heroes
+Platform: Switch
+Developer: Parallel Circles
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug  2, 2018
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: Destiny 2: Forsaken
+Platform: PS4
+Developer: Bungie Software, Bungie
+Genre: Action
+Number of Players: 
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 34
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 50
+Neutral Users: 9
+Negative Users: 17
+Metascore: 82
+Users Score: 62
+------------------------------------------------------------------
+Game: Prey: Mooncrash
+Platform: XONE
+Developer: Arkane Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Jun 10, 2018
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 61
+------------------------------------------------------------------
+Game: Salt and Sanctuary
+Platform: Switch
+Developer: Ska Studios
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug  2, 2018
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 2
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Far Cry 5
+Platform: XONE
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: Up to 12 
+Rating: M
+Release Date: Mar 27, 2018
+Positive Critics: 27
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 30
+Negative Users: 16
+Metascore: 82
+Users Score: 67
+------------------------------------------------------------------
+Game: Splatoon 2: Octo Expansion
+Platform: Switch
+Developer: Nintendo
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Jun 13, 2018
+Positive Critics: 26
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 5
+Negative Users: 5
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Freedom Planet
+Platform: Switch
+Developer: GalaxyTrail
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 30, 2018
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: Warhammer: Vermintide 2
+Platform: PC
+Developer: Fatshark AB, Fatshark
+Genre: Action
+Number of Players: Up to 4 
+Rating: 
+Release Date: Mar  8, 2018
+Positive Critics: 51
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 7
+Negative Users: 16
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: Mega Man 11
+Platform: PS4
+Developer: Capcom
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  2, 2018
+Positive Critics: 41
+Neutral Critics: 10
+Negative Critics: 1
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 1
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Captain Toad: Treasure Tracker
+Platform: Switch
+Developer: Nintendo EAD Tokyo , Nintendo Software Technology
+Genre: Action
+Number of Players: 2
+Rating: E
+Release Date: Jul 13, 2018
+Positive Critics: 59
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 4
+Negative Users: 2
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Super One More Jump
+Platform: Switch
+Developer: SMG Studio
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jan 25, 2018
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Unravel Two
+Platform: XONE
+Developer: Coldwood Interactive
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jun  9, 2018
+Positive Critics: 20
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 68
+------------------------------------------------------------------
+Game: Overcooked! 2
+Platform: Switch
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: Up to 4 
+Rating: E
+Release Date: Aug  7, 2018
+Positive Critics: 33
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: Wandersong
+Platform: Switch
+Developer: Dumb and Fat Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Sep 27, 2018
+Positive Critics: 15
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: Overcooked! 2
+Platform: PS4
+Developer: Ghost Town Games Ltd.
+Genre: Action
+Number of Players: Up to 4 
+Rating: E
+Release Date: Aug  7, 2018
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 1
+Metascore: 81
+Users Score: 72
+------------------------------------------------------------------
+Game: Timespinner
+Platform: PS4
+Developer: Lunar Ray Games
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Sep 25, 2018
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 54
+------------------------------------------------------------------
+Game: Far Cry 5
+Platform: PS4
+Developer: Ubisoft Montreal
+Genre: Action
+Number of Players: Up to 12 
+Rating: M
+Release Date: Mar 27, 2018
+Positive Critics: 70
+Neutral Critics: 13
+Negative Critics: 0
+Positive Users: 157
+Neutral Users: 86
+Negative Users: 59
+Metascore: 81
+Users Score: 68
+------------------------------------------------------------------
+Game: Battlefield V
+Platform: PC
+Developer: EA DICE
+Genre: Action
+Number of Players: Up to 64 
+Rating: M
+Release Date: Nov 15, 2018
+Positive Critics: 44
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 181
+Neutral Users: 49
+Negative Users: 473
+Metascore: 81
+Users Score: 28
+------------------------------------------------------------------
+Game: Rogue Legacy
+Platform: Switch
+Developer: Cellar Door Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov  6, 2018
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: SoulCalibur VI
+Platform: PC
+Developer: Bandai Namco Games, Project Soul
+Genre: Action
+Number of Players: 2
+Rating: T
+Release Date: Oct 18, 2018
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 6
+Metascore: 80
+Users Score: 46
+------------------------------------------------------------------
+Game: Pinball FX3: Bethesda Pinball
+Platform: Switch
+Developer: Zen Studios
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Apr  4, 2018
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: N++
+Platform: Switch
+Developer: Metanet Software Inc.
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 24, 2018
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: Guns, Gore & Cannoli 2
+Platform: PC
+Developer: Crazy Monkey Studios
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Mar  2, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: OkunoKA
+Platform: Switch
+Developer: Caracal Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov 30, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: 'Dragon''s Crown Pro'
+Platform: PS4
+Developer: Vanillaware
+Genre: Action
+Number of Players: Up to 4 
+Rating: T
+Release Date: May 15, 2018
+Positive Critics: 37
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Mega Man 11
+Platform: Switch
+Developer: Capcom
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  2, 2018
+Positive Critics: 24
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: Octahedron
+Platform: PS4
+Developer: Demimonde
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 20, 2018
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 61
+------------------------------------------------------------------
+Game: Rogue Aces
+Platform: Switch
+Developer: Infinite State Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr 12, 2018
+Positive Critics: 9
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Aaero: Complete Edition
+Platform: Switch
+Developer: Mad Fellows Ltd
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Dec 24, 2018
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: The Adventure Pals
+Platform: XONE
+Developer: Massive Monster
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Apr  3, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Pac-Man Championship Edition 2 Plus
+Platform: Switch
+Developer: Bandai Namco Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Feb 22, 2018
+Positive Critics: 28
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: FAR: Lone Sails
+Platform: PC
+Developer: Okomotive
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 17, 2018
+Positive Critics: 21
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Apex Legends
+Platform: PS4
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: Up to 60 
+Rating: T
+Release Date: Feb  4, 2019
+Positive Critics: 26
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 147
+Neutral Users: 38
+Negative Users: 55
+Metascore: 89
+Users Score: 68
+------------------------------------------------------------------
+Game: Apex Legends
+Platform: XONE
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Feb  4, 2019
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 4
+Negative Users: 10
+Metascore: 88
+Users Score: 67
+------------------------------------------------------------------
+Game: Apex Legends
+Platform: PC
+Developer: Respawn Entertainment
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Feb  4, 2019
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 104
+Neutral Users: 37
+Negative Users: 81
+Metascore: 88
+Users Score: 62
+------------------------------------------------------------------
+Game: Assault Android Cactus+
+Platform: Switch
+Developer: Witch Beam
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Mar  8, 2019
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Downwell
+Platform: Switch
+Developer: Moppin
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 31, 2019
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 68
+------------------------------------------------------------------
+Game: Guacamelee! 2
+Platform: XONE
+Developer: DrinkBox Studios
+Genre: Action
+Number of Players: Up to 4 
+Rating: 
+Release Date: Jan 18, 2019
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 37
+------------------------------------------------------------------
+Game: BlazBlue: Central Fiction - Special Edition
+Platform: Switch
+Developer: Arc System Works
+Genre: Action
+Number of Players: Up to 8 
+Rating: T
+Release Date: Feb  7, 2019
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 83
+------------------------------------------------------------------
+Game: Ape Out
+Platform: Switch
+Developer: Gabe Cuzzillo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 28, 2019
+Positive Critics: 27
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 54
+------------------------------------------------------------------
+Game: Metro Exodus
+Platform: PC
+Developer: 4A Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 15, 2019
+Positive Critics: 45
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 482
+Neutral Users: 65
+Negative Users: 199
+Metascore: 83
+Users Score: 68
+------------------------------------------------------------------
+Game: Ape Out
+Platform: PC
+Developer: Gabe Cuzzillo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 28, 2019
+Positive Critics: 29
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 1
+Metascore: 83
+Users Score: 60
+------------------------------------------------------------------
+Game: The Messenger
+Platform: PS4
+Developer: Sabotage Studio
+Genre: Action
+Number of Players: 
+Rating: E10+
+Release Date: Mar 19, 2019
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 69
+------------------------------------------------------------------
+Game: Unruly Heroes
+Platform: PC
+Developer: Magic Design Studios
+Genre: Action
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Jan 23, 2019
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 61
+------------------------------------------------------------------
+Game: Metro Exodus
+Platform: XONE
+Developer: 4A Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 15, 2019
+Positive Critics: 27
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 58
+Neutral Users: 11
+Negative Users: 20
+Metascore: 82
+Users Score: 67
+------------------------------------------------------------------
+Game: Unravel Two
+Platform: Switch
+Developer: Coldwood Interactive
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar 22, 2019
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: New Super Mario Bros. U Deluxe
+Platform: Switch
+Developer: Nintendo
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jan 11, 2019
+Positive Critics: 58
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 5
+Negative Users: 10
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Captain Toad: Treasure Tracker - Special Episode
+Platform: Switch
+Developer: Nintendo Software Technology
+Genre: Action
+Number of Players: 
+Rating: 
+Release Date: Mar 14, 2019
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Yoshi''s Crafted World'
+Platform: Switch
+Developer: Good-Feel
+Genre: Action
+Number of Players: 
+Rating: E
+Release Date: Mar 29, 2019
+Positive Critics: 44
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 3
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Kirby''s Extra Epic Yarn'
+Platform: 3DS
+Developer: Good-Feel
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar  8, 2019
+Positive Critics: 36
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Metro Exodus
+Platform: PS4
+Developer: 4A Games
+Genre: Action
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 15, 2019
+Positive Critics: 31
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 98
+Neutral Users: 22
+Negative Users: 46
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------

@@ -7,6 +7,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Scanner;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -51,11 +52,13 @@ public class Main {
         carpetasapartirxml(plataformas, juegos);
 
         //EJERCICIO 5
-        carpetasporgenero(ordenadosPorFecha);
+        carpetasporgenero(ordenadosPorFecha, juegos);
 
         //EJERCICIO 6
         notasdispares();
 
+        //EJERCICIO 7
+        mayordeedad(ordenadosPorFecha);
     }
 
     //EJERCICIO 1
@@ -245,7 +248,6 @@ public class Main {
     A partir del fichero juegos.dat, generado automáticamente, se pide que generes un fichero xml en el que
     se almacenen los juegos por las plataformas.
      */
-
     //Para este ejercicio, reutilizare el metodo leer binario, que ya lee el archivo juegos.dat
 
     public static void escribirXML(ArrayList<Juego> OrdenadosPorFecha, ArrayList<String> plataformas) {
@@ -280,12 +282,10 @@ public class Main {
             Element nodoPlataformas = null, nodoPlataforma = null, nodoJuegos = null, nodoJuego = null, nodoNombre = null, nodoDesarrollador = null;
             Text texto = null;
 
-
             /*
             ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             Automatizar meidante un array la creacion de nodos por cada consola y cambiando por "P_" en caso de que empieze por un numero ya que XML no permite que una etiqueta empieze por numero
              */
-
 
             for (Juego juego : OrdenadosPorFecha) {
                 if (juego.getPlatform().equals("platform")) {
@@ -307,7 +307,6 @@ public class Main {
 
             // ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
             for (int i = 0; i < plataformas.size(); i++) {
 
                 //NODO PARA CADA PLATAFORMA
@@ -318,6 +317,30 @@ public class Main {
                 nodoPlataformas.appendChild(nodoJuegos);
 
                 for (Juego j : OrdenadosPorFecha) {
+
+                    //En caso de que sea una consola que el nombre empieza por numero se le añade el prefijo P_ por tanto ahi que quitarlo y posteriormente compara con array
+
+                    if (plataformas.get(i).contains("P_")) {
+                        String plataforma = plataformas.get(i).substring(2);
+                        if (j.getPlatform().equals(plataforma)) {
+                            nodoJuego = documento.createElement("Juego");
+                            nodoJuegos.appendChild(nodoJuego);
+
+                            nodoNombre = documento.createElement("nombre");
+                            nodoJuego.appendChild(nodoNombre);
+
+                            texto = documento.createTextNode(j.getGame());
+                            nodoNombre.appendChild(texto);
+
+                            nodoDesarrollador = documento.createElement("desarrollador");
+                            nodoJuego.appendChild(nodoDesarrollador);
+
+                            texto = documento.createTextNode(j.getDeveloper());
+                            nodoDesarrollador.appendChild(texto);
+                        }
+                    }
+
+                    //Para el resto de casos se comparara de manera habitual
 
                     if (j.getPlatform().equals(plataformas.get(i))) {
 
@@ -357,6 +380,11 @@ public class Main {
 
 
     //EJERCICIO 4
+    /*
+    se pide que generes una estructura de carpetas que contenga toda la información escrita en el XML. Es decir, que
+    tendremos que crear una carpeta llamada Plataformas, y dentro de esta una carpeta por cada plataforma que se haya
+    leído, y dentro de cada carpeta un fichero .txt con la información de los juegos presentes
+     */
 
     public static void carpetasapartirxml(ArrayList<String> plataformas, ArrayList<Juego> juegos) {
 
@@ -387,6 +415,15 @@ public class Main {
                         BufferedWriter bw = null;
                         bw = new BufferedWriter(new FileWriter("src/Files/Plataformas/" + elemento.getNodeName() + "/" + elemento.getNodeName() + ".txt"));
                         for (Juego j : juegos) {
+
+                            if (plataformas.get(i).contains("P_")) {
+                                String plataforma = plataformas.get(i).substring(2);
+                                if (j.getPlatform().equals(plataforma)) {
+                                    bw.write("El juego se llama " + j.getGame() + " y lo desarrolla " + j.getDeveloper());
+                                    bw.newLine();
+                                }
+                            }
+
                             if (j.getPlatform().equals(plataformas.get(i))) {
                                 bw.write("El juego se llama " + j.getGame() + " y lo desarrolla " + j.getDeveloper());
                                 bw.newLine();
@@ -403,63 +440,69 @@ public class Main {
     }
 
     //EJERCICIO 5
-
-    //Para leer el archivo vinario voy a reutilizar el metodo leerbinario, que me genera un array de objetos
-
-    public static void carpetasporgenero(ArrayList<Juego> ordenadosPorFecha) {
-
-
-
+    /*
+    un sistema de carpetas, en el que se cree una carpeta por género (Acción, Role- Playing…) y dentro de cada una
+    generes ficheros de texto con toda la información de los juegos de dicho género que tengan una nota de metacritic
+    de 8 o superior.
+     */
+    //Para leer el archivo binario voy a reutilizar el metodo leerbinario, que me genera un array de objetos
+    public static void carpetasporgenero(ArrayList<Juego> ordenadosPorFecha, ArrayList<Juego> juegos) {
 
         for (Juego j : ordenadosPorFecha) {
 
+            //Creamos las carpetas
+
             String genero = j.getGenere().trim().replaceAll("[/\\\\:*?\"<>|]", "_");
-            Path carpeta = Paths.get("src/Files/OrdenadoPorGeneros/"+genero);
+            Path carpeta = Paths.get("src/Files/OrdenadoPorGeneros/" + genero);
 
             try {
                 Files.createDirectories(carpeta);
 
-                boolean continuar = false;
+                //creamos dentro de cada carpeta un archivo y escribimos de toda la lista de juegos los que tengan el mismo genero que la carpeta y una nota superior a 8
 
                 BufferedWriter bw = null;
-                bw = new BufferedWriter(new FileWriter("src/Files/OrdenadoPorGeneros/"+genero+"/"+genero+".txt"));
+                bw = new BufferedWriter(new FileWriter("src/Files/OrdenadoPorGeneros/" + genero + "/" + genero + ".txt"));
 
-                    if(j.getMetascore().compareTo("80")>=0){
-                        bw.write("Game: " + j.getGame());
-                        bw.newLine();
-                        bw.write("Platform: " + j.getPlatform());
-                        bw.newLine();
-                        bw.write("Developer: " + j.getDeveloper());
-                        bw.newLine();
-                        bw.write("Genre: " + j.getGenere());
-                        bw.newLine();
-                        bw.write("Number of Players: " + j.getNumber_players());
-                        bw.newLine();
-                        bw.write("Rating: " + j.getRating());
-                        bw.newLine();
-                        bw.write("Release Date: " + j.getRelease_date());
-                        bw.newLine();
-                        bw.write("Positive Critics: " + j.getPositive_critics());
-                        bw.newLine();
-                        bw.write("Neutral Critics: " + j.getNeutral_critics());
-                        bw.newLine();
-                        bw.write("Negative Critics: " + j.getNegative_critics());
-                        bw.newLine();
-                        bw.write("Positive Users: " + j.getPositive_users());
-                        bw.newLine();
-                        bw.write("Neutral Users: " + j.getNeutral_users());
-                        bw.newLine();
-                        bw.write("Negative Users: " + j.getNegative_users());
-                        bw.newLine();
-                        bw.write("Metascore: " + j.getMetascore());
-                        bw.newLine();
-                        bw.write("Users Score: " + j.getUsers_score());
-                        bw.newLine();
-                        bw.write("------------------------------------------------------------------");
-                        bw.newLine();
+                for (Juego juego : juegos) {
+
+                    if (juego.getGenere().equals(j.getGenere())) {
+                        if (juego.getMetascore().compareTo("80") >= 0) {
+                            bw.write("Game: " + juego.getGame());
+                            bw.newLine();
+                            bw.write("Platform: " + juego.getPlatform());
+                            bw.newLine();
+                            bw.write("Developer: " + juego.getDeveloper());
+                            bw.newLine();
+                            bw.write("Genre: " + juego.getGenere());
+                            bw.newLine();
+                            bw.write("Number of Players: " + juego.getNumber_players());
+                            bw.newLine();
+                            bw.write("Rating: " + juego.getRating());
+                            bw.newLine();
+                            bw.write("Release Date: " + juego.getRelease_date());
+                            bw.newLine();
+                            bw.write("Positive Critics: " + juego.getPositive_critics());
+                            bw.newLine();
+                            bw.write("Neutral Critics: " + juego.getNeutral_critics());
+                            bw.newLine();
+                            bw.write("Negative Critics: " + juego.getNegative_critics());
+                            bw.newLine();
+                            bw.write("Positive Users: " + juego.getPositive_users());
+                            bw.newLine();
+                            bw.write("Neutral Users: " + juego.getNeutral_users());
+                            bw.newLine();
+                            bw.write("Negative Users: " + juego.getNegative_users());
+                            bw.newLine();
+                            bw.write("Metascore: " + juego.getMetascore());
+                            bw.newLine();
+                            bw.write("Users Score: " + juego.getUsers_score());
+                            bw.newLine();
+                            bw.write("------------------------------------------------------------------");
+                            bw.newLine();
+                        }
                     }
-
-                    bw.close();
+                }
+                bw.close();
 
             } catch (IOException e) {
                 throw new RuntimeException(e);
@@ -467,8 +510,12 @@ public class Main {
         }
     }
 
-
     //EJERCICIO 6
+    /*
+    . Se quiere mostrar la información de aquel juego que tenga mucha más nota de los críticos que de usuarios,
+    y aquel juego que tenga mucha más nota de los usuarios que de los críticos.
+
+     */
     public static void notasdispares() {
 
         String nombre = "";
@@ -545,6 +592,65 @@ public class Main {
 
         System.out.println("El juego " + nombre + " tiene " + NotaCriticos + " notas positivas de críticos y " + NotaUsuarios + " notas positivas de usuarios");
         System.out.println("El juego " + nombre1 + " tiene " + NotaCriticos1 + " notas positivas de críticos y " + NotaUsuarios1 + " notas positivas de usuarios");
+        System.out.println(" ");
+    }
 
+    //EJERCICIO 7
+    /*
+    hacer una búsqueda que devuelva las posiciones en las que se encuentra un juego con rating M, darle esa información
+     al usuario por consola, y luego permitir que seleccione el juego a visualizar
+     */
+
+    public static void mayordeedad(ArrayList<Juego> juegos) {
+
+        System.out.println("-------------------------------------------------------------------------------------------------");
+        System.out.println("LISTA DE JUEGOS PARA MAYORES DE EDAD");
+        System.out.println(" ");
+
+        ArrayList<Integer> posiciones = new ArrayList<Integer>();
+        ArrayList<String> nombres = new ArrayList<String>();
+
+        Scanner sc = new Scanner(System.in);
+        int posicion = 0;
+
+        for (Juego juego : juegos) {
+            if (juego.getRating().equals("M")) {
+                System.out.println("El juego en la posicion " + posicion + " es para mayores de 181");
+                nombres.add(juego.getGame());
+                posiciones.add(posicion);
+                posicion++;
+            } else {
+                posicion++;
+            }
+        }
+
+        System.out.println("1. Conocer el juego en una posicion.");
+        System.out.println("2. Finalizar programa.");
+        boolean salir = false;
+        boolean enlista = false;
+        int opcion = sc.nextInt();
+        switch (opcion) {
+            case 1:
+                while (!salir) {
+                    System.out.println("Introduzca una posicion de la lista:");
+                    String seleccion = sc.next();
+                    try {
+                        int numero = Integer.parseInt(seleccion);
+                        for (int i = 0; i < posiciones.size(); i++) {
+                            if (numero == posiciones.get(i)) {
+                                System.out.println("El nombre del juego es " + nombres.get(i));
+                                salir = true;
+                            }
+                        }
+                    } catch (NumberFormatException e) {
+                        System.out.println("Se deve de introducir un numero");
+                    }
+                }
+                break;
+            case 2:
+                System.out.println("Adios!");
+                salir = true;
+                break;
+        }
     }
 }

@@ -1,0 +1,208 @@
+Game: Super Mario 3D World
+Platform: WIIU
+Developer: Nintendo
+Genre: Platformer
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 22, 2013
+Positive Critics: 81
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 354
+Neutral Users: 35
+Negative Users: 16
+Metascore: 93
+Users Score: 89
+------------------------------------------------------------------
+Game: Trine 2: Complete Story
+Platform: PS4
+Developer: Frozenbyte, Inc.
+Genre: Platformer
+Number of Players: Up to 3 
+Rating: E10+
+Release Date: Nov 15, 2013
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 13
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Rayman Legends
+Platform: PS4
+Developer: Ubisoft Montpellier
+Genre: Platformer
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 18, 2014
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 95
+Neutral Users: 5
+Negative Users: 3
+Metascore: 90
+Users Score: 84
+------------------------------------------------------------------
+Game: Shovel Knight
+Platform: 3DS
+Developer: Yacht Club Games
+Genre: Platformer
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jun 26, 2014
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 50
+Neutral Users: 4
+Negative Users: 1
+Metascore: 90
+Users Score: 83
+------------------------------------------------------------------
+Game: Shovel Knight
+Platform: WIIU
+Developer: Yacht Club Games
+Genre: Platformer
+Number of Players: 
+Rating: E
+Release Date: Jun 26, 2014
+Positive Critics: 22
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 51
+Neutral Users: 4
+Negative Users: 1
+Metascore: 88
+Users Score: 84
+------------------------------------------------------------------
+Game: Shovel Knight
+Platform: PC
+Developer: Yacht Club Games
+Genre: Platformer
+Number of Players: 
+Rating: E
+Release Date: Jun 26, 2014
+Positive Critics: 44
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 65
+Neutral Users: 9
+Negative Users: 4
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Oddworld: Abe''s Oddysee - New ''n'' Tasty'
+Platform: PS4
+Developer: Just Add Water
+Genre: Platformer
+Number of Players: 
+Rating: T
+Release Date: Jul 22, 2014
+Positive Critics: 44
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 13
+Negative Users: 2
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Broforce
+Platform: PC
+Developer: Free Lives
+Genre: Platformer
+Number of Players: 
+Rating: 
+Release Date: Apr  7, 2014
+Positive Critics: 30
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 7
+Negative Users: 3
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: Donkey Kong Country: Tropical Freeze
+Platform: WIIU
+Developer: Retro Studios
+Genre: Platformer
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Feb 21, 2014
+Positive Critics: 65
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 138
+Neutral Users: 10
+Negative Users: 3
+Metascore: 83
+Users Score: 89
+------------------------------------------------------------------
+Game: 'Shantae and the Pirate''s Curse'
+Platform: 3DS
+Developer: WayForward
+Genre: Platformer
+Number of Players: 
+Rating: T
+Release Date: Oct 23, 2014
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: Valiant Hearts: The Great War
+Platform: XONE
+Developer: Ubisoft Montpellier
+Genre: Platformer
+Number of Players: 
+Rating: T
+Release Date: Jun 25, 2014
+Positive Critics: 12
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 5
+Negative Users: 1
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Lovers in a Dangerous Spacetime
+Platform: XONE
+Developer: Asteroid Base
+Genre: Platformer
+Number of Players: 
+Rating: E10+
+Release Date: Sep  9, 2015
+Positive Critics: 23
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: N++
+Platform: PS4
+Developer: Metanet Software Inc.
+Genre: Platformer
+Number of Players: 
+Rating: E10+
+Release Date: Jul 28, 2015
+Positive Critics: 43
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 1
+Negative Users: 6
+Metascore: 82
+Users Score: 65
+------------------------------------------------------------------

@@ -1,3 +1,19 @@
+Game: FIFA 14
+Platform: XONE
+Developer: EA Canada
+Genre: Sim
+Number of Players: Up to 22 
+Rating: E
+Release Date: Nov 19, 2013
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 7
+Negative Users: 28
+Metascore: 88
+Users Score: 58
+------------------------------------------------------------------
 Game: NBA 2K14
 Platform: XONE
 Developer: Visual Concepts

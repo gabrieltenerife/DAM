@@ -1,0 +1,288 @@
+Game: Star Wars: The Old Republic
+Platform: PC
+Developer: LucasArts, BioWare
+Genre: Sci-Fi
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Dec 20, 2011
+Positive Critics: 68
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 646
+Neutral Users: 216
+Negative Users: 490
+Metascore: 85
+Users Score: 59
+------------------------------------------------------------------
+Game: Gone Home
+Platform: PC
+Developer: The Fullbright Company
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 15, 2013
+Positive Critics: 49
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 306
+Neutral Users: 169
+Negative Users: 337
+Metascore: 86
+Users Score: 54
+------------------------------------------------------------------
+Game: XCOM: Enemy Within
+Platform: PC
+Developer: Firaxis Games
+Genre: Sci-Fi
+Number of Players: 
+Rating: M
+Release Date: Nov 11, 2013
+Positive Critics: 52
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 21
+Negative Users: 12
+Metascore: 86
+Users Score: 80
+------------------------------------------------------------------
+Game: The Talos Principle
+Platform: PC
+Developer: Croteam
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 11, 2014
+Positive Critics: 54
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 91
+Neutral Users: 13
+Negative Users: 3
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: WildStar
+Platform: PC
+Developer: Carbine Studios
+Genre: Sci-Fi
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jun  3, 2014
+Positive Critics: 45
+Neutral Critics: 6
+Negative Critics: 1
+Positive Users: 249
+Neutral Users: 54
+Negative Users: 60
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: Sunless Sea
+Platform: PC
+Developer: Failbetter Games
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jul  1, 2014
+Positive Critics: 31
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 8
+Negative Users: 8
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Elite: Dangerous
+Platform: PC
+Developer: Frontier Developments
+Genre: Sci-Fi
+Number of Players: 
+Rating: T
+Release Date: Dec 16, 2014
+Positive Critics: 46
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 522
+Neutral Users: 84
+Negative Users: 247
+Metascore: 80
+Users Score: 67
+------------------------------------------------------------------
+Game: inFamous: Second Son
+Platform: PS4
+Developer: Sucker Punch
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 21, 2014
+Positive Critics: 69
+Neutral Critics: 20
+Negative Critics: 1
+Positive Users: 501
+Neutral Users: 131
+Negative Users: 43
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Kerbal Space Program
+Platform: PC
+Developer: SQUADTeam, Squad
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 27, 2015
+Positive Critics: 24
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 96
+Neutral Users: 7
+Negative Users: 6
+Metascore: 88
+Users Score: 82
+------------------------------------------------------------------
+Game: Starcraft II: Legacy of the Void
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Sci-Fi
+Number of Players: 
+Rating: T
+Release Date: Nov 10, 2015
+Positive Critics: 61
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 108
+Neutral Users: 20
+Negative Users: 24
+Metascore: 88
+Users Score: 83
+------------------------------------------------------------------
+Game: SteamWorld Heist
+Platform: 3DS
+Developer: Image & Form
+Genre: Sci-Fi
+Number of Players: 
+Rating: E10+
+Release Date: Dec 10, 2015
+Positive Critics: 46
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 83
+------------------------------------------------------------------
+Game: Life is Strange
+Platform: PS4
+Developer: DONTNOD Entertainment
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 133
+Neutral Users: 27
+Negative Users: 10
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: Axiom Verge
+Platform: PS4
+Developer: Tom Happ
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 31, 2015
+Positive Critics: 55
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 6
+Negative Users: 4
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Invisible, Inc.
+Platform: PC
+Developer: Klei Entertainment
+Genre: Sci-Fi
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 12, 2015
+Positive Critics: 38
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 5
+Negative Users: 1
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: DOOM
+Platform: XONE
+Developer: id Software
+Genre: Sci-Fi
+Number of Players: Up to 12 
+Rating: M
+Release Date: May 13, 2016
+Positive Critics: 24
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 121
+Neutral Users: 10
+Negative Users: 7
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: DOOM
+Platform: PS4
+Developer: id Software
+Genre: Sci-Fi
+Number of Players: Up to 12 
+Rating: M
+Release Date: May 13, 2016
+Positive Critics: 57
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 348
+Neutral Users: 48
+Negative Users: 20
+Metascore: 85
+Users Score: 83
+------------------------------------------------------------------
+Game: DOOM
+Platform: PC
+Developer: id Software
+Genre: Sci-Fi
+Number of Players: 
+Rating: M
+Release Date: May 13, 2016
+Positive Critics: 41
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 407
+Neutral Users: 45
+Negative Users: 32
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Gears of War 4
+Platform: XONE
+Developer: The Coalition
+Genre: Sci-Fi
+Number of Players: Up to 10 
+Rating: M
+Release Date: Oct 11, 2016
+Positive Critics: 90
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 209
+Neutral Users: 42
+Negative Users: 28
+Metascore: 84
+Users Score: 69
+------------------------------------------------------------------

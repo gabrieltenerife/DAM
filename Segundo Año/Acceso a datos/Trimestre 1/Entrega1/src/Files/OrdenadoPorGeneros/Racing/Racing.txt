@@ -1,0 +1,640 @@
+Game: DiRT Rally
+Platform: PC
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Dec  7, 2015
+Positive Critics: 33
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 7
+Negative Users: 3
+Metascore: 86
+Users Score: 87
+------------------------------------------------------------------
+Game: Rocket League
+Platform: PS4
+Developer: Psyonix, Panic Button
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E
+Release Date: Jul  7, 2015
+Positive Critics: 47
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 288
+Neutral Users: 18
+Negative Users: 11
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: Forza Horizon 3
+Platform: XONE
+Developer: Playground Games
+Genre: Racing
+Number of Players: Up to 12 
+Rating: E
+Release Date: Sep 23, 2016
+Positive Critics: 89
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 142
+Neutral Users: 13
+Negative Users: 12
+Metascore: 91
+Users Score: 80
+------------------------------------------------------------------
+Game: Forza Horizon 3: Blizzard Mountain
+Platform: XONE
+Developer: Playground Games
+Genre: Racing
+Number of Players: 
+Rating: 
+Release Date: Dec 13, 2016
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 87
+Users Score: 77
+------------------------------------------------------------------
+Game: Forza Horizon 3
+Platform: PC
+Developer: Playground Games
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Sep 27, 2016
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 50
+Neutral Users: 10
+Negative Users: 31
+Metascore: 86
+Users Score: 69
+------------------------------------------------------------------
+Game: DiRT Rally
+Platform: XONE
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Apr  5, 2016
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 1
+Negative Users: 4
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: F1 2016
+Platform: PC
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Aug 19, 2016
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 77
+------------------------------------------------------------------
+Game: DiRT Rally
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E
+Release Date: Apr  5, 2016
+Positive Critics: 45
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 53
+Neutral Users: 9
+Negative Users: 9
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: F1 2016
+Platform: XONE
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Aug 19, 2016
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: F1 2016
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 22 
+Rating: E
+Release Date: Aug 19, 2016
+Positive Critics: 47
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 0
+Negative Users: 1
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: Trackmania Turbo
+Platform: PS4
+Developer: Nadeo
+Genre: Racing
+Number of Players: Up to 32 
+Rating: E
+Release Date: Mar 22, 2016
+Positive Critics: 48
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 6
+Negative Users: 5
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: F1 2017
+Platform: PC
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Aug 24, 2017
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 1
+Metascore: 89
+Users Score: 74
+------------------------------------------------------------------
+Game: Forza Horizon 3: Hot Wheels
+Platform: XONE
+Developer: Playground Games
+Genre: Racing
+Number of Players: 
+Rating: 
+Release Date: May  9, 2017
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: F1 2017
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 20 
+Rating: E
+Release Date: Aug 25, 2017
+Positive Critics: 41
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 1
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: DiRT 4
+Platform: XONE
+Developer: Codemasters, Deep Silver
+Genre: Racing
+Number of Players: 
+Rating: T
+Release Date: Jun  6, 2017
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 3
+Metascore: 86
+Users Score: 67
+------------------------------------------------------------------
+Game: Forza Motorsport 7
+Platform: XONE
+Developer: Turn 10
+Genre: Racing
+Number of Players: Up to 24 
+Rating: E
+Release Date: Sep 29, 2017
+Positive Critics: 72
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 78
+Neutral Users: 14
+Negative Users: 63
+Metascore: 86
+Users Score: 59
+------------------------------------------------------------------
+Game: Wipeout: Omega Collection
+Platform: PS4
+Developer: Sony Interactive Entertainment
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Jun  6, 2017
+Positive Critics: 52
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 1
+Negative Users: 4
+Metascore: 85
+Users Score: 82
+------------------------------------------------------------------
+Game: DiRT 4
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 8 
+Rating: T
+Release Date: Jun  6, 2017
+Positive Critics: 41
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 4
+Negative Users: 7
+Metascore: 85
+Users Score: 75
+------------------------------------------------------------------
+Game: Project CARS 2
+Platform: XONE
+Developer: Bandai Namco Games, Slightly Mad Studios
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Sep 22, 2017
+Positive Critics: 21
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 7
+Metascore: 84
+Users Score: 56
+------------------------------------------------------------------
+Game: F1 2017
+Platform: XONE
+Developer: Codemasters
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Aug 25, 2017
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 2
+Metascore: 84
+Users Score: 72
+------------------------------------------------------------------
+Game: Project CARS 2
+Platform: PC
+Developer: Slightly Mad Studios
+Genre: Racing
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Sep 21, 2017
+Positive Critics: 22
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 4
+Negative Users: 9
+Metascore: 84
+Users Score: 71
+------------------------------------------------------------------
+Game: Project CARS 2
+Platform: PS4
+Developer: Bandai Namco Games, Slightly Mad Studios
+Genre: Racing
+Number of Players: Up to 16 
+Rating: E
+Release Date: Sep 22, 2017
+Positive Critics: 37
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 7
+Negative Users: 19
+Metascore: 82
+Users Score: 61
+------------------------------------------------------------------
+Game: Forza Motorsport 7
+Platform: PC
+Developer: Turn 10
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Oct  3, 2017
+Positive Critics: 13
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 7
+Negative Users: 34
+Metascore: 82
+Users Score: 43
+------------------------------------------------------------------
+Game: Fast RMX
+Platform: Switch
+Developer: 'Shin''en'
+Genre: Racing
+Number of Players: 
+Rating: E
+Release Date: Mar  3, 2017
+Positive Critics: 46
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 56
+Neutral Users: 12
+Negative Users: 5
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Redout
+Platform: PS4
+Developer: 505 Games
+Genre: Racing
+Number of Players: Up to 6 
+Rating: E
+Release Date: Aug 29, 2017
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Forza Horizon 4
+Platform: XONE
+Developer: Playground Games
+Genre: Racing
+Number of Players: Up to 12 
+Rating: E
+Release Date: Sep 28, 2018
+Positive Critics: 88
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 155
+Neutral Users: 10
+Negative Users: 22
+Metascore: 92
+Users Score: 79
+------------------------------------------------------------------
+Game: Forza Horizon 4
+Platform: PC
+Developer: Playground Games
+Genre: Racing
+Number of Players: Up to 12 
+Rating: E
+Release Date: Sep 28, 2018
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 7
+Negative Users: 15
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: F1 2018
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 20 
+Rating: E
+Release Date: Aug 24, 2018
+Positive Critics: 38
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 2
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Sprint Vector
+Platform: PC
+Developer: Survios
+Genre: Racing
+Number of Players: Up to 8 
+Rating: 
+Release Date: Feb  2, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 68
+------------------------------------------------------------------
+Game: F1 2018
+Platform: XONE
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 20 
+Rating: E
+Release Date: Aug 24, 2018
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 2
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: F1 2018
+Platform: PC
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 20 
+Rating: E
+Release Date: Aug 23, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 2
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: Horizon Chase Turbo
+Platform: Switch
+Developer: Aquiris Game Studio
+Genre: Racing
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 28, 2018
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Sprint Vector
+Platform: PS4
+Developer: Survios
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Feb 13, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: Burnout Paradise Remastered
+Platform: PS4
+Developer: Criterion Games, STELLAR ENTERTAINMENT SOFTWARE LTD
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: Mar 16, 2018
+Positive Critics: 37
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 3
+Negative Users: 3
+Metascore: 82
+Users Score: 65
+------------------------------------------------------------------
+Game: DiRT Rally 2.0
+Platform: PC
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E
+Release Date: Feb 26, 2019
+Positive Critics: 19
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 4
+Negative Users: 9
+Metascore: 86
+Users Score: 51
+------------------------------------------------------------------
+Game: Trials Rising
+Platform: XONE
+Developer: RedLynx
+Genre: Racing
+Number of Players: Up to 8 
+Rating: T
+Release Date: Feb 26, 2019
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 1
+Metascore: 85
+Users Score: 53
+------------------------------------------------------------------
+Game: DiRT Rally 2.0
+Platform: PS4
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E
+Release Date: Feb 26, 2019
+Positive Critics: 31
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 9
+Metascore: 84
+Users Score: 57
+------------------------------------------------------------------
+Game: Sega Ages: OutRun
+Platform: Switch
+Developer: Sega
+Genre: Racing
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jan 10, 2019
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Trials Rising
+Platform: PC
+Developer: RedLynx
+Genre: Racing
+Number of Players: Up to 8 
+Rating: T
+Release Date: Feb 26, 2019
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 5
+Metascore: 83
+Users Score: 53
+------------------------------------------------------------------
+Game: DiRT Rally 2.0
+Platform: XONE
+Developer: Codemasters
+Genre: Racing
+Number of Players: Up to 8 
+Rating: E
+Release Date: Feb 26, 2019
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------

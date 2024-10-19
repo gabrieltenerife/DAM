@@ -1,0 +1,144 @@
+Game: Resogun
+Platform: PS4
+Developer: Housemarque, XDEV
+Genre: Shooter
+Number of Players: 
+Rating: E10+
+Release Date: Nov 15, 2013
+Positive Critics: 61
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 132
+Neutral Users: 23
+Negative Users: 2
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Velocity 2X
+Platform: VITA
+Developer: FuturLab
+Genre: Shooter
+Number of Players: 
+Rating: E10+
+Release Date: Sep  2, 2014
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 6
+Metascore: 90
+Users Score: 72
+------------------------------------------------------------------
+Game: Titanfall
+Platform: XONE
+Developer: Respawn Entertainment
+Genre: Shooter
+Number of Players: Up to 12 
+Rating: M
+Release Date: Mar 11, 2014
+Positive Critics: 66
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 515
+Neutral Users: 180
+Negative Users: 86
+Metascore: 86
+Users Score: 67
+------------------------------------------------------------------
+Game: Titanfall
+Platform: PC
+Developer: Respawn Entertainment
+Genre: Shooter
+Number of Players: 
+Rating: M
+Release Date: Mar 11, 2014
+Positive Critics: 28
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 188
+Neutral Users: 142
+Negative Users: 136
+Metascore: 86
+Users Score: 62
+------------------------------------------------------------------
+Game: BioShock Infinite: Burial at Sea - Episode Two
+Platform: PC
+Developer: Irrational Games
+Genre: Shooter
+Number of Players: 
+Rating: M
+Release Date: Mar 25, 2014
+Positive Critics: 25
+Neutral Critics: 8
+Negative Critics: 1
+Positive Users: 46
+Neutral Users: 13
+Negative Users: 7
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: Halo 5: Guardians
+Platform: XONE
+Developer: 343 Industries
+Genre: Shooter
+Number of Players: Up to 24 
+Rating: T
+Release Date: Oct 27, 2015
+Positive Critics: 89
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 427
+Neutral Users: 173
+Negative Users: 203
+Metascore: 84
+Users Score: 64
+------------------------------------------------------------------
+Game: Helldivers
+Platform: PS4
+Developer: Arrowhead Game Studios
+Genre: Shooter
+Number of Players: 2
+Rating: T
+Release Date: Mar  3, 2015
+Positive Critics: 46
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 64
+Neutral Users: 8
+Negative Users: 12
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Tom Clancy''s The Division'
+Platform: XONE
+Developer: Massive Entertainment
+Genre: Shooter
+Number of Players: Up to 16 
+Rating: M
+Release Date: Mar  8, 2016
+Positive Critics: 27
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 86
+Neutral Users: 32
+Negative Users: 27
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: 'Tom Clancy''s The Division'
+Platform: PS4
+Developer: Massive Entertainment
+Genre: Shooter
+Number of Players: Up to 24 
+Rating: M
+Release Date: Mar  8, 2016
+Positive Critics: 50
+Neutral Critics: 12
+Negative Critics: 1
+Positive Users: 373
+Neutral Users: 122
+Negative Users: 124
+Metascore: 80
+Users Score: 70
+------------------------------------------------------------------

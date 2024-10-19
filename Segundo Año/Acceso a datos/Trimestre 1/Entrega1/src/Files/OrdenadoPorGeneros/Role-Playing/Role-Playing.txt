@@ -1,0 +1,2896 @@
+Game: The Elder Scrolls V: Skyrim
+Platform: PC
+Developer: Bethesda Game Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2011
+Positive Critics: 32
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1616
+Neutral Users: 322
+Negative Users: 451
+Metascore: 94
+Users Score: 82
+------------------------------------------------------------------
+Game: The Witcher 2: Assassins of Kings
+Platform: PC
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 17, 2011
+Positive Critics: 70
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 1155
+Neutral Users: 127
+Negative Users: 77
+Metascore: 88
+Users Score: 85
+------------------------------------------------------------------
+Game: Rift
+Platform: PC
+Developer: Trion Worlds
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Mar  1, 2011
+Positive Critics: 56
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 121
+Neutral Users: 51
+Negative Users: 47
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Dragon Age II
+Platform: PC
+Developer: BioWare
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar  8, 2011
+Positive Critics: 38
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 364
+Neutral Users: 291
+Negative Users: 1017
+Metascore: 82
+Users Score: 45
+------------------------------------------------------------------
+Game: Fallout: New Vegas - Old World Blues
+Platform: PC
+Developer: Obsidian Entertainment
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Jul 19, 2011
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 10
+Negative Users: 5
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: To the Moon
+Platform: PC
+Developer: Freebird Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov  1, 2011
+Positive Critics: 22
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 209
+Neutral Users: 17
+Negative Users: 15
+Metascore: 81
+Users Score: 89
+------------------------------------------------------------------
+Game: Dungeon Defenders
+Platform: PC
+Developer: Trendy Entertainment
+Genre: Role-Playing
+Number of Players: 
+Rating: E10+
+Release Date: Oct 18, 2011
+Positive Critics: 21
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 28
+Negative Users: 29
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Persona 4 Golden
+Platform: VITA
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: Up to 40 
+Rating: M
+Release Date: Nov 20, 2012
+Positive Critics: 61
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 237
+Neutral Users: 7
+Negative Users: 4
+Metascore: 93
+Users Score: 85
+------------------------------------------------------------------
+Game: Mass Effect 3
+Platform: PC
+Developer: BioWare
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: Mar  6, 2012
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 641
+Neutral Users: 334
+Negative Users: 1038
+Metascore: 89
+Users Score: 58
+------------------------------------------------------------------
+Game: Torchlight II
+Platform: PC
+Developer: Runic Games
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Sep 20, 2012
+Positive Critics: 66
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 423
+Neutral Users: 49
+Negative Users: 23
+Metascore: 88
+Users Score: 85
+------------------------------------------------------------------
+Game: Diablo III
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: May 15, 2012
+Positive Critics: 81
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 1178
+Neutral Users: 506
+Negative Users: 2998
+Metascore: 88
+Users Score: 41
+------------------------------------------------------------------
+Game: Dark Souls: Prepare to Die Edition
+Platform: PC
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: M
+Release Date: Aug 24, 2012
+Positive Critics: 36
+Neutral Critics: 5
+Negative Critics: 1
+Positive Users: 371
+Neutral Users: 61
+Negative Users: 153
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: PlanetSide 2
+Platform: PC
+Developer: Sony Online Entertainment
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Nov 20, 2012
+Positive Critics: 38
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 268
+Neutral Users: 106
+Negative Users: 154
+Metascore: 84
+Users Score: 70
+------------------------------------------------------------------
+Game: Legend of Grimrock
+Platform: PC
+Developer: Almost Human
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Apr 11, 2012
+Positive Critics: 46
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 137
+Neutral Users: 24
+Negative Users: 17
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Kingdoms of Amalur: Reckoning
+Platform: PC
+Developer: Big Huge Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb  7, 2012
+Positive Critics: 22
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 201
+Neutral Users: 101
+Negative Users: 54
+Metascore: 81
+Users Score: 67
+------------------------------------------------------------------
+Game: Pokemon Y
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Oct 12, 2013
+Positive Critics: 65
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 120
+Neutral Users: 34
+Negative Users: 6
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: Pokemon X
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Oct 12, 2013
+Positive Critics: 67
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 157
+Neutral Users: 33
+Negative Users: 10
+Metascore: 87
+Users Score: 86
+------------------------------------------------------------------
+Game: Dust: An Elysian Tail
+Platform: PC
+Developer: Humble Hearts
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 24, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 96
+Neutral Users: 9
+Negative Users: 3
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: Rogue Legacy
+Platform: PC
+Developer: Cellar Door Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun 27, 2013
+Positive Critics: 42
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 32
+Negative Users: 20
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: Mass Effect 3: Citadel
+Platform: PC
+Developer: BioWare
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Mar  5, 2013
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 8
+Negative Users: 14
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Etrian Odyssey IV: Legends of the Titan
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 26, 2013
+Positive Critics: 38
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 0
+Negative Users: 4
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: Shin Megami Tensei IV
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jul 16, 2013
+Positive Critics: 45
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 6
+Negative Users: 3
+Metascore: 83
+Users Score: 62
+------------------------------------------------------------------
+Game: Final Fantasy XIV Online: A Realm Reborn
+Platform: PC
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Aug 27, 2013
+Positive Critics: 29
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 277
+Neutral Users: 48
+Negative Users: 98
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: Ys: Memories of Celceta
+Platform: VITA
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Nov 26, 2013
+Positive Critics: 53
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 45
+Neutral Users: 5
+Negative Users: 1
+Metascore: 82
+Users Score: 87
+------------------------------------------------------------------
+Game: Monster Hunter 3 Ultimate
+Platform: WIIU
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 19, 2013
+Positive Critics: 46
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 4
+Negative Users: 4
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: Mario & Luigi: Dream Team
+Platform: 3DS
+Developer: Alphadream Corporation
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 11, 2013
+Positive Critics: 60
+Neutral Critics: 15
+Negative Critics: 0
+Positive Users: 57
+Neutral Users: 16
+Negative Users: 4
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Etrian Odyssey Untold: The Millennium Girl
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct  1, 2013
+Positive Critics: 36
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: World of Warcraft: Warlords of Draenor
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Role-Playing
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Nov 13, 2014
+Positive Critics: 47
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 158
+Neutral Users: 42
+Negative Users: 192
+Metascore: 87
+Users Score: 59
+------------------------------------------------------------------
+Game: Diablo III: Ultimate Evil Edition
+Platform: XONE
+Developer: Blizzard Entertainment
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: Aug 19, 2014
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 6
+Negative Users: 3
+Metascore: 86
+Users Score: 78
+------------------------------------------------------------------
+Game: Legend of Grimrock II
+Platform: PC
+Developer: Almost Human
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Oct 15, 2014
+Positive Critics: 37
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 57
+Neutral Users: 13
+Negative Users: 6
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: South Park: The Stick of Truth
+Platform: PC
+Developer: Obsidian Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar  4, 2014
+Positive Critics: 43
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 249
+Neutral Users: 41
+Negative Users: 15
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: SMITE
+Platform: PC
+Developer: Hi-Rez Studios
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Mar 25, 2014
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 178
+Neutral Users: 20
+Negative Users: 44
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Persona Q: Shadow of the Labyrinth
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 25, 2014
+Positive Critics: 50
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 6
+Negative Users: 6
+Metascore: 83
+Users Score: 52
+------------------------------------------------------------------
+Game: Transistor
+Platform: PS4
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: May 20, 2014
+Positive Critics: 51
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 79
+Neutral Users: 11
+Negative Users: 7
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Transistor
+Platform: PC
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 20, 2014
+Positive Critics: 29
+Neutral Critics: 5
+Negative Critics: 1
+Positive Users: 93
+Neutral Users: 19
+Negative Users: 8
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Child of Light
+Platform: VITA
+Developer: Ubisoft Montreal
+Genre: Role-Playing
+Number of Players: 2
+Rating: E10+
+Release Date: Jul  1, 2014
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 4
+Negative Users: 2
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Pokemon Omega Ruby
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 21, 2014
+Positive Critics: 55
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 16
+Negative Users: 9
+Metascore: 83
+Users Score: 87
+------------------------------------------------------------------
+Game: Dark Souls II: Crown of the Ivory King
+Platform: PC
+Developer: Namco Bandai Games
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Sep 29, 2014
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 3
+Negative Users: 0
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Pokemon Alpha Sapphire
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 21, 2014
+Positive Critics: 47
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 6
+Negative Users: 3
+Metascore: 82
+Users Score: 88
+------------------------------------------------------------------
+Game: Soul Sacrifice Delta
+Platform: VITA
+Developer: SCE Japan Studio
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: May 13, 2014
+Positive Critics: 23
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 2
+Negative Users: 0
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: Dark Souls II: Crown of the Sunken King
+Platform: PC
+Developer: Namco Bandai Games
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Jul 22, 2014
+Positive Critics: 17
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 9
+Negative Users: 4
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: Marvel Heroes 2015
+Platform: PC
+Developer: Gazillion
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Jun  4, 2014
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 173
+Neutral Users: 21
+Negative Users: 26
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: The Banner Saga
+Platform: PC
+Developer: Stoic
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 14, 2014
+Positive Critics: 59
+Neutral Critics: 15
+Negative Critics: 0
+Positive Users: 89
+Neutral Users: 42
+Negative Users: 28
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Icewind Dale: Enhanced Edition
+Platform: PC
+Developer: Black Isle Studios, Beamdog, Overhaul Games
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Oct 30, 2014
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: ArcheAge
+Platform: PC
+Developer: XLGAMES
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Sep 16, 2014
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 101
+Neutral Users: 34
+Negative Users: 292
+Metascore: 80
+Users Score: 37
+------------------------------------------------------------------
+Game: Undertale
+Platform: PC
+Developer: tobyfox
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 15, 2015
+Positive Critics: 40
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 760
+Neutral Users: 69
+Negative Users: 50
+Metascore: 92
+Users Score: 83
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt - Hearts of Stone
+Platform: PS4
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Oct 12, 2015
+Positive Critics: 25
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 69
+Neutral Users: 6
+Negative Users: 1
+Metascore: 90
+Users Score: 88
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt - Hearts of Stone
+Platform: PC
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Oct 13, 2015
+Positive Critics: 36
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 101
+Neutral Users: 3
+Negative Users: 3
+Metascore: 89
+Users Score: 91
+------------------------------------------------------------------
+Game: Dark Souls II: Scholar of the First Sin
+Platform: XONE
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: T
+Release Date: Apr  7, 2015
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 9
+Negative Users: 5
+Metascore: 89
+Users Score: 77
+------------------------------------------------------------------
+Game: Bastion
+Platform: PS4
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: 
+Rating: E10+
+Release Date: Apr  7, 2015
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 8
+Negative Users: 3
+Metascore: 89
+Users Score: 78
+------------------------------------------------------------------
+Game: Divinity: Original Sin Enhanced Edition
+Platform: XONE
+Developer: Larian Studios Games Ltd
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Oct 27, 2015
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 2
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: Divinity: Original Sin Enhanced Edition
+Platform: PS4
+Developer: Larian Studios Games Ltd
+Genre: Role-Playing
+Number of Players: 2
+Rating: M
+Release Date: Oct 27, 2015
+Positive Critics: 39
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 8
+Negative Users: 8
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Bloodborne: The Old Hunters
+Platform: PS4
+Developer: From Software
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Nov 24, 2015
+Positive Critics: 59
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 6
+Negative Users: 3
+Metascore: 87
+Users Score: 90
+------------------------------------------------------------------
+Game: Dark Souls II: Scholar of the First Sin
+Platform: PS4
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: T
+Release Date: Apr  7, 2015
+Positive Critics: 40
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 84
+Neutral Users: 18
+Negative Users: 15
+Metascore: 87
+Users Score: 80
+------------------------------------------------------------------
+Game: Monster Hunter 4 Ultimate
+Platform: 3DS
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Feb 13, 2015
+Positive Critics: 75
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 6
+Negative Users: 8
+Metascore: 86
+Users Score: 86
+------------------------------------------------------------------
+Game: Xenoblade Chronicles 3D
+Platform: 3DS
+Developer: Monster Games Inc.
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Apr 10, 2015
+Positive Critics: 59
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 7
+Negative Users: 6
+Metascore: 86
+Users Score: 89
+------------------------------------------------------------------
+Game: Shin Megami Tensei: Devil Survivor 2 Record Breaker
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May  5, 2015
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 39
+------------------------------------------------------------------
+Game: Etrian Odyssey 2 Untold: The Fafnir Knight
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  4, 2015
+Positive Critics: 36
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Shadowrun: Hong Kong
+Platform: PC
+Developer: Harebrained Schemes LLC
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 20, 2015
+Positive Critics: 25
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 9
+Negative Users: 7
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Guild Wars 2: Heart of Thorns
+Platform: PC
+Developer: ArenaNet
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Oct 23, 2015
+Positive Critics: 19
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 306
+Neutral Users: 35
+Negative Users: 154
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Grandia II Anniversary Edition
+Platform: PC
+Developer: GungHo
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug 24, 2015
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Hand of Fate
+Platform: XONE
+Developer: Defiant Development
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Feb 18, 2015
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 2
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: 'Wasteland 2: Director''s Cut'
+Platform: PS4
+Developer: InXile Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 13, 2015
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 5
+Negative Users: 2
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt - Blood and Wine
+Platform: PC
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: May 30, 2016
+Positive Critics: 50
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 162
+Neutral Users: 7
+Negative Users: 4
+Metascore: 92
+Users Score: 92
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt - Blood and Wine
+Platform: PS4
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: May 30, 2016
+Positive Critics: 26
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 79
+Neutral Users: 3
+Negative Users: 1
+Metascore: 91
+Users Score: 89
+------------------------------------------------------------------
+Game: Dark Souls III
+Platform: PC
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: Apr 11, 2016
+Positive Critics: 54
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 162
+Neutral Users: 42
+Negative Users: 57
+Metascore: 89
+Users Score: 84
+------------------------------------------------------------------
+Game: Dark Souls III
+Platform: PS4
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: Apr 12, 2016
+Positive Critics: 68
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 284
+Neutral Users: 32
+Negative Users: 37
+Metascore: 89
+Users Score: 88
+------------------------------------------------------------------
+Game: Stardew Valley
+Platform: XONE
+Developer: Sickhead Games, LLC, Eric Barone
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 14, 2016
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 1
+Metascore: 89
+Users Score: 77
+------------------------------------------------------------------
+Game: World of Warcraft: Legion
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Aug 30, 2016
+Positive Critics: 61
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 73
+Neutral Users: 28
+Negative Users: 48
+Metascore: 88
+Users Score: 73
+------------------------------------------------------------------
+Game: Dark Souls III
+Platform: XONE
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: Apr 12, 2016
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 56
+Neutral Users: 5
+Negative Users: 10
+Metascore: 87
+Users Score: 86
+------------------------------------------------------------------
+Game: Pokemon Sun
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 18, 2016
+Positive Critics: 85
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 123
+Neutral Users: 23
+Negative Users: 35
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: Pokemon Moon
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 18, 2016
+Positive Critics: 82
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 71
+Neutral Users: 17
+Negative Users: 16
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Odin Sphere Leifthrasir
+Platform: PS4
+Developer: Vanillaware
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jun  7, 2016
+Positive Critics: 48
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 6
+Negative Users: 1
+Metascore: 87
+Users Score: 81
+------------------------------------------------------------------
+Game: Stardew Valley
+Platform: PS4
+Developer: Sickhead Games, LLC, Eric Barone
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 13, 2016
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 1
+Negative Users: 3
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Monster Hunter Generations
+Platform: 3DS
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Jul 15, 2016
+Positive Critics: 69
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 7
+Negative Users: 4
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: Crypt of the NecroDancer
+Platform: PS4
+Developer: Brace Yourself Games
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Feb  2, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 67
+------------------------------------------------------------------
+Game: Darkest Dungeon
+Platform: PC
+Developer: Red Hook Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 19, 2016
+Positive Critics: 52
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 71
+Neutral Users: 19
+Negative Users: 24
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Hyper Light Drifter
+Platform: PC
+Developer: Heart Machine
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Mar 31, 2016
+Positive Critics: 43
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 8
+Negative Users: 3
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: Final Fantasy IX
+Platform: PC
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 14, 2016
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 89
+------------------------------------------------------------------
+Game: Shin Megami Tensei IV: Apocalypse
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 20, 2016
+Positive Critics: 38
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 1
+Metascore: 84
+Users Score: 45
+------------------------------------------------------------------
+Game: Darkest Dungeon
+Platform: PS4
+Developer: Red Hook Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 27, 2016
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 4
+Negative Users: 5
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: The Banner Saga 2
+Platform: PC
+Developer: Stoic
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 19, 2016
+Positive Critics: 51
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 3
+Negative Users: 3
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: The Elder Scrolls V: Skyrim Special Edition
+Platform: XONE
+Developer: Bethesda Game Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 28, 2016
+Positive Critics: 23
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 8
+Negative Users: 4
+Metascore: 82
+Users Score: 74
+------------------------------------------------------------------
+Game: The Elder Scrolls V: Skyrim Special Edition
+Platform: PS4
+Developer: Bethesda Game Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 28, 2016
+Positive Critics: 36
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 72
+Neutral Users: 23
+Negative Users: 34
+Metascore: 81
+Users Score: 71
+------------------------------------------------------------------
+Game: 'Dragon''s Dogma: Dark Arisen'
+Platform: PC
+Developer: Capcom, QLOC
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 15, 2016
+Positive Critics: 54
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 61
+Neutral Users: 12
+Negative Users: 16
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Bravely Second: End Layer
+Platform: 3DS
+Developer: Silicon Studio
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Apr 15, 2016
+Positive Critics: 58
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 10
+Negative Users: 4
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Dragon Quest VII: Fragments of the Forgotten Past
+Platform: 3DS
+Developer: ArtePiazza
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 16, 2016
+Positive Critics: 44
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 4
+Negative Users: 1
+Metascore: 81
+Users Score: 84
+------------------------------------------------------------------
+Game: The Legend of Heroes: Trails of Cold Steel II
+Platform: VITA
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Sep  6, 2016
+Positive Critics: 23
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: Tyranny
+Platform: PC
+Developer: Obsidian Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov 10, 2016
+Positive Critics: 54
+Neutral Critics: 13
+Negative Critics: 0
+Positive Users: 63
+Neutral Users: 23
+Negative Users: 20
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Hyper Light Drifter
+Platform: PS4
+Developer: Heart Machine
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Jul 26, 2016
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Persona 5
+Platform: PS4
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr  4, 2017
+Positive Critics: 96
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 628
+Neutral Users: 40
+Negative Users: 31
+Metascore: 93
+Users Score: 87
+------------------------------------------------------------------
+Game: Undertale
+Platform: PS4
+Developer: tobyfox
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 15, 2017
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 47
+Neutral Users: 12
+Negative Users: 17
+Metascore: 92
+Users Score: 66
+------------------------------------------------------------------
+Game: Final Fantasy XIV: Stormblood
+Platform: PS4
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Jun 20, 2017
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 3
+Negative Users: 2
+Metascore: 89
+Users Score: 86
+------------------------------------------------------------------
+Game: Horizon Zero Dawn
+Platform: PS4
+Developer: Guerrilla
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 28, 2017
+Positive Critics: 110
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 1168
+Neutral Users: 117
+Negative Users: 105
+Metascore: 89
+Users Score: 83
+------------------------------------------------------------------
+Game: NieR: Automata
+Platform: PS4
+Developer: PlatinumGames
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar  7, 2017
+Positive Critics: 98
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 462
+Neutral Users: 42
+Negative Users: 28
+Metascore: 88
+Users Score: 89
+------------------------------------------------------------------
+Game: Nioh
+Platform: PS4
+Developer: Team Ninja
+Genre: Role-Playing
+Number of Players: 2
+Rating: M
+Release Date: Feb  7, 2017
+Positive Critics: 97
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 293
+Neutral Users: 31
+Negative Users: 33
+Metascore: 88
+Users Score: 85
+------------------------------------------------------------------
+Game: Stardew Valley
+Platform: Switch
+Developer: ConcernedApe
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct  5, 2017
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 64
+Neutral Users: 3
+Negative Users: 2
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Final Fantasy XIV: Stormblood
+Platform: PC
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Jun 20, 2017
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 11
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: West of Loathing
+Platform: PC
+Developer: Asymmetric Publications
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 10, 2017
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 4
+Negative Users: 0
+Metascore: 87
+Users Score: 76
+------------------------------------------------------------------
+Game: Pillars of Eternity: Complete Edition
+Platform: XONE
+Developer: Obsidian Entertainment, Paradox Arctic
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Aug 29, 2017
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 78
+------------------------------------------------------------------
+Game: Final Fantasy XII: The Zodiac Age
+Platform: PS4
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 11, 2017
+Positive Critics: 71
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 7
+Negative Users: 1
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: Dragon Quest VIII: Journey of the Cursed King
+Platform: 3DS
+Developer: Cygames
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 20, 2017
+Positive Critics: 51
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: Pillars of Eternity: Complete Edition
+Platform: PS4
+Developer: Obsidian Entertainment, Paradox Arctic
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 29, 2017
+Positive Critics: 25
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 2
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: 'Nioh: Bloodshed''s End'
+Platform: PS4
+Developer: Team Ninja
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Sep 26, 2017
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 66
+------------------------------------------------------------------
+Game: Final Fantasy IX
+Platform: PS4
+Developer: SquareSoft, Square Enix
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 19, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 0
+Metascore: 85
+Users Score: 90
+------------------------------------------------------------------
+Game: Ys VIII: Lacrimosa of DANA
+Platform: PS4
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 12, 2017
+Positive Critics: 38
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 2
+Negative Users: 2
+Metascore: 85
+Users Score: 82
+------------------------------------------------------------------
+Game: Planescape: Torment - Enhanced Edition
+Platform: PC
+Developer: Beamdog
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 11, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 5
+Metascore: 85
+Users Score: 68
+------------------------------------------------------------------
+Game: Pyre
+Platform: PS4
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: 
+Rating: E10+
+Release Date: Jul 25, 2017
+Positive Critics: 44
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 5
+Negative Users: 5
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: Pokemon Ultra Sun
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 17, 2017
+Positive Critics: 54
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 115
+Neutral Users: 12
+Negative Users: 18
+Metascore: 84
+Users Score: 90
+------------------------------------------------------------------
+Game: South Park: The Fractured But Whole
+Platform: XONE
+Developer: Ubisoft San Francisco
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 17, 2017
+Positive Critics: 30
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 6
+Negative Users: 1
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: The Elder Scrolls V: Skyrim
+Platform: Switch
+Developer: Bethesda Game Studios, Iron Galaxy Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 17, 2017
+Positive Critics: 62
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 49
+Neutral Users: 5
+Negative Users: 9
+Metascore: 84
+Users Score: 82
+------------------------------------------------------------------
+Game: Battle Chasers: Nightwar
+Platform: XONE
+Developer: Airship Syndicate Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct  3, 2017
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 66
+------------------------------------------------------------------
+Game: NieR: Automata
+Platform: PC
+Developer: PlatinumGames
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 17, 2017
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 128
+Neutral Users: 19
+Negative Users: 27
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: Pokemon Ultra Moon
+Platform: 3DS
+Developer: Game Freak
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E
+Release Date: Nov 17, 2017
+Positive Critics: 50
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 78
+Neutral Users: 6
+Negative Users: 8
+Metascore: 84
+Users Score: 90
+------------------------------------------------------------------
+Game: Nioh: Complete Edition
+Platform: PC
+Developer: Team Ninja
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: M
+Release Date: Nov  7, 2017
+Positive Critics: 21
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 8
+Negative Users: 10
+Metascore: 84
+Users Score: 67
+------------------------------------------------------------------
+Game: Guild Wars 2: Path of Fire
+Platform: PC
+Developer: ArenaNet
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Sep 22, 2017
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 54
+Neutral Users: 4
+Negative Users: 16
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Xenoblade Chronicles 2
+Platform: Switch
+Developer: Monolith Soft
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec  1, 2017
+Positive Critics: 78
+Neutral Critics: 13
+Negative Critics: 1
+Positive Users: 302
+Neutral Users: 30
+Negative Users: 41
+Metascore: 83
+Users Score: 87
+------------------------------------------------------------------
+Game: Horizon Zero Dawn: The Frozen Wilds
+Platform: PS4
+Developer: Guerrilla
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Nov  7, 2017
+Positive Critics: 66
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 7
+Negative Users: 5
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: Path of Exile: The Fall of Oriath
+Platform: XONE
+Developer: Grinding Gear Games
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: Aug 24, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: The Legend of Heroes: Trails in the Sky the 3rd
+Platform: PC
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: May  3, 2017
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Dark Souls III: The Ringed City
+Platform: PC
+Developer: From Software
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Mar 28, 2017
+Positive Critics: 18
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 3
+Negative Users: 1
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: Dark Souls III: The Ringed City
+Platform: PS4
+Developer: From Software
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: Mar 28, 2017
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 1
+Negative Users: 3
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Pyre
+Platform: PC
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Jul 25, 2017
+Positive Critics: 23
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 6
+Negative Users: 3
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Darkest Dungeon: The Crimson Court
+Platform: PC
+Developer: Red Hook Studios
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Jun 19, 2017
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 63
+------------------------------------------------------------------
+Game: 'Mario & Luigi: Superstar Saga + Bowser''s Minions'
+Platform: 3DS
+Developer: Alphadream Corporation
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Oct  6, 2017
+Positive Critics: 45
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 0
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Finding Paradise
+Platform: PC
+Developer: Freebird Games
+Genre: Role-Playing
+Number of Players: 
+Rating: 
+Release Date: Dec 14, 2017
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 4
+Negative Users: 0
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Children of Zodiarcs
+Platform: PS4
+Developer: Cardboard Utopia
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 18, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 4
+Metascore: 81
+Users Score: 59
+------------------------------------------------------------------
+Game: South Park: The Fractured But Whole
+Platform: PC
+Developer: Ubisoft San Francisco
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 17, 2017
+Positive Critics: 19
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 22
+Negative Users: 21
+Metascore: 81
+Users Score: 67
+------------------------------------------------------------------
+Game: Etrian Odyssey V: Beyond the Myth
+Platform: 3DS
+Developer: Atlus Co., Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct 17, 2017
+Positive Critics: 30
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: The Legend of Heroes: Trails of Cold Steel
+Platform: PC
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug  2, 2017
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: 'Dragon''s Dogma: Dark Arisen'
+Platform: XONE
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  3, 2017
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 83
+------------------------------------------------------------------
+Game: Ys Seven
+Platform: PC
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 30, 2017
+Positive Critics: 12
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Undertale
+Platform: Switch
+Developer: tobyfox
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 18, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 5
+Negative Users: 6
+Metascore: 93
+Users Score: 75
+------------------------------------------------------------------
+Game: Divinity: Original Sin II - Definitive Edition
+Platform: XONE
+Developer: Larian Studios Games Ltd
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: M
+Release Date: Aug 31, 2018
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 0
+Negative Users: 2
+Metascore: 92
+Users Score: 77
+------------------------------------------------------------------
+Game: Divinity: Original Sin II - Definitive Edition
+Platform: PS4
+Developer: Larian Studios Games Ltd
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: M
+Release Date: Aug 31, 2018
+Positive Critics: 46
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 1
+Negative Users: 5
+Metascore: 92
+Users Score: 76
+------------------------------------------------------------------
+Game: NieR: Automata - Become as Gods Edition
+Platform: XONE
+Developer: PlatinumGames
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 26, 2018
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 0
+Negative Users: 2
+Metascore: 90
+Users Score: 91
+------------------------------------------------------------------
+Game: Bastion
+Platform: Switch
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Sep 13, 2018
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 90
+Users Score: 84
+------------------------------------------------------------------
+Game: Monster Hunter: World
+Platform: XONE
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 16 
+Rating: T
+Release Date: Jan 26, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 13
+Negative Users: 10
+Metascore: 90
+Users Score: 72
+------------------------------------------------------------------
+Game: Monster Hunter: World
+Platform: PS4
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Jan 26, 2018
+Positive Critics: 89
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 229
+Neutral Users: 47
+Negative Users: 60
+Metascore: 90
+Users Score: 76
+------------------------------------------------------------------
+Game: Hyper Light Drifter
+Platform: Switch
+Developer: Heart Machine
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  6, 2018
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 3
+Negative Users: 2
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Pillars of Eternity II: Deadfire
+Platform: PC
+Developer: Obsidian Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May  8, 2018
+Positive Critics: 68
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 19
+Negative Users: 21
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: Monster Hunter: World
+Platform: PC
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Aug  9, 2018
+Positive Critics: 34
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 13
+Negative Users: 43
+Metascore: 88
+Users Score: 61
+------------------------------------------------------------------
+Game: Diablo III: Eternal Collection
+Platform: Switch
+Developer: Blizzard Entertainment
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov  2, 2018
+Positive Critics: 60
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 2
+Negative Users: 0
+Metascore: 88
+Users Score: 79
+------------------------------------------------------------------
+Game: Crypt of the NecroDancer: Nintendo Switch Edition
+Platform: Switch
+Developer: Brace Yourself Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  1, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 3
+Negative Users: 1
+Metascore: 86
+Users Score: 75
+------------------------------------------------------------------
+Game: CrossCode
+Platform: PC
+Developer: Radical Fish Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 20, 2018
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 1
+Negative Users: 5
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: Transistor
+Platform: Switch
+Developer: Supergiant Games
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  1, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: Dragon Quest XI: Echoes of an Elusive Age
+Platform: PS4
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  4, 2018
+Positive Critics: 80
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 96
+Neutral Users: 11
+Negative Users: 6
+Metascore: 86
+Users Score: 87
+------------------------------------------------------------------
+Game: Dark Souls Remastered
+Platform: XONE
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: May 25, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 0
+Metascore: 86
+Users Score: 65
+------------------------------------------------------------------
+Game: Thronebreaker: The Witcher Tales
+Platform: XONE
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Dec  4, 2018
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 2
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Final Fantasy XV: Windows Edition
+Platform: PC
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Mar  6, 2018
+Positive Critics: 28
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 10
+Negative Users: 17
+Metascore: 85
+Users Score: 80
+------------------------------------------------------------------
+Game: West of Loathing
+Platform: Switch
+Developer: Asymmetric Publications
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 31, 2018
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 0
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: Darkest Dungeon
+Platform: Switch
+Developer: Red Hook Studios
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 18, 2018
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 4
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Thronebreaker: The Witcher Tales
+Platform: PC
+Developer: CD Projekt Red Studio
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Nov  9, 2018
+Positive Critics: 47
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 12
+Negative Users: 7
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: Radiant Historia: Perfect Chronology
+Platform: 3DS
+Developer: Atlus
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 13, 2018
+Positive Critics: 43
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: Dark Souls Remastered
+Platform: PS4
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: May 25, 2018
+Positive Critics: 48
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 46
+Neutral Users: 9
+Negative Users: 23
+Metascore: 84
+Users Score: 64
+------------------------------------------------------------------
+Game: Child of Light
+Platform: Switch
+Developer: Ubisoft Montreal
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct 11, 2018
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: Moonlighter
+Platform: XONE
+Developer: 11 bit studios, Digital Sun
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Dark Souls Remastered
+Platform: PC
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: May 23, 2018
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 5
+Negative Users: 17
+Metascore: 84
+Users Score: 60
+------------------------------------------------------------------
+Game: Final Fantasy XII: The Zodiac Age
+Platform: PC
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  1, 2018
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 2
+Metascore: 83
+Users Score: 88
+------------------------------------------------------------------
+Game: Dark Souls Remastered
+Platform: Switch
+Developer: From Software
+Genre: Role-Playing
+Number of Players: Up to 6 
+Rating: M
+Release Date: Oct 19, 2018
+Positive Critics: 43
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 5
+Negative Users: 5
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: The Elder Scrolls Online: Summerset
+Platform: PC
+Developer: ZeniMax Media
+Genre: Role-Playing
+Number of Players: 
+Rating: M
+Release Date: May 21, 2018
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 11
+Metascore: 83
+Users Score: 56
+------------------------------------------------------------------
+Game: Moonlighter
+Platform: Switch
+Developer: 11 bit studios, Digital Sun
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  5, 2018
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 0
+Metascore: 83
+Users Score: 82
+------------------------------------------------------------------
+Game: Ys VIII: Lacrimosa of DANA
+Platform: Switch
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun 26, 2018
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 87
+------------------------------------------------------------------
+Game: Victor Vran: Overkill Edition
+Platform: Switch
+Developer: Haemimont Games
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: M
+Release Date: Aug 28, 2018
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Ashen
+Platform: PC
+Developer: A44
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Dec  6, 2018
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 10
+Negative Users: 5
+Metascore: 82
+Users Score: 63
+------------------------------------------------------------------
+Game: World of Final Fantasy Maxima
+Platform: XONE
+Developer: Square Enix
+Genre: Role-Playing
+Number of Players: 2
+Rating: E10+
+Release Date: Nov  6, 2018
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: The Elder Scrolls V: Skyrim VR
+Platform: PC
+Developer: Bethesda Softworks
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr  2, 2018
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 2
+Metascore: 81
+Users Score: 67
+------------------------------------------------------------------
+Game: Ni no Kuni II: Revenant Kingdom
+Platform: PC
+Developer: Level 5
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 23, 2018
+Positive Critics: 19
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 9
+Negative Users: 4
+Metascore: 81
+Users Score: 68
+------------------------------------------------------------------
+Game: Moonlighter
+Platform: PS4
+Developer: 11 bit studios, Digital Sun
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 29, 2018
+Positive Critics: 25
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 6
+Negative Users: 1
+Metascore: 81
+Users Score: 72
+------------------------------------------------------------------
+Game: Ys Origin
+Platform: XONE
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 11, 2018
+Positive Critics: 11
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 62
+------------------------------------------------------------------
+Game: Xenoblade Chronicles 2: Torna ~ The Golden Country
+Platform: Switch
+Developer: Monolith Soft
+Genre: Role-Playing
+Number of Players: 
+Rating: T
+Release Date: Sep 14, 2018
+Positive Critics: 35
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 2
+Negative Users: 3
+Metascore: 80
+Users Score: 86
+------------------------------------------------------------------
+Game: South Park: The Fractured But Whole
+Platform: Switch
+Developer: Ubisoft San Francisco
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Apr 24, 2018
+Positive Critics: 29
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 4
+Negative Users: 3
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Monster Hunter Generations Ultimate
+Platform: Switch
+Developer: Capcom
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: T
+Release Date: Aug 28, 2018
+Positive Critics: 43
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: Battle Chasers: Nightwar
+Platform: Switch
+Developer: Airship Syndicate Entertainment
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 15, 2018
+Positive Critics: 19
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 4
+Negative Users: 1
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: NieR: Automata - Game of the YoRHa Edition
+Platform: PS4
+Developer: PlatinumGames
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 26, 2019
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 2
+Metascore: 90
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Mario & Luigi: Bowser''s Inside Story + Bowser Jr.''s Journey'
+Platform: 3DS
+Developer: Nintendo, Alphadream Corporation
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jan 11, 2019
+Positive Critics: 36
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Tales of Vesperia: Definitive Edition
+Platform: Switch
+Developer: Bandai Namco Games
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jan 11, 2019
+Positive Critics: 25
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: The Legend of Heroes: Trails of Cold Steel
+Platform: PS4
+Developer: Falcom
+Genre: Role-Playing
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 26, 2019
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 89
+------------------------------------------------------------------
+Game: Tales of Vesperia: Definitive Edition
+Platform: XONE
+Developer: Bandai Namco Games
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jan 11, 2019
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Tales of Vesperia: Definitive Edition
+Platform: PS4
+Developer: Bandai Namco Games, QLOC
+Genre: Role-Playing
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jan 11, 2019
+Positive Critics: 25
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Yo-kai Watch 3
+Platform: 3DS
+Developer: Level 5
+Genre: Role-Playing
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Feb  8, 2019
+Positive Critics: 21
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------

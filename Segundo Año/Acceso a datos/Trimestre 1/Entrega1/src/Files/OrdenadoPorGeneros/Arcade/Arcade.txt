@@ -1,0 +1,32 @@
+Game: Call of Duty: Modern Warfare Remastered
+Platform: PS4
+Developer: Infinity Ward
+Genre: Arcade
+Number of Players: Up to 18 
+Rating: M
+Release Date: Nov  4, 2016
+Positive Critics: 24
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 16
+Negative Users: 14
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: NBA 2K18
+Platform: PS4
+Developer: Visual Concepts
+Genre: Arcade
+Number of Players: Up to 10 
+Rating: E10+
+Release Date: Sep 15, 2017
+Positive Critics: 45
+Neutral Critics: 5
+Negative Critics: 4
+Positive Users: 17
+Neutral Users: 11
+Negative Users: 199
+Metascore: 80
+Users Score: 17
+------------------------------------------------------------------

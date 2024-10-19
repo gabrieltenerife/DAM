@@ -1,0 +1,1152 @@
+Game: The Legend of Zelda: Ocarina of Time 3D
+Platform: 3DS
+Developer: GREZZO
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 19, 2011
+Positive Critics: 84
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 283
+Neutral Users: 20
+Negative Users: 5
+Metascore: 94
+Users Score: 90
+------------------------------------------------------------------
+Game: Pushmo
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Miscellaneous
+Number of Players: 1 Player
+Rating: E
+Release Date: Dec  8, 2011
+Positive Critics: 31
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 4
+Negative Users: 2
+Metascore: 90
+Users Score: 83
+------------------------------------------------------------------
+Game: SpaceChem
+Platform: PC
+Developer: Zachtronics Industries
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar  2, 2011
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 45
+Neutral Users: 3
+Negative Users: 2
+Metascore: 84
+Users Score: 85
+------------------------------------------------------------------
+Game: The Walking Dead: Episode 5 - No Time Left
+Platform: PC
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Nov 21, 2012
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 10
+Negative Users: 6
+Metascore: 89
+Users Score: 88
+------------------------------------------------------------------
+Game: Colors! 3D
+Platform: 3DS
+Developer: Collecting Smiles
+Genre: Miscellaneous
+Number of Players: 1-2 
+Rating: E
+Release Date: Apr  5, 2012
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 0
+Metascore: 89
+Users Score: 78
+------------------------------------------------------------------
+Game: Crashmo
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Nov 22, 2012
+Positive Critics: 30
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 83
+------------------------------------------------------------------
+Game: The Walking Dead: Episode 3 - Long Road Ahead
+Platform: PC
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Aug 29, 2012
+Positive Critics: 22
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 7
+Negative Users: 6
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: The Walking Dead: Episode 2 - Starved for Help
+Platform: PC
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Jun 29, 2012
+Positive Critics: 24
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 5
+Negative Users: 3
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: Lumines: Electronic Symphony
+Platform: VITA
+Developer: Q Entertainment
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Feb 15, 2012
+Positive Critics: 57
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Art of Balance Touch!
+Platform: 3DS
+Developer: 'Shin''en'
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jun  7, 2012
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: Art Academy: Lessons for Everyone
+Platform: 3DS
+Developer: Nintendo, Headstrong Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Oct  1, 2012
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Metal Gear Solid HD Collection
+Platform: VITA
+Developer: Armature Studio
+Genre: Miscellaneous
+Number of Players: 1 Player
+Rating: M
+Release Date: Jun 12, 2012
+Positive Critics: 30
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: The Walking Dead: Episode 4 - Around Every Corner
+Platform: PC
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Oct 10, 2012
+Positive Critics: 17
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 2
+Negative Users: 1
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: Stacking
+Platform: PC
+Developer: Double Fine Productions
+Genre: Miscellaneous
+Number of Players: 1 Player
+Rating: E10+
+Release Date: Mar  6, 2012
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 4
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: 'FLY''N'
+Platform: PC
+Developer: Ankama
+Genre: Miscellaneous
+Number of Players: 
+Rating: 
+Release Date: Nov  9, 2012
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Gunpoint
+Platform: PC
+Developer: Tom Francis
+Genre: Miscellaneous
+Number of Players: 
+Rating: 
+Release Date: Jun  3, 2013
+Positive Critics: 31
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 92
+Neutral Users: 19
+Negative Users: 6
+Metascore: 83
+Users Score: 84
+------------------------------------------------------------------
+Game: Sokobond
+Platform: PC
+Developer: Alan Hazelden & Harry Lee
+Genre: Miscellaneous
+Number of Players: 1 Player
+Rating: 
+Release Date: Aug 27, 2013
+Positive Critics: 4
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Quell Memento
+Platform: VITA
+Developer: Fallen Tree Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jun  4, 2013
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: Antichamber
+Platform: PC
+Developer: Demruth
+Genre: Miscellaneous
+Number of Players: 
+Rating: 
+Release Date: Jan 31, 2013
+Positive Critics: 44
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 86
+Neutral Users: 20
+Negative Users: 11
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: The Walking Dead: A Telltale Games Series - The Complete First Season
+Platform: VITA
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Aug 20, 2013
+Positive Critics: 4
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 2
+Negative Users: 0
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: Year Walk
+Platform: PC
+Developer: Simogo
+Genre: Miscellaneous
+Number of Players: 
+Rating: 
+Release Date: Mar  6, 2014
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 5
+Negative Users: 3
+Metascore: 87
+Users Score: 70
+------------------------------------------------------------------
+Game: Final Fantasy X / X-2 HD Remaster
+Platform: VITA
+Developer: Virtuos
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 18, 2014
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 2
+Negative Users: 0
+Metascore: 86
+Users Score: 90
+------------------------------------------------------------------
+Game: Halo: The Master Chief Collection
+Platform: XONE
+Developer: 343 Industries
+Genre: Miscellaneous
+Number of Players: Up to 16 
+Rating: M
+Release Date: Nov 11, 2014
+Positive Critics: 60
+Neutral Critics: 8
+Negative Critics: 1
+Positive Users: 225
+Neutral Users: 53
+Negative Users: 80
+Metascore: 85
+Users Score: 74
+------------------------------------------------------------------
+Game: Hearthstone: Heroes of Warcraft - Goblins Vs. Gnomes
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Miscellaneous
+Number of Players: 
+Rating: 
+Release Date: Dec  8, 2014
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 6
+Negative Users: 5
+Metascore: 84
+Users Score: 62
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 1 - Zer0 Sum
+Platform: PC
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Nov 25, 2014
+Positive Critics: 41
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 5
+Negative Users: 4
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 1 - Zer0 Sum
+Platform: XONE
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Nov 26, 2014
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 3
+Negative Users: 0
+Metascore: 82
+Users Score: 82
+------------------------------------------------------------------
+Game: The Vanishing of Ethan Carter
+Platform: PC
+Developer: The Astronauts
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 25, 2014
+Positive Critics: 56
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 96
+Neutral Users: 53
+Negative Users: 17
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Phoenix Wright: Ace Attorney Trilogy
+Platform: 3DS
+Developer: NATSUME ATARI Inc.
+Genre: Miscellaneous
+Number of Players: 
+Rating: T
+Release Date: Dec  9, 2014
+Positive Critics: 29
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: The Sly Collection
+Platform: VITA
+Developer: Sanzaru Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: E10+
+Release Date: May 27, 2014
+Positive Critics: 27
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 1 - Zer0 Sum
+Platform: PS4
+Developer: Telltale Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Nov 25, 2014
+Positive Critics: 12
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 2
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Pushmo World
+Platform: WIIU
+Developer: Intelligent Systems
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jun 19, 2014
+Positive Critics: 30
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Uncharted: The Nathan Drake Collection
+Platform: PS4
+Developer: Bluepoint Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: T
+Release Date: Oct  9, 2015
+Positive Critics: 76
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 191
+Neutral Users: 21
+Negative Users: 16
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: Homeworld Remastered Collection
+Platform: PC
+Developer: Gearbox Software
+Genre: Miscellaneous
+Number of Players: 
+Rating: E10+
+Release Date: Feb 25, 2015
+Positive Critics: 48
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 7
+Negative Users: 14
+Metascore: 86
+Users Score: 82
+------------------------------------------------------------------
+Game: Gunman Clive HD Collection
+Platform: WIIU
+Developer: Horberg Productions
+Genre: Miscellaneous
+Number of Players: 
+Rating: E10+
+Release Date: Sep  3, 2015
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: Mega Man Legacy Collection
+Platform: PC
+Developer: Digital Eclipse
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug 24, 2015
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 1
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Rare Replay
+Platform: XONE
+Developer: Rare Ltd., Code Mystics Inc.
+Genre: Miscellaneous
+Number of Players: Up to 32 
+Rating: M
+Release Date: Aug  4, 2015
+Positive Critics: 70
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 9
+Negative Users: 4
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: Final Fantasy X / X-2 HD Remaster
+Platform: PS4
+Developer: Virtuos
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 12, 2015
+Positive Critics: 26
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 6
+Negative Users: 3
+Metascore: 84
+Users Score: 87
+------------------------------------------------------------------
+Game: Borderlands: The Handsome Collection
+Platform: PS4
+Developer: Gearbox Software, Iron Galaxy Studios
+Genre: Miscellaneous
+Number of Players: Up to 4 
+Rating: M
+Release Date: Mar 24, 2015
+Positive Critics: 46
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 60
+Neutral Users: 12
+Negative Users: 5
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: Art Academy: Home Studio
+Platform: WIIU
+Developer: Headstrong Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jun 25, 2015
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: The Vanishing of Ethan Carter
+Platform: PS4
+Developer: The Astronauts
+Genre: Miscellaneous
+Number of Players: 
+Rating: M
+Release Date: Jul 14, 2015
+Positive Critics: 28
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 14
+Neutral Users: 7
+Negative Users: 7
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Borderlands: The Handsome Collection
+Platform: XONE
+Developer: Gearbox Software, Iron Galaxy Studios
+Genre: Miscellaneous
+Number of Players: Up to 4 
+Rating: M
+Release Date: Mar 24, 2015
+Positive Critics: 8
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 3
+Negative Users: 2
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Mega Man Legacy Collection
+Platform: XONE
+Developer: Digital Eclipse
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Aug 25, 2015
+Positive Critics: 23
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 70
+------------------------------------------------------------------
+Game: Hatsune Miku: Project Mirai DX
+Platform: 3DS
+Developer: Sega
+Genre: Miscellaneous
+Number of Players: 
+Rating: E10+
+Release Date: Sep  8, 2015
+Positive Critics: 23
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 4
+Negative Users: 1
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: The Witness
+Platform: PS4
+Developer: Thekla, Inc
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jan 26, 2016
+Positive Critics: 71
+Neutral Critics: 9
+Negative Critics: 2
+Positive Users: 67
+Neutral Users: 27
+Negative Users: 26
+Metascore: 87
+Users Score: 72
+------------------------------------------------------------------
+Game: The Witness
+Platform: PC
+Developer: Thekla, Inc
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Jan 26, 2016
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 56
+Neutral Users: 15
+Negative Users: 27
+Metascore: 87
+Users Score: 69
+------------------------------------------------------------------
+Game: Hex: Shards of Fate
+Platform: PC
+Developer: Cryptozoic Entertainment, Hex Entertainment
+Genre: Miscellaneous
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Jan 26, 2016
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 7
+Negative Users: 20
+Metascore: 87
+Users Score: 63
+------------------------------------------------------------------
+Game: FRU
+Platform: XONE
+Developer: Through Games
+Genre: Miscellaneous
+Number of Players: 
+Rating: E
+Release Date: Jul 13, 2016
+Positive Critics: 21
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 68
+------------------------------------------------------------------
+Game: Final Fantasy X / X-2 HD Remaster
+Platform: PC
+Developer: Square Enix
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 12, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 2
+Metascore: 83
+Users Score: 90
+------------------------------------------------------------------
+Game: Pocket Card Jockey
+Platform: 3DS
+Developer: Game Freak
+Genre: Miscellaneous
+Number of Players: 
+Rating: E10+
+Release Date: May  5, 2016
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Zero Escape: The Nonary Games
+Platform: PS4
+Developer: Spike Chunsoft
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 24, 2017
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 0
+Negative Users: 1
+Metascore: 87
+Users Score: 79
+------------------------------------------------------------------
+Game: Kingdom Hearts HD I.5 + II.5 Remix
+Platform: PS4
+Developer: Square Enix
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar 28, 2017
+Positive Critics: 34
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 5
+Negative Users: 3
+Metascore: 84
+Users Score: 89
+------------------------------------------------------------------
+Game: Danganronpa 1-2 Reload
+Platform: PS4
+Developer: Spike Chunsoft
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 14, 2017
+Positive Critics: 27
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Hand of Fate 2
+Platform: PS4
+Developer: Defiant Development
+Genre: Miscellaneous
+Number of Players: 
+Rating: T
+Release Date: Nov  7, 2017
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 82
+Users Score: 72
+------------------------------------------------------------------
+Game: Hand of Fate 2
+Platform: XONE
+Developer: Defiant Development
+Genre: Miscellaneous
+Number of Players: 
+Rating: T
+Release Date: Dec  1, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 70
+------------------------------------------------------------------
+Game: Azure Striker Gunvolt: Striker Pack
+Platform: Switch
+Developer: Inti Creates
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug 31, 2017
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------
+Game: The Elder Scrolls: Legends
+Platform: PC
+Developer: Bethesda Softworks, Dire Wolf Digital
+Genre: Miscellaneous
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Mar 20, 2017
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 8
+Negative Users: 14
+Metascore: 80
+Users Score: 57
+------------------------------------------------------------------
+Game: Hand of Fate 2
+Platform: PC
+Developer: Defiant Development
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov  7, 2017
+Positive Critics: 22
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Faeria
+Platform: PC
+Developer: Abrakam SA
+Genre: Miscellaneous
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Mar  8, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Crash Bandicoot N. Sane Trilogy
+Platform: PS4
+Developer: Vicarious Visions
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 30, 2017
+Positive Critics: 68
+Neutral Critics: 17
+Negative Critics: 0
+Positive Users: 161
+Neutral Users: 21
+Negative Users: 21
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------
+Game: Bayonetta + Bayonetta 2
+Platform: Switch
+Developer: PlatinumGames
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 16, 2018
+Positive Critics: 27
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 2
+Negative Users: 3
+Metascore: 90
+Users Score: 87
+------------------------------------------------------------------
+Game: Mega Man X Legacy Collection
+Platform: Switch
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 24, 2018
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 86
+------------------------------------------------------------------
+Game: Mega Man Legacy Collection
+Platform: Switch
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: May 22, 2018
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 0
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Street Fighter: 30th Anniversary Collection
+Platform: PS4
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: 2
+Rating: T
+Release Date: May 29, 2018
+Positive Critics: 24
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 2
+Metascore: 83
+Users Score: 68
+------------------------------------------------------------------
+Game: Spyro Reignited Trilogy
+Platform: XONE
+Developer: Activision, Toys for Bob
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov 13, 2018
+Positive Critics: 17
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 3
+Metascore: 83
+Users Score: 68
+------------------------------------------------------------------
+Game: Spyro Reignited Trilogy
+Platform: PS4
+Developer: Activision, Toys for Bob
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov 13, 2018
+Positive Critics: 71
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 11
+Negative Users: 11
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: R-Type Dimensions EX
+Platform: Switch
+Developer: Southend Interactive
+Genre: Miscellaneous
+Number of Players: 2
+Rating: E
+Release Date: Nov 28, 2018
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: Street Fighter: 30th Anniversary Collection
+Platform: Switch
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: 2
+Rating: T
+Release Date: May 29, 2018
+Positive Critics: 32
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 4
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Hand of Fate 2
+Platform: Switch
+Developer: Defiant Development
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 17, 2018
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Mega Man X Legacy Collection 1 + 2
+Platform: PS4
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 24, 2018
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Mega Man X Legacy Collection 1 + 2
+Platform: Switch
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 24, 2018
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: Street Fighter: 30th Anniversary Collection
+Platform: XONE
+Developer: Capcom
+Genre: Miscellaneous
+Number of Players: 2
+Rating: T
+Release Date: May 29, 2018
+Positive Critics: 8
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 3
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: Armello
+Platform: Switch
+Developer: League of Geeks
+Genre: Miscellaneous
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Sep 27, 2018
+Positive Critics: 11
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------

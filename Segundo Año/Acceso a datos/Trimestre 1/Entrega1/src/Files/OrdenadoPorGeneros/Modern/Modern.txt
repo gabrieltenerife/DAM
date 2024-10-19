@@ -1,0 +1,208 @@
+Game: Darksiders II
+Platform: WIIU
+Developer: Vigil Games
+Genre: Modern
+Number of Players: 1 Player
+Rating: M
+Release Date: Nov 18, 2012
+Positive Critics: 34
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 3
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Sleeping Dogs
+Platform: PC
+Developer: United Front Games
+Genre: Modern
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 13, 2012
+Positive Critics: 18
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 196
+Neutral Users: 50
+Negative Users: 23
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Tomb Raider: Definitive Edition
+Platform: XONE
+Developer: Crystal Dynamics, United Front Games
+Genre: Modern
+Number of Players: Up to 8 
+Rating: M
+Release Date: Jan 28, 2014
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 51
+Neutral Users: 9
+Negative Users: 7
+Metascore: 86
+Users Score: 77
+------------------------------------------------------------------
+Game: Tomb Raider: Definitive Edition
+Platform: PS4
+Developer: Crystal Dynamics, Nixxes Software
+Genre: Modern
+Number of Players: Up to 8 
+Rating: M
+Release Date: Jan 28, 2014
+Positive Critics: 50
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 147
+Neutral Users: 27
+Negative Users: 15
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: Door Kickers
+Platform: PC
+Developer: KillHouse Games
+Genre: Modern
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Oct 20, 2014
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 4
+Negative Users: 4
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Watch Dogs
+Platform: PS4
+Developer: Ubisoft Montreal
+Genre: Modern
+Number of Players: Up to 8 
+Rating: M
+Release Date: May 27, 2014
+Positive Critics: 64
+Neutral Critics: 16
+Negative Critics: 0
+Positive Users: 380
+Neutral Users: 233
+Negative Users: 162
+Metascore: 80
+Users Score: 64
+------------------------------------------------------------------
+Game: Grand Theft Auto V
+Platform: PC
+Developer: Rockstar North
+Genre: Modern
+Number of Players: Up to 32 
+Rating: M
+Release Date: Apr 14, 2015
+Positive Critics: 56
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 407
+Neutral Users: 108
+Negative Users: 250
+Metascore: 96
+Users Score: 77
+------------------------------------------------------------------
+Game: Metal Gear Solid V: The Phantom Pain
+Platform: XONE
+Developer: Kojima Productions, Moby Dick Studio
+Genre: Modern
+Number of Players: Up to 16 
+Rating: M
+Release Date: Sep  1, 2015
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 82
+Neutral Users: 22
+Negative Users: 7
+Metascore: 95
+Users Score: 74
+------------------------------------------------------------------
+Game: Metal Gear Solid V: The Phantom Pain
+Platform: PS4
+Developer: Kojima Productions, Moby Dick Studio
+Genre: Modern
+Number of Players: Up to 16 
+Rating: M
+Release Date: Sep  1, 2015
+Positive Critics: 84
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 591
+Neutral Users: 152
+Negative Users: 67
+Metascore: 93
+Users Score: 82
+------------------------------------------------------------------
+Game: Hitman
+Platform: PS4
+Developer: Io Interactive
+Genre: Modern
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 31, 2016
+Positive Critics: 38
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 5
+Negative Users: 1
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Hitman
+Platform: PC
+Developer: Io Interactive
+Genre: Modern
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 31, 2016
+Positive Critics: 18
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 6
+Negative Users: 6
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: SUPERHOT
+Platform: XONE
+Developer: SUPERHOT
+Genre: Modern
+Number of Players: 
+Rating: T
+Release Date: May  3, 2016
+Positive Critics: 14
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 2
+Negative Users: 0
+Metascore: 83
+Users Score: 80
+------------------------------------------------------------------
+Game: SUPERHOT
+Platform: PC
+Developer: SUPERHOT
+Genre: Modern
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 25, 2016
+Positive Critics: 77
+Neutral Critics: 16
+Negative Critics: 0
+Positive Users: 47
+Neutral Users: 32
+Negative Users: 9
+Metascore: 82
+Users Score: 75
+------------------------------------------------------------------

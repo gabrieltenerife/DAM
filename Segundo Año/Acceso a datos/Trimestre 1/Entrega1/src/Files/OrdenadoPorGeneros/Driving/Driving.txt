@@ -1,3 +1,403 @@
+Game: DiRT 3
+Platform: PC
+Developer: Codemasters
+Genre: Driving
+Number of Players: 
+Rating: T
+Release Date: May 23, 2011
+Positive Critics: 21
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 30
+Negative Users: 31
+Metascore: 86
+Users Score: 70
+------------------------------------------------------------------
+Game: Mario Kart 7
+Platform: 3DS
+Developer: Retro Studios, Entertainment Analysis & Development Division
+Genre: Driving
+Number of Players: Up to 8 
+Rating: E
+Release Date: Dec  4, 2011
+Positive Critics: 64
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 157
+Neutral Users: 45
+Negative Users: 7
+Metascore: 85
+Users Score: 83
+------------------------------------------------------------------
+Game: Shift 2: Unleashed
+Platform: PC
+Developer: Slightly Mad Studios
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Mar 29, 2011
+Positive Critics: 23
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 29
+Neutral Users: 14
+Negative Users: 37
+Metascore: 84
+Users Score: 62
+------------------------------------------------------------------
+Game: F1 2011
+Platform: PC
+Developer: Codemasters
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Sep 19, 2011
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 4
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: TrackMania 2 Canyon
+Platform: PC
+Developer: Nadeo
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Sep 14, 2011
+Positive Critics: 30
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 6
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Driver: San Francisco
+Platform: PC
+Developer: Ubisoft Reflections
+Genre: Driving
+Number of Players: 
+Rating: T
+Release Date: Sep 27, 2011
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 16
+Negative Users: 13
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: F1 2012
+Platform: PC
+Developer: Codemasters
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Sep 17, 2012
+Positive Critics: 12
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 4
+Negative Users: 8
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Need for Speed: Most Wanted U
+Platform: WIIU
+Developer: Criterion Games
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Mar 19, 2013
+Positive Critics: 36
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 5
+Negative Users: 8
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Trials Evolution: Gold Edition
+Platform: PC
+Developer: RedLynx
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Mar 21, 2013
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 4
+Negative Users: 17
+Metascore: 85
+Users Score: 68
+------------------------------------------------------------------
+Game: GRID 2
+Platform: PC
+Developer: Codemasters
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: May 27, 2013
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 32
+Negative Users: 73
+Metascore: 80
+Users Score: 58
+------------------------------------------------------------------
+Game: Need for Speed: Rivals
+Platform: PS4
+Developer: Ghost Games
+Genre: Driving
+Number of Players: Up to 6 
+Rating: E10+
+Release Date: Nov 15, 2013
+Positive Critics: 42
+Neutral Critics: 11
+Negative Critics: 0
+Positive Users: 47
+Neutral Users: 38
+Negative Users: 31
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: Mario Kart 8
+Platform: WIIU
+Developer: Nintendo
+Genre: Driving
+Number of Players: Up to 12 
+Rating: E
+Release Date: May 30, 2014
+Positive Critics: 80
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 386
+Neutral Users: 41
+Negative Users: 10
+Metascore: 88
+Users Score: 89
+------------------------------------------------------------------
+Game: Mario Kart 8 DLC Pack 1
+Platform: WIIU
+Developer: Nintendo
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Nov 13, 2014
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 2
+Negative Users: 4
+Metascore: 87
+Users Score: 90
+------------------------------------------------------------------
+Game: Forza Horizon 2
+Platform: XONE
+Developer: Playground Games
+Genre: Driving
+Number of Players: Up to 12 
+Rating: 
+Release Date: Sep 30, 2014
+Positive Critics: 81
+Neutral Critics: 3
+Negative Critics: 1
+Positive Users: 183
+Neutral Users: 8
+Negative Users: 10
+Metascore: 86
+Users Score: 83
+------------------------------------------------------------------
+Game: Assetto Corsa
+Platform: PC
+Developer: Kunos Simulazioni
+Genre: Driving
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Dec 19, 2014
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 57
+Neutral Users: 8
+Negative Users: 10
+Metascore: 85
+Users Score: 84
+------------------------------------------------------------------
+Game: Forza Horizon 2: Storm Island
+Platform: XONE
+Developer: Playground Games
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Dec 16, 2014
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 2
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Trials Fusion
+Platform: PC
+Developer: RedLynx
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Apr 16, 2014
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 6
+Negative Users: 7
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: Trials Fusion
+Platform: XONE
+Developer: RedLynx
+Genre: Driving
+Number of Players: 
+Rating: E10+
+Release Date: Apr 16, 2014
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 9
+Negative Users: 9
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Mario Kart 8 DLC Pack 2
+Platform: WIIU
+Developer: Nintendo
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Apr 23, 2015
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 1
+Negative Users: 2
+Metascore: 90
+Users Score: 89
+------------------------------------------------------------------
+Game: Forza Motorsport 6
+Platform: XONE
+Developer: Turn 10
+Genre: Driving
+Number of Players: Up to 24 
+Rating: E
+Release Date: Sep 15, 2015
+Positive Critics: 82
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 104
+Neutral Users: 20
+Negative Users: 16
+Metascore: 87
+Users Score: 77
+------------------------------------------------------------------
+Game: 3D Out Run
+Platform: 3DS
+Developer: M2
+Genre: Driving
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 12, 2015
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 83
+------------------------------------------------------------------
+Game: Project CARS
+Platform: PC
+Developer: Slightly Mad Studios
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: May  6, 2015
+Positive Critics: 42
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 56
+Neutral Users: 18
+Negative Users: 27
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: Project CARS
+Platform: PS4
+Developer: Slightly Mad Studios
+Genre: Driving
+Number of Players: Up to 16 
+Rating: E
+Release Date: May 12, 2015
+Positive Critics: 33
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 21
+Negative Users: 19
+Metascore: 83
+Users Score: 66
+------------------------------------------------------------------
+Game: FAST Racing NEO
+Platform: WIIU
+Developer: 'Shin''en'
+Genre: Driving
+Number of Players: 
+Rating: E
+Release Date: Dec 10, 2015
+Positive Critics: 40
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 5
+Negative Users: 2
+Metascore: 81
+Users Score: 86
+------------------------------------------------------------------
+Game: Project CARS
+Platform: XONE
+Developer: Slightly Mad Studios
+Genre: Driving
+Number of Players: Up to 16 
+Rating: E
+Release Date: May 12, 2015
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 6
+Negative Users: 21
+Metascore: 81
+Users Score: 58
+------------------------------------------------------------------
 Game: Wreckfest
 Platform: PC
 Developer: Bugbear

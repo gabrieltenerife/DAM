@@ -1,0 +1,928 @@
+Game: Bulletstorm
+Platform: PC
+Developer: Epic Games, People Can Fly
+Genre: General
+Number of Players: 
+Rating: M
+Release Date: Feb 21, 2011
+Positive Critics: 30
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 110
+Neutral Users: 39
+Negative Users: 34
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Guild Wars 2
+Platform: PC
+Developer: ArenaNet
+Genre: General
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Aug 28, 2012
+Positive Critics: 68
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 649
+Neutral Users: 134
+Negative Users: 152
+Metascore: 90
+Users Score: 81
+------------------------------------------------------------------
+Game: Super Stardust Delta
+Platform: VITA
+Developer: Housemarque
+Genre: General
+Number of Players: 
+Rating: E
+Release Date: Feb 14, 2012
+Positive Critics: 39
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: flower
+Platform: PS4
+Developer: Bluepoint Games
+Genre: General
+Number of Players: 1 Player
+Rating: E
+Release Date: Nov 15, 2013
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 16
+Negative Users: 26
+Metascore: 91
+Users Score: 72
+------------------------------------------------------------------
+Game: Dota 2
+Platform: PC
+Developer: Valve Software
+Genre: General
+Number of Players: Up to 10 
+Rating: 
+Release Date: Jul  9, 2013
+Positive Critics: 32
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1784
+Neutral Users: 118
+Negative Users: 1674
+Metascore: 90
+Users Score: 65
+------------------------------------------------------------------
+Game: Tearaway
+Platform: VITA
+Developer: Media Molecule
+Genre: General
+Number of Players: 
+Rating: E
+Release Date: Nov 22, 2013
+Positive Critics: 76
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 69
+Neutral Users: 4
+Negative Users: 0
+Metascore: 87
+Users Score: 89
+------------------------------------------------------------------
+Game: Dragon Age: Inquisition
+Platform: PS4
+Developer: BioWare
+Genre: General
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 42
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 300
+Neutral Users: 89
+Negative Users: 53
+Metascore: 89
+Users Score: 74
+------------------------------------------------------------------
+Game: Dragon Age: Inquisition
+Platform: XONE
+Developer: BioWare
+Genre: General
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 98
+Neutral Users: 30
+Negative Users: 30
+Metascore: 85
+Users Score: 70
+------------------------------------------------------------------
+Game: Valkyria Chronicles
+Platform: PC
+Developer: Sega
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Nov 11, 2014
+Positive Critics: 23
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 46
+Neutral Users: 10
+Negative Users: 4
+Metascore: 85
+Users Score: 82
+------------------------------------------------------------------
+Game: Frozen Synapse Prime
+Platform: VITA
+Developer: Double Eleven
+Genre: General
+Number of Players: 
+Rating: T
+Release Date: Sep 23, 2014
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 84
+Users Score: 72
+------------------------------------------------------------------
+Game: The Blackwell Epiphany
+Platform: PC
+Developer: Wadjet Eye Games
+Genre: General
+Number of Players: 
+Rating: 
+Release Date: Apr 24, 2014
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Kero Blaster
+Platform: PC
+Developer: Studio Pixel
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 11, 2014
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 1
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: ETHER One
+Platform: PC
+Developer: White Paper Games
+Genre: General
+Number of Players: 
+Rating: E10+
+Release Date: Mar 25, 2014
+Positive Critics: 16
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 69
+------------------------------------------------------------------
+Game: Broken Age: Act 1
+Platform: PC
+Developer: Double Fine Productions
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 28, 2014
+Positive Critics: 54
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 48
+Neutral Users: 11
+Negative Users: 13
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Nidhogg
+Platform: PC
+Developer: Messhof
+Genre: General
+Number of Players: 1-2 
+Rating: 
+Release Date: Jan 13, 2014
+Positive Critics: 35
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 9
+Negative Users: 6
+Metascore: 81
+Users Score: 68
+------------------------------------------------------------------
+Game: 'The Walking Dead: Season Two Episode 3 - In Harm''s Way'
+Platform: PC
+Developer: Telltale Games
+Genre: General
+Number of Players: 
+Rating: M
+Release Date: May 13, 2014
+Positive Critics: 32
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 10
+Negative Users: 2
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Wolfenstein: The New Order
+Platform: PC
+Developer: MachineGames
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 19, 2014
+Positive Critics: 20
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 277
+Neutral Users: 60
+Negative Users: 46
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: Professor Layton and the Azran Legacy
+Platform: 3DS
+Developer: Level 5
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 28, 2014
+Positive Critics: 48
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: The Walking Dead: Season Two Episode 2 - A House Divided
+Platform: PC
+Developer: Telltale Games
+Genre: General
+Number of Players: 
+Rating: M
+Release Date: Mar  4, 2014
+Positive Critics: 31
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 10
+Negative Users: 6
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Sunset Overdrive
+Platform: XONE
+Developer: Insomniac Games
+Genre: General
+Number of Players: Up to 8 
+Rating: M
+Release Date: Oct 28, 2014
+Positive Critics: 72
+Neutral Critics: 17
+Negative Critics: 0
+Positive Users: 249
+Neutral Users: 41
+Negative Users: 24
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: DG2: Defense Grid 2
+Platform: PC
+Developer: Hidden Path Entertainment
+Genre: General
+Number of Players: 
+Rating: 
+Release Date: Sep 23, 2014
+Positive Critics: 19
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 5
+Negative Users: 7
+Metascore: 81
+Users Score: 68
+------------------------------------------------------------------
+Game: Shadowrun: Dragonfall
+Platform: PC
+Developer: Harebrained Schemes LLC
+Genre: General
+Number of Players: 
+Rating: 
+Release Date: Feb 27, 2014
+Positive Critics: 20
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 7
+Negative Users: 3
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: Luftrausers
+Platform: PC
+Developer: Vlambeer
+Genre: General
+Number of Players: 
+Rating: E
+Release Date: Mar 18, 2014
+Positive Critics: 35
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 7
+Negative Users: 0
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------
+Game: Kirby: Triple Deluxe
+Platform: 3DS
+Developer: HAL Labs
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: May  2, 2014
+Positive Critics: 54
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 54
+Neutral Users: 5
+Negative Users: 0
+Metascore: 80
+Users Score: 87
+------------------------------------------------------------------
+Game: Fallout 4
+Platform: XONE
+Developer: Bethesda Game Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2015
+Positive Critics: 38
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 232
+Neutral Users: 75
+Negative Users: 77
+Metascore: 88
+Users Score: 64
+------------------------------------------------------------------
+Game: Nuclear Throne
+Platform: PC
+Developer: Vlambeer
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec  5, 2015
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 9
+Negative Users: 0
+Metascore: 88
+Users Score: 76
+------------------------------------------------------------------
+Game: Batman: Arkham Knight
+Platform: PS4
+Developer: Rocksteady Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 23, 2015
+Positive Critics: 82
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 475
+Neutral Users: 131
+Negative Users: 50
+Metascore: 87
+Users Score: 78
+------------------------------------------------------------------
+Game: Fallout 4
+Platform: PS4
+Developer: Bethesda Game Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2015
+Positive Critics: 52
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 671
+Neutral Users: 224
+Negative Users: 208
+Metascore: 87
+Users Score: 66
+------------------------------------------------------------------
+Game: Batman: Arkham Knight
+Platform: XONE
+Developer: Rocksteady Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 23, 2015
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 99
+Neutral Users: 34
+Negative Users: 12
+Metascore: 85
+Users Score: 68
+------------------------------------------------------------------
+Game: Fallout 4
+Platform: PC
+Developer: Bethesda Game Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov  9, 2015
+Positive Critics: 30
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 655
+Neutral Users: 431
+Negative Users: 1120
+Metascore: 84
+Users Score: 55
+------------------------------------------------------------------
+Game: Nuclear Throne
+Platform: PS4
+Developer: Vlambeer
+Genre: General
+Number of Players: 
+Rating: E10+
+Release Date: Dec  5, 2015
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 4
+Metascore: 82
+Users Score: 63
+------------------------------------------------------------------
+Game: Hacknet
+Platform: PC
+Developer: Orann
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug 12, 2015
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 4
+Negative Users: 0
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Galak-Z: The Dimensional
+Platform: PS4
+Developer: 17-Bit
+Genre: General
+Number of Players: 
+Rating: E10+
+Release Date: Aug  4, 2015
+Positive Critics: 38
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 5
+Negative Users: 4
+Metascore: 82
+Users Score: 71
+------------------------------------------------------------------
+Game: World of Warships
+Platform: PC
+Developer: Wargaming.net
+Genre: General
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Sep 17, 2015
+Positive Critics: 27
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 5
+Negative Users: 40
+Metascore: 81
+Users Score: 60
+------------------------------------------------------------------
+Game: Read Only Memories
+Platform: PC
+Developer: MidBoss
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct  5, 2015
+Positive Critics: 9
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 12
+Metascore: 80
+Users Score: 43
+------------------------------------------------------------------
+Game: Grim Fandango Remastered
+Platform: PS4
+Developer: Double Fine Productions
+Genre: General
+Number of Players: 
+Rating: T
+Release Date: Jan 27, 2015
+Positive Critics: 35
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 14
+Negative Users: 4
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: 'Uncharted 4: A Thief''s End'
+Platform: PS4
+Developer: Naughty Dog
+Genre: General
+Number of Players: Up to 10 
+Rating: T
+Release Date: May 10, 2016
+Positive Critics: 111
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 1533
+Neutral Users: 148
+Negative Users: 68
+Metascore: 93
+Users Score: 84
+------------------------------------------------------------------
+Game: Overwatch
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: General
+Number of Players: Up to 12 
+Rating: T
+Release Date: May 23, 2016
+Positive Critics: 62
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 519
+Neutral Users: 218
+Negative Users: 400
+Metascore: 91
+Users Score: 67
+------------------------------------------------------------------
+Game: Stardew Valley
+Platform: PC
+Developer: Eric Barone, ConcernedApe
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 26, 2016
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 104
+Neutral Users: 14
+Negative Users: 4
+Metascore: 89
+Users Score: 87
+------------------------------------------------------------------
+Game: Battlefield 1
+Platform: PC
+Developer: EA DICE
+Genre: General
+Number of Players: 
+Rating: M
+Release Date: Oct 21, 2016
+Positive Critics: 52
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 164
+Neutral Users: 86
+Negative Users: 156
+Metascore: 88
+Users Score: 71
+------------------------------------------------------------------
+Game: Assault Android Cactus
+Platform: PS4
+Developer: Witch Beam
+Genre: General
+Number of Players: 
+Rating: E10+
+Release Date: Mar  8, 2016
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 1
+Metascore: 85
+Users Score: 65
+------------------------------------------------------------------
+Game: Invisible, Inc. Console Edition
+Platform: PS4
+Developer: Klei Entertainment
+Genre: General
+Number of Players: 
+Rating: T
+Release Date: Apr 19, 2016
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 6
+Negative Users: 2
+Metascore: 82
+Users Score: 69
+------------------------------------------------------------------
+Game: Plants vs Zombies: Garden Warfare 2
+Platform: PS4
+Developer: PopCap
+Genre: General
+Number of Players: Up to 24 
+Rating: E10+
+Release Date: Feb 23, 2016
+Positive Critics: 26
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 6
+Negative Users: 2
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Firewatch
+Platform: PC
+Developer: Campo Santo
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb  9, 2016
+Positive Critics: 51
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 108
+Neutral Users: 72
+Negative Users: 64
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: Redout
+Platform: PC
+Developer: 34BigThings
+Genre: General
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Sep  2, 2016
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 7
+Negative Users: 6
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Tokyo Mirage Sessions #FE
+Platform: WIIU
+Developer: Atlus
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jun 24, 2016
+Positive Critics: 48
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 9
+Negative Users: 5
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Samorost 3
+Platform: PC
+Developer: Amanita Design
+Genre: General
+Number of Players: 
+Rating: 
+Release Date: Mar 24, 2016
+Positive Critics: 23
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: What Remains of Edith Finch
+Platform: PS4
+Developer: Giant Sparrow
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Apr 25, 2017
+Positive Critics: 61
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 9
+Negative Users: 3
+Metascore: 88
+Users Score: 81
+------------------------------------------------------------------
+Game: Prey
+Platform: XONE
+Developer: Arkane Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May  5, 2017
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 8
+Negative Users: 9
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: Prey
+Platform: PC
+Developer: Arkane Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May  5, 2017
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 116
+Neutral Users: 38
+Negative Users: 17
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Torment: Tides of Numenera
+Platform: PC
+Developer: InXile Entertainment
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 28, 2017
+Positive Critics: 57
+Neutral Critics: 14
+Negative Critics: 1
+Positive Users: 39
+Neutral Users: 26
+Negative Users: 24
+Metascore: 81
+Users Score: 70
+------------------------------------------------------------------
+Game: Little Nightmares
+Platform: PC
+Developer: Tarsier Studios
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Apr 28, 2017
+Positive Critics: 24
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 5
+Negative Users: 1
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: RiME
+Platform: PS4
+Developer: Tequila Works
+Genre: General
+Number of Players: 
+Rating: E10+
+Release Date: May 26, 2017
+Positive Critics: 48
+Neutral Critics: 15
+Negative Critics: 0
+Positive Users: 41
+Neutral Users: 14
+Negative Users: 3
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Octopath Traveler
+Platform: Switch
+Developer: Square Enix, Acquire
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 13, 2018
+Positive Critics: 69
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 169
+Neutral Users: 27
+Negative Users: 19
+Metascore: 83
+Users Score: 87
+------------------------------------------------------------------
+Game: Shin Megami Tensei: Strange Journey Redux
+Platform: 3DS
+Developer: Atlus
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 15, 2018
+Positive Critics: 26
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 3
+Metascore: 80
+Users Score: 32
+------------------------------------------------------------------
+Game: Wargroove
+Platform: PC
+Developer: Chucklefish
+Genre: General
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Feb  1, 2019
+Positive Critics: 17
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 2
+Negative Users: 3
+Metascore: 82
+Users Score: 59
+------------------------------------------------------------------
+Game: Etrian Odyssey Nexus
+Platform: 3DS
+Developer: Atlus
+Genre: General
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  5, 2019
+Positive Critics: 24
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 66
+------------------------------------------------------------------
+Game: Wargroove
+Platform: XONE
+Developer: Chucklefish
+Genre: General
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Feb  1, 2019
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 48
+------------------------------------------------------------------

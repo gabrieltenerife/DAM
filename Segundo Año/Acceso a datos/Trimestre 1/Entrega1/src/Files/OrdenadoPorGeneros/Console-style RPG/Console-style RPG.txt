@@ -1,0 +1,32 @@
+Game: Bravely Default
+Platform: 3DS
+Developer: Silicon Studio
+Genre: Console-style RPG
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  7, 2014
+Positive Critics: 64
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 89
+Neutral Users: 21
+Negative Users: 17
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: The Legend of Heroes: Trails in the Sky SC
+Platform: PC
+Developer: Falcom
+Genre: Console-style RPG
+Number of Players: No Online Multiplayer
+Rating: RP
+Release Date: Oct 29, 2015
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 86
+------------------------------------------------------------------

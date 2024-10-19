@@ -1,3 +1,291 @@
+Game: Mass Effect 3: Special Edition
+Platform: WIIU
+Developer: Straight Right
+Genre: Action RPG
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 13, 2012
+Positive Critics: 32
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 3
+Negative Users: 4
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: The Legend of Zelda: A Link Between Worlds
+Platform: 3DS
+Developer: Nintendo
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 22, 2013
+Positive Critics: 79
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 220
+Neutral Users: 19
+Negative Users: 9
+Metascore: 91
+Users Score: 90
+------------------------------------------------------------------
+Game: Path of Exile
+Platform: PC
+Developer: Grinding Gear Games
+Genre: Action RPG
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Jan 25, 2013
+Positive Critics: 25
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 289
+Neutral Users: 48
+Negative Users: 47
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: Dark Souls II
+Platform: PC
+Developer: From Software
+Genre: Action RPG
+Number of Players: Up to 4 
+Rating: T
+Release Date: Apr 25, 2014
+Positive Critics: 36
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 276
+Neutral Users: 65
+Negative Users: 152
+Metascore: 91
+Users Score: 72
+------------------------------------------------------------------
+Game: Diablo III: Ultimate Evil Edition
+Platform: PS4
+Developer: Blizzard Entertainment
+Genre: Action RPG
+Number of Players: Up to 4 
+Rating: M
+Release Date: Aug 19, 2014
+Positive Critics: 63
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 131
+Neutral Users: 20
+Negative Users: 19
+Metascore: 90
+Users Score: 79
+------------------------------------------------------------------
+Game: Diablo III: Reaper of Souls
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Action RPG
+Number of Players: 
+Rating: M
+Release Date: Mar 25, 2014
+Positive Critics: 73
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 156
+Neutral Users: 69
+Negative Users: 134
+Metascore: 87
+Users Score: 66
+------------------------------------------------------------------
+Game: Divinity: Original Sin
+Platform: PC
+Developer: Larian Studios Games Ltd
+Genre: Action RPG
+Number of Players: 2
+Rating: M
+Release Date: Jan 17, 2014
+Positive Critics: 56
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 369
+Neutral Users: 59
+Negative Users: 42
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt
+Platform: PC
+Developer: CD Projekt Red Studio
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 18, 2015
+Positive Critics: 32
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1272
+Neutral Users: 84
+Negative Users: 69
+Metascore: 93
+Users Score: 94
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt
+Platform: PS4
+Developer: CD Projekt Red Studio
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 19, 2015
+Positive Critics: 78
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1079
+Neutral Users: 115
+Negative Users: 79
+Metascore: 92
+Users Score: 92
+------------------------------------------------------------------
+Game: The Witcher 3: Wild Hunt
+Platform: XONE
+Developer: CD Projekt Red Studio
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: May 19, 2015
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 211
+Neutral Users: 22
+Negative Users: 17
+Metascore: 91
+Users Score: 92
+------------------------------------------------------------------
+Game: Xenoblade Chronicles X
+Platform: WIIU
+Developer: Monolith Soft
+Genre: Action RPG
+Number of Players: Up to 32 
+Rating: T
+Release Date: Dec  4, 2015
+Positive Critics: 77
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 220
+Neutral Users: 20
+Negative Users: 21
+Metascore: 84
+Users Score: 91
+------------------------------------------------------------------
+Game: Final Fantasy XV
+Platform: XONE
+Developer: Square Enix
+Genre: Action RPG
+Number of Players: Up to 4 
+Rating: T
+Release Date: Nov 29, 2016
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 38
+Neutral Users: 22
+Negative Users: 25
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Grim Dawn
+Platform: PC
+Developer: Crate Entertainment
+Genre: Action RPG
+Number of Players: 
+Rating: 
+Release Date: Feb 25, 2016
+Positive Critics: 29
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 101
+Neutral Users: 24
+Negative Users: 9
+Metascore: 83
+Users Score: 85
+------------------------------------------------------------------
+Game: Final Fantasy XV
+Platform: PS4
+Developer: Square Enix
+Genre: Action RPG
+Number of Players: Up to 4 
+Rating: T
+Release Date: Nov 29, 2016
+Positive Critics: 89
+Neutral Critics: 20
+Negative Critics: 0
+Positive Users: 542
+Neutral Users: 230
+Negative Users: 228
+Metascore: 81
+Users Score: 76
+------------------------------------------------------------------
+Game: Divinity: Original Sin II
+Platform: PC
+Developer: Larian Studios Games Ltd
+Genre: Action RPG
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Sep 14, 2017
+Positive Critics: 71
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 222
+Neutral Users: 26
+Negative Users: 17
+Metascore: 93
+Users Score: 88
+------------------------------------------------------------------
+Game: Ni no Kuni II: Revenant Kingdom
+Platform: PS4
+Developer: Level 5
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Mar 23, 2018
+Positive Critics: 76
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 40
+Negative Users: 18
+Metascore: 84
+Users Score: 74
+------------------------------------------------------------------
+Game: 'Pokemon: Let''s Go, Eevee!'
+Platform: Switch
+Developer: Game Freak
+Genre: Action RPG
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Nov 16, 2018
+Positive Critics: 61
+Neutral Critics: 15
+Negative Critics: 1
+Positive Users: 187
+Neutral Users: 29
+Negative Users: 159
+Metascore: 80
+Users Score: 61
+------------------------------------------------------------------
+Game: Kingdom Hearts III
+Platform: PS4
+Developer: Square Enix
+Genre: Action RPG
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 29, 2019
+Positive Critics: 78
+Neutral Critics: 5
+Negative Critics: 1
+Positive Users: 259
+Neutral Users: 74
+Negative Users: 55
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
 Game: Kingdom Hearts III
 Platform: XONE
 Developer: Square Enix

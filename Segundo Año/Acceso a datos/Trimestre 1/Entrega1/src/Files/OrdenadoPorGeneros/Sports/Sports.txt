@@ -1,3 +1,1299 @@
+Game: FIFA Soccer 12
+Platform: PC
+Developer: Electronic Arts
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 27, 2011
+Positive Critics: 14
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 8
+Negative Users: 10
+Metascore: 89
+Users Score: 71
+------------------------------------------------------------------
+Game: Football Manager 2012
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Oct 20, 2011
+Positive Critics: 43
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 5
+Negative Users: 4
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Football Manager 2013
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Nov  1, 2012
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 10
+Negative Users: 19
+Metascore: 86
+Users Score: 68
+------------------------------------------------------------------
+Game: FIFA Soccer 13
+Platform: PC
+Developer: Electronic Arts
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 25, 2012
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 9
+Negative Users: 19
+Metascore: 86
+Users Score: 66
+------------------------------------------------------------------
+Game: Out of the Park Baseball 13
+Platform: PC
+Developer: Out Of The Park Developments
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Apr  9, 2012
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 0
+Negative Users: 2
+Metascore: 85
+Users Score: 78
+------------------------------------------------------------------
+Game: NBA 2K13
+Platform: WIIU
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: 1 Player
+Rating: E
+Release Date: Nov 18, 2012
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 71
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2013
+Platform: PC
+Developer: Konami
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 25, 2012
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 3
+Negative Users: 2
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: FIFA 14
+Platform: PS4
+Developer: EA Canada
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Nov 12, 2013
+Positive Critics: 26
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 22
+Negative Users: 39
+Metascore: 87
+Users Score: 63
+------------------------------------------------------------------
+Game: Out of the Park Baseball 14
+Platform: PC
+Developer: Out Of The Park Developments
+Genre: Sports
+Number of Players: 1 Player
+Rating: 
+Release Date: Apr 15, 2013
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 2
+Negative Users: 2
+Metascore: 86
+Users Score: 82
+------------------------------------------------------------------
+Game: NBA 2K14
+Platform: PS4
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Nov 12, 2013
+Positive Critics: 19
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 12
+Negative Users: 31
+Metascore: 85
+Users Score: 65
+------------------------------------------------------------------
+Game: Football Manager 2014
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Oct 30, 2013
+Positive Critics: 40
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 10
+Negative Users: 55
+Metascore: 85
+Users Score: 56
+------------------------------------------------------------------
+Game: Out of the Park Baseball 15
+Platform: PC
+Developer: 
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Apr 21, 2014
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 0
+Negative Users: 1
+Metascore: 89
+Users Score: 72
+------------------------------------------------------------------
+Game: MLB 14: The Show
+Platform: PS4
+Developer: SCEA San Diego Studios
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: May  6, 2014
+Positive Critics: 17
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 7
+Negative Users: 5
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: NBA 2K15
+Platform: PS4
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Oct  7, 2014
+Positive Critics: 45
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 19
+Negative Users: 21
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: FIFA 15
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 23, 2014
+Positive Critics: 27
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 26
+Negative Users: 45
+Metascore: 82
+Users Score: 54
+------------------------------------------------------------------
+Game: Sportsfriends
+Platform: PS4
+Developer: Die Gute Fabrik
+Genre: Sports
+Number of Players: 
+Rating: E10+
+Release Date: May  6, 2014
+Positive Critics: 17
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 2
+Metascore: 82
+Users Score: 63
+------------------------------------------------------------------
+Game: NBA 2K15
+Platform: XONE
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Oct  7, 2014
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 3
+Negative Users: 18
+Metascore: 82
+Users Score: 62
+------------------------------------------------------------------
+Game: FIFA 15
+Platform: PC
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 23, 2014
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 13
+Negative Users: 83
+Metascore: 82
+Users Score: 43
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2015
+Platform: PC
+Developer: Konami
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Nov 13, 2014
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 12
+Negative Users: 25
+Metascore: 82
+Users Score: 56
+------------------------------------------------------------------
+Game: FIFA 15
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 23, 2014
+Positive Critics: 40
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 73
+Neutral Users: 72
+Negative Users: 123
+Metascore: 82
+Users Score: 57
+------------------------------------------------------------------
+Game: Madden NFL 15
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Aug 26, 2014
+Positive Critics: 34
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 32
+Neutral Users: 23
+Negative Users: 19
+Metascore: 81
+Users Score: 61
+------------------------------------------------------------------
+Game: Madden NFL 15
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Aug 26, 2014
+Positive Critics: 16
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 12
+Negative Users: 10
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: Football Manager 2015
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Nov  7, 2014
+Positive Critics: 28
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 11
+Negative Users: 19
+Metascore: 80
+Users Score: 61
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2016
+Platform: PS4
+Developer: Konami
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 15, 2015
+Positive Critics: 53
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 110
+Neutral Users: 23
+Negative Users: 30
+Metascore: 87
+Users Score: 72
+------------------------------------------------------------------
+Game: OlliOlli2: Welcome to Olliwood
+Platform: PS4
+Developer: roll7
+Genre: Sports
+Number of Players: 
+Rating: T
+Release Date: Mar  3, 2015
+Positive Critics: 32
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 8
+Negative Users: 11
+Metascore: 86
+Users Score: 65
+------------------------------------------------------------------
+Game: Rocket League
+Platform: PC
+Developer: Psyonix
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Jul  5, 2015
+Positive Critics: 17
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 120
+Neutral Users: 16
+Negative Users: 15
+Metascore: 86
+Users Score: 82
+------------------------------------------------------------------
+Game: OlliOlli2: Welcome to Olliwood
+Platform: VITA
+Developer: roll7
+Genre: Sports
+Number of Players: 
+Rating: T
+Release Date: Mar  3, 2015
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 70
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2016
+Platform: XONE
+Developer: Konami
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 15, 2015
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 2
+Metascore: 85
+Users Score: 61
+------------------------------------------------------------------
+Game: Madden NFL 16
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Aug 25, 2015
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 2
+Negative Users: 16
+Metascore: 84
+Users Score: 60
+------------------------------------------------------------------
+Game: FIFA 16
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 22, 2015
+Positive Critics: 39
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 14
+Negative Users: 66
+Metascore: 84
+Users Score: 44
+------------------------------------------------------------------
+Game: Madden NFL 16
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: 2
+Rating: E
+Release Date: Aug 25, 2015
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 16
+Negative Users: 24
+Metascore: 83
+Users Score: 59
+------------------------------------------------------------------
+Game: FIFA 16
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 22, 2015
+Positive Critics: 37
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 24
+Negative Users: 145
+Metascore: 82
+Users Score: 44
+------------------------------------------------------------------
+Game: OlliOlli2: Welcome to Olliwood
+Platform: PC
+Developer: roll7
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Aug 11, 2015
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 1
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 57
+------------------------------------------------------------------
+Game: Football Manager 2016
+Platform: PC
+Developer: Sega
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Nov 13, 2015
+Positive Critics: 30
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 5
+Negative Users: 12
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: FIFA 16
+Platform: PC
+Developer: EA Sports
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 22, 2015
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 5
+Negative Users: 45
+Metascore: 81
+Users Score: 45
+------------------------------------------------------------------
+Game: Super Mega Baseball: Extra Innings
+Platform: XONE
+Developer: Metalhead Software
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Aug 14, 2015
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: NHL 16
+Platform: XONE
+Developer: EA Sports, EA Canada
+Genre: Sports
+Number of Players: 
+Rating: E10+
+Release Date: Sep 15, 2015
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 11
+Negative Users: 12
+Metascore: 80
+Users Score: 60
+------------------------------------------------------------------
+Game: Out of the Park Baseball 17
+Platform: PC
+Developer: Out Of The Park Developments
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Mar 22, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 5
+Negative Users: 5
+Metascore: 92
+Users Score: 34
+------------------------------------------------------------------
+Game: NBA 2K17
+Platform: XONE
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 16, 2016
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 9
+Negative Users: 14
+Metascore: 90
+Users Score: 60
+------------------------------------------------------------------
+Game: NBA 2K17
+Platform: PS4
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Sep 16, 2016
+Positive Critics: 47
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 15
+Negative Users: 21
+Metascore: 88
+Users Score: 64
+------------------------------------------------------------------
+Game: Rocket League
+Platform: XONE
+Developer: Psyonix, Panic Button
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Feb 17, 2016
+Positive Critics: 22
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 4
+Negative Users: 5
+Metascore: 87
+Users Score: 82
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2017
+Platform: XONE
+Developer: Konami
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 13, 2016
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 4
+Negative Users: 1
+Metascore: 87
+Users Score: 58
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2017
+Platform: PS4
+Developer: Konami
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 13, 2016
+Positive Critics: 58
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 83
+Neutral Users: 12
+Negative Users: 14
+Metascore: 85
+Users Score: 73
+------------------------------------------------------------------
+Game: MLB The Show 16
+Platform: PS4
+Developer: SCEA San Diego Studios
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Mar 29, 2016
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 3
+Negative Users: 13
+Metascore: 85
+Users Score: 72
+------------------------------------------------------------------
+Game: FIFA 17
+Platform: PS4
+Developer: EA Sports, EA Vancouver
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 27, 2016
+Positive Critics: 39
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 55
+Neutral Users: 28
+Negative Users: 96
+Metascore: 85
+Users Score: 48
+------------------------------------------------------------------
+Game: FIFA 17
+Platform: XONE
+Developer: EA Sports, EA Vancouver
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 27, 2016
+Positive Critics: 48
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 20
+Negative Users: 28
+Metascore: 84
+Users Score: 51
+------------------------------------------------------------------
+Game: FIFA 17
+Platform: PC
+Developer: EA Sports, EA Vancouver
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 27, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 6
+Negative Users: 49
+Metascore: 84
+Users Score: 41
+------------------------------------------------------------------
+Game: Madden NFL 17
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: 2
+Rating: E
+Release Date: Aug 23, 2016
+Positive Critics: 27
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 5
+Negative Users: 12
+Metascore: 83
+Users Score: 54
+------------------------------------------------------------------
+Game: OlliOlli2: XL Edition
+Platform: XONE
+Developer: roll7
+Genre: Sports
+Number of Players: 
+Rating: T
+Release Date: May 24, 2016
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 58
+------------------------------------------------------------------
+Game: Madden NFL 17
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: 2
+Rating: E
+Release Date: Aug 23, 2016
+Positive Critics: 33
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 7
+Negative Users: 32
+Metascore: 82
+Users Score: 44
+------------------------------------------------------------------
+Game: VIDEOBALL
+Platform: PC
+Developer: Action Button Entertainment
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Jul 12, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Football Manager 2017
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Nov  4, 2016
+Positive Critics: 38
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 21
+Metascore: 80
+Users Score: 52
+------------------------------------------------------------------
+Game: Rocket League
+Platform: Switch
+Developer: Psyonix
+Genre: Sports
+Number of Players: Up to 8 
+Rating: E
+Release Date: Nov 14, 2017
+Positive Critics: 31
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 28
+Neutral Users: 8
+Negative Users: 3
+Metascore: 86
+Users Score: 83
+------------------------------------------------------------------
+Game: MLB The Show 17
+Platform: PS4
+Developer: Sony Interactive Entertainment
+Genre: Sports
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Mar 28, 2017
+Positive Critics: 42
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 3
+Negative Users: 8
+Metascore: 85
+Users Score: 69
+------------------------------------------------------------------
+Game: NBA 2K18
+Platform: XONE
+Developer: 2K Games
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E10+
+Release Date: Sep 15, 2017
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 5
+Negative Users: 44
+Metascore: 85
+Users Score: 15
+------------------------------------------------------------------
+Game: FIFA 18
+Platform: PS4
+Developer: EA Vancouver
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 26, 2017
+Positive Critics: 60
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 28
+Negative Users: 183
+Metascore: 84
+Users Score: 34
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2018
+Platform: PS4
+Developer: Konami
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E
+Release Date: Sep 12, 2017
+Positive Critics: 50
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 11
+Negative Users: 18
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: FIFA 18
+Platform: XONE
+Developer: EA Vancouver
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 26, 2017
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 8
+Negative Users: 46
+Metascore: 83
+Users Score: 30
+------------------------------------------------------------------
+Game: Football Manager 2018
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: 
+Rating: 
+Release Date: Nov 10, 2017
+Positive Critics: 30
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 9
+Metascore: 82
+Users Score: 57
+------------------------------------------------------------------
+Game: Madden NFL 18
+Platform: PS4
+Developer: Electronic Arts
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E
+Release Date: Aug 22, 2017
+Positive Critics: 34
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 8
+Negative Users: 39
+Metascore: 82
+Users Score: 37
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2018
+Platform: XONE
+Developer: Konami
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 12, 2017
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 3
+Negative Users: 1
+Metascore: 82
+Users Score: 64
+------------------------------------------------------------------
+Game: Madden NFL 18
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E
+Release Date: Aug 22, 2017
+Positive Critics: 17
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 4
+Metascore: 82
+Users Score: 45
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2018
+Platform: PC
+Developer: Konami
+Genre: Sports
+Number of Players: Online Multiplayer
+Rating: E
+Release Date: Sep 12, 2017
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 6
+Negative Users: 12
+Metascore: 81
+Users Score: 70
+------------------------------------------------------------------
+Game: FIFA 18
+Platform: PC
+Developer: EA Vancouver
+Genre: Sports
+Number of Players: 
+Rating: E
+Release Date: Sep 26, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 4
+Negative Users: 91
+Metascore: 81
+Users Score: 26
+------------------------------------------------------------------
+Game: Football Manager 2019
+Platform: PC
+Developer: Sports Interactive
+Genre: Sports
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Nov  2, 2018
+Positive Critics: 31
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 7
+Metascore: 86
+Users Score: 65
+------------------------------------------------------------------
+Game: NBA 2K19
+Platform: XONE
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Sep  7, 2018
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 12
+Metascore: 83
+Users Score: 28
+------------------------------------------------------------------
+Game: FIFA 19
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 25, 2018
+Positive Critics: 59
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 19
+Negative Users: 207
+Metascore: 83
+Users Score: 17
+------------------------------------------------------------------
+Game: FIFA 19
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Sep 25, 2018
+Positive Critics: 23
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 32
+Metascore: 83
+Users Score: 20
+------------------------------------------------------------------
+Game: Laser League
+Platform: PS4
+Developer: roll7
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E10+
+Release Date: May 10, 2018
+Positive Critics: 24
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 2
+Metascore: 82
+Users Score: 68
+------------------------------------------------------------------
+Game: NHL 19
+Platform: XONE
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 12 
+Rating: E10+
+Release Date: Sep 11, 2018
+Positive Critics: 19
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 4
+Metascore: 82
+Users Score: 67
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2019
+Platform: XONE
+Developer: Konami
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Aug 28, 2018
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 4
+Metascore: 82
+Users Score: 68
+------------------------------------------------------------------
+Game: WindJammers
+Platform: Switch
+Developer: Data East, DotEmu
+Genre: Sports
+Number of Players: 2
+Rating: E
+Release Date: Oct 23, 2018
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: MLB The Show 18
+Platform: PS4
+Developer: Sony Interactive Entertainment
+Genre: Sports
+Number of Players: Up to 8 
+Rating: E
+Release Date: Mar 27, 2018
+Positive Critics: 29
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 9
+Negative Users: 9
+Metascore: 82
+Users Score: 63
+------------------------------------------------------------------
+Game: NBA 2K19
+Platform: PS4
+Developer: Visual Concepts
+Genre: Sports
+Number of Players: Up to 10 
+Rating: E
+Release Date: Sep  7, 2018
+Positive Critics: 39
+Neutral Critics: 9
+Negative Critics: 1
+Positive Users: 17
+Neutral Users: 6
+Negative Users: 88
+Metascore: 82
+Users Score: 26
+------------------------------------------------------------------
+Game: Super Mega Baseball 2
+Platform: XONE
+Developer: Metalhead Software
+Genre: Sports
+Number of Players: Up to 4 
+Rating: E
+Release Date: May  1, 2018
+Positive Critics: 19
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 71
+------------------------------------------------------------------
+Game: Madden NFL 19
+Platform: XONE
+Developer: EA Tiburon
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E
+Release Date: Aug 10, 2018
+Positive Critics: 19
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 19
+Metascore: 81
+Users Score: 33
+------------------------------------------------------------------
+Game: Laser League
+Platform: XONE
+Developer: roll7
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E10+
+Release Date: May 10, 2018
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: NHL 19
+Platform: PS4
+Developer: EA Sports
+Genre: Sports
+Number of Players: Up to 12 
+Rating: E10+
+Release Date: Sep 14, 2018
+Positive Critics: 21
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 4
+Negative Users: 19
+Metascore: 80
+Users Score: 53
+------------------------------------------------------------------
+Game: Madden NFL 19
+Platform: PS4
+Developer: EA Tiburon
+Genre: Sports
+Number of Players: Up to 6 
+Rating: E
+Release Date: Aug 10, 2018
+Positive Critics: 23
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 10
+Negative Users: 84
+Metascore: 80
+Users Score: 23
+------------------------------------------------------------------
+Game: The Golf Club 2019 featuring PGA Tour
+Platform: XONE
+Developer: HB Studios Multimedia
+Genre: Sports
+Number of Players: Up to 4 
+Rating: E
+Release Date: Aug 28, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Pro Evolution Soccer 2019
+Platform: PC
+Developer: Konami
+Genre: Sports
+Number of Players: Up to 22 
+Rating: E
+Release Date: Aug 28, 2018
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 12
+Metascore: 80
+Users Score: 57
+------------------------------------------------------------------
 Game: MLB The Show 19
 Platform: PS4
 Developer: Sony Interactive Entertainment

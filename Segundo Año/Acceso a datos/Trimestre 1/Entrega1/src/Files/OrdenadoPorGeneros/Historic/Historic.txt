@@ -1,0 +1,16 @@
+Game: Hearts of Iron IV
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Historic
+Number of Players: 
+Rating: 
+Release Date: Jun  6, 2016
+Positive Critics: 33
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 44
+Neutral Users: 13
+Negative Users: 32
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------

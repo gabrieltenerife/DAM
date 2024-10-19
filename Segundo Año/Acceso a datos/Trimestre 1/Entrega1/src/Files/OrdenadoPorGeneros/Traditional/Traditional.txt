@@ -1,0 +1,32 @@
+Game: Super Mega Baseball
+Platform: PS4
+Developer: Metalhead Software
+Genre: Traditional
+Number of Players: 
+Rating: E
+Release Date: Dec 16, 2014
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 0
+Negative Users: 1
+Metascore: 85
+Users Score: 73
+------------------------------------------------------------------
+Game: MLB 15: The Show
+Platform: PS4
+Developer: SCEA San Diego Studios
+Genre: Traditional
+Number of Players: 
+Rating: E
+Release Date: Mar 31, 2015
+Positive Critics: 38
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 11
+Negative Users: 12
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------

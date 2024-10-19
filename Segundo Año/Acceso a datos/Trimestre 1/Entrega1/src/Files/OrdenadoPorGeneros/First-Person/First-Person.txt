@@ -1,0 +1,64 @@
+Game: World of Tanks
+Platform: PC
+Developer: Wargaming.net
+Genre: First-Person
+Number of Players: 
+Rating: T
+Release Date: Apr 12, 2011
+Positive Critics: 29
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 101
+Neutral Users: 50
+Negative Users: 327
+Metascore: 80
+Users Score: 36
+------------------------------------------------------------------
+Game: 'Tom Clancy''s The Division 2'
+Platform: PC
+Developer: Massive Entertainment
+Genre: First-Person
+Number of Players: 
+Rating: M
+Release Date: Mar 15, 2019
+Positive Critics: 23
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 123
+Neutral Users: 11
+Negative Users: 29
+Metascore: 85
+Users Score: 65
+------------------------------------------------------------------
+Game: 'Tom Clancy''s The Division 2'
+Platform: PS4
+Developer: Massive Entertainment
+Genre: First-Person
+Number of Players: 
+Rating: M
+Release Date: Mar 12, 2019
+Positive Critics: 40
+Neutral Critics: 5
+Negative Critics: 1
+Positive Users: 178
+Neutral Users: 20
+Negative Users: 25
+Metascore: 83
+Users Score: 72
+------------------------------------------------------------------
+Game: 'Tom Clancy''s The Division 2'
+Platform: XONE
+Developer: Massive Entertainment
+Genre: First-Person
+Number of Players: 
+Rating: M
+Release Date: Mar 12, 2019
+Positive Critics: 20
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 28
+Neutral Users: 3
+Negative Users: 6
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------

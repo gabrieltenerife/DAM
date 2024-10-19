@@ -1,0 +1,432 @@
+Game: World of Warcraft: Mists of Pandaria
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Fantasy
+Number of Players: Massively Multiplayer
+Rating: T
+Release Date: Sep 25, 2012
+Positive Critics: 38
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 146
+Neutral Users: 36
+Negative Users: 227
+Metascore: 82
+Users Score: 50
+------------------------------------------------------------------
+Game: Middle-earth: Shadow of Mordor
+Platform: XONE
+Developer: Monolith Productions
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 30, 2014
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 128
+Neutral Users: 23
+Negative Users: 8
+Metascore: 87
+Users Score: 80
+------------------------------------------------------------------
+Game: Final Fantasy XIV Online: A Realm Reborn
+Platform: PS4
+Developer: Square Enix
+Genre: Fantasy
+Number of Players: Up to 64 
+Rating: T
+Release Date: Apr 14, 2014
+Positive Critics: 33
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 11
+Negative Users: 17
+Metascore: 86
+Users Score: 73
+------------------------------------------------------------------
+Game: Middle-earth: Shadow of Mordor
+Platform: PC
+Developer: Monolith Productions
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 30, 2014
+Positive Critics: 14
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 270
+Neutral Users: 90
+Negative Users: 40
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Middle-earth: Shadow of Mordor
+Platform: PS4
+Developer: Monolith Productions
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 30, 2014
+Positive Critics: 77
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 395
+Neutral Users: 91
+Negative Users: 42
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: The Wolf Among Us: Episode 5 - Cry Wolf
+Platform: PC
+Developer: Telltale Games
+Genre: Fantasy
+Number of Players: 
+Rating: M
+Release Date: Jul  8, 2014
+Positive Critics: 27
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 3
+Negative Users: 1
+Metascore: 84
+Users Score: 88
+------------------------------------------------------------------
+Game: The Wolf Among Us: Episode 3 - A Crooked Mile
+Platform: PC
+Developer: Telltale Games
+Genre: Fantasy
+Number of Players: 
+Rating: M
+Release Date: Apr  8, 2014
+Positive Critics: 31
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: Age of Wonders III - Golden Realms
+Platform: PC
+Developer: Triumph Studios
+Genre: Fantasy
+Number of Players: 
+Rating: 
+Release Date: Sep 18, 2014
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 1
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: Disgaea 4: A Promise Revisited
+Platform: VITA
+Developer: Nippon Ichi Software
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Aug 12, 2014
+Positive Critics: 28
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Bloodborne
+Platform: PS4
+Developer: From Software
+Genre: Fantasy
+Number of Players: Up to 5 
+Rating: M
+Release Date: Mar 24, 2015
+Positive Critics: 99
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1298
+Neutral Users: 108
+Negative Users: 118
+Metascore: 92
+Users Score: 89
+------------------------------------------------------------------
+Game: 'The Legend of Zelda: Majora''s Mask 3D'
+Platform: 3DS
+Developer: GREZZO
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Feb 13, 2015
+Positive Critics: 81
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 103
+Neutral Users: 12
+Negative Users: 7
+Metascore: 89
+Users Score: 89
+------------------------------------------------------------------
+Game: DmC: Devil May Cry Definitive Edition
+Platform: XONE
+Developer: Ninja Theory, QLOC
+Genre: Fantasy
+Number of Players: 
+Rating: M
+Release Date: Mar 10, 2015
+Positive Critics: 20
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 4
+Negative Users: 3
+Metascore: 86
+Users Score: 75
+------------------------------------------------------------------
+Game: Rise of the Tomb Raider
+Platform: XONE
+Developer: Crystal Dynamics
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 10, 2015
+Positive Critics: 96
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 181
+Neutral Users: 18
+Negative Users: 16
+Metascore: 86
+Users Score: 80
+------------------------------------------------------------------
+Game: Chaos Reborn
+Platform: PC
+Developer: Snapshot Games Inc.
+Genre: Fantasy
+Number of Players: 
+Rating: 
+Release Date: Oct 26, 2015
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 5
+Negative Users: 1
+Metascore: 85
+Users Score: 81
+------------------------------------------------------------------
+Game: DmC: Devil May Cry Definitive Edition
+Platform: PS4
+Developer: Ninja Theory, QLOC
+Genre: Fantasy
+Number of Players: 
+Rating: M
+Release Date: Mar 10, 2015
+Positive Critics: 50
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 8
+Negative Users: 6
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: Splatoon
+Platform: WIIU
+Developer: Nintendo
+Genre: Fantasy
+Number of Players: Up to 8 
+Rating: E10+
+Release Date: May 29, 2015
+Positive Critics: 75
+Neutral Critics: 13
+Negative Critics: 0
+Positive Users: 343
+Neutral Users: 37
+Negative Users: 17
+Metascore: 81
+Users Score: 87
+------------------------------------------------------------------
+Game: Disgaea 5: Alliance of Vengeance
+Platform: PS4
+Developer: Nippon Ichi Software
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct  6, 2015
+Positive Critics: 35
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 18
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 82
+------------------------------------------------------------------
+Game: Owlboy
+Platform: PC
+Developer: D-Pad Studio
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov  1, 2016
+Positive Critics: 44
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 23
+Neutral Users: 14
+Negative Users: 7
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: Fire Emblem Fates: Conquest
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 19, 2016
+Positive Critics: 39
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 57
+Neutral Users: 14
+Negative Users: 13
+Metascore: 87
+Users Score: 82
+------------------------------------------------------------------
+Game: The Last Guardian
+Platform: PS4
+Developer: SCE Japan Studio
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Dec  6, 2016
+Positive Critics: 82
+Neutral Critics: 27
+Negative Critics: 1
+Positive Users: 270
+Neutral Users: 69
+Negative Users: 68
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Duelyst
+Platform: PC
+Developer: Counterplay Games
+Genre: Fantasy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: May  3, 2016
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 1
+Negative Users: 3
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Severed
+Platform: VITA
+Developer: DrinkBox Studios
+Genre: Fantasy
+Number of Players: 
+Rating: T
+Release Date: Apr 26, 2016
+Positive Critics: 54
+Neutral Critics: 9
+Negative Critics: 1
+Positive Users: 12
+Neutral Users: 0
+Negative Users: 1
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Starbound
+Platform: PC
+Developer: Chucklefish
+Genre: Fantasy
+Number of Players: Online Multiplayer
+Rating: E10+
+Release Date: Jul 22, 2016
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 33
+Negative Users: 33
+Metascore: 81
+Users Score: 71
+------------------------------------------------------------------
+Game: The Legend of Zelda: Breath of the Wild
+Platform: WIIU
+Developer: Nintendo
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Mar  3, 2017
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 381
+Neutral Users: 44
+Negative Users: 32
+Metascore: 96
+Users Score: 82
+------------------------------------------------------------------
+Game: Night in the Woods
+Platform: PC
+Developer: Infinite Fall
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 21, 2017
+Positive Critics: 30
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 11
+Negative Users: 9
+Metascore: 88
+Users Score: 78
+------------------------------------------------------------------
+Game: Night in the Woods
+Platform: PS4
+Developer: Infinite Fall
+Genre: Fantasy
+Number of Players: 
+Rating: T
+Release Date: Feb 21, 2017
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 2
+Negative Users: 3
+Metascore: 87
+Users Score: 74
+------------------------------------------------------------------
+Game: 'Hellblade: Senua''s Sacrifice'
+Platform: PS4
+Developer: Ninja Theory
+Genre: Fantasy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug  8, 2017
+Positive Critics: 61
+Neutral Critics: 6
+Negative Critics: 1
+Positive Users: 142
+Neutral Users: 22
+Negative Users: 28
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------

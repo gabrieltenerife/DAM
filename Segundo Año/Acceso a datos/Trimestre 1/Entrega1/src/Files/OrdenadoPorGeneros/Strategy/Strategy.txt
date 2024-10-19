@@ -1,0 +1,1760 @@
+Game: Total War: Shogun 2
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Mar 15, 2011
+Positive Critics: 62
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 187
+Neutral Users: 44
+Negative Users: 29
+Metascore: 90
+Users Score: 84
+------------------------------------------------------------------
+Game: Frozen Synapse
+Platform: PC
+Developer: Mode 7 Games
+Genre: Strategy
+Number of Players: 2
+Rating: 
+Release Date: May 26, 2011
+Positive Critics: 24
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 43
+Neutral Users: 6
+Negative Users: 10
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: Unity of Command
+Platform: PC
+Developer: 2x2 Games
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Nov 15, 2011
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 10
+Negative Users: 5
+Metascore: 84
+Users Score: 71
+------------------------------------------------------------------
+Game: Anno 2070
+Platform: PC
+Developer: Blue Byte, Related Designs
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Nov 17, 2011
+Positive Critics: 29
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 69
+Neutral Users: 27
+Negative Users: 51
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: Anomaly: Warzone Earth
+Platform: PC
+Developer: 11 bit studios
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Apr  8, 2011
+Positive Critics: 30
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 10
+Negative Users: 5
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: Warhammer 40,000: Dawn of War II - Retribution
+Platform: PC
+Developer: Relic
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Feb 28, 2011
+Positive Critics: 42
+Neutral Critics: 10
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 18
+Negative Users: 8
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Panzer Corps
+Platform: PC
+Developer: The Lordz Games Studio
+Genre: Strategy
+Number of Players: 1-2 
+Rating: 
+Release Date: Jul 11, 2011
+Positive Critics: 10
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 1
+Negative Users: 5
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: XCOM: Enemy Unknown
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  8, 2012
+Positive Critics: 56
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 362
+Neutral Users: 118
+Negative Users: 88
+Metascore: 89
+Users Score: 82
+------------------------------------------------------------------
+Game: Total War: Shogun 2 - Fall of the Samurai
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Mar 22, 2012
+Positive Critics: 44
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 44
+Neutral Users: 8
+Negative Users: 4
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: Sins of a Solar Empire: Rebellion
+Platform: PC
+Developer: Ironclad Games
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Jun 12, 2012
+Positive Critics: 20
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 55
+Neutral Users: 10
+Negative Users: 12
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Crusader Kings II
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Feb 14, 2012
+Positive Critics: 27
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 180
+Neutral Users: 10
+Negative Users: 14
+Metascore: 82
+Users Score: 88
+------------------------------------------------------------------
+Game: Wargame: European Escalation
+Platform: PC
+Developer: Eugen Systems
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Feb 22, 2012
+Positive Critics: 23
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 67
+Neutral Users: 11
+Negative Users: 9
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization V: Gods & Kings'
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Jun 18, 2012
+Positive Critics: 42
+Neutral Critics: 10
+Negative Critics: 1
+Positive Users: 32
+Neutral Users: 20
+Negative Users: 8
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Fire Emblem: Awakening
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb  4, 2013
+Positive Critics: 72
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 248
+Neutral Users: 15
+Negative Users: 12
+Metascore: 92
+Users Score: 91
+------------------------------------------------------------------
+Game: Crusader Kings II: The Old Gods
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: May 28, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 1
+Negative Users: 3
+Metascore: 88
+Users Score: 87
+------------------------------------------------------------------
+Game: Europa Universalis IV
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: T
+Release Date: Aug 13, 2013
+Positive Critics: 31
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 171
+Neutral Users: 22
+Negative Users: 29
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Pikmin 3
+Platform: WIIU
+Developer: Nintendo
+Genre: Strategy
+Number of Players: 1-2 
+Rating: E10+
+Release Date: Aug  4, 2013
+Positive Critics: 77
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 145
+Neutral Users: 11
+Negative Users: 2
+Metascore: 87
+Users Score: 87
+------------------------------------------------------------------
+Game: Starcraft II: Heart of the Swarm
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Mar 12, 2013
+Positive Critics: 66
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 168
+Neutral Users: 57
+Negative Users: 50
+Metascore: 86
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization V: Brave New World'
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Jul  8, 2013
+Positive Critics: 52
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 73
+Neutral Users: 14
+Negative Users: 11
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------
+Game: PixelJunk Monsters: Ultimate HD
+Platform: VITA
+Developer: Double Eleven
+Genre: Strategy
+Number of Players: 
+Rating: E
+Release Date: Jul 30, 2013
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Card Hunter (2013)
+Platform: PC
+Developer: Blue Manchu
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Sep 12, 2013
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 1
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: CastleStorm
+Platform: WIIU
+Developer: Zen Studios
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Dec 26, 2013
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 0
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: Victoria II: Heart of Darkness
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr 16, 2013
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 87
+------------------------------------------------------------------
+Game: Company of Heroes 2
+Platform: PC
+Developer: Relic
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Jun 25, 2013
+Positive Critics: 70
+Neutral Critics: 10
+Negative Critics: 2
+Positive Users: 267
+Neutral Users: 84
+Negative Users: 1081
+Metascore: 80
+Users Score: 21
+------------------------------------------------------------------
+Game: Fallen Enchantress: Legendary Heroes
+Platform: PC
+Developer: Stardock
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 22, 2013
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 35
+Neutral Users: 9
+Negative Users: 6
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Wargame: AirLand Battle
+Platform: PC
+Developer: Eugen Systems
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: May 29, 2013
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 1
+Positive Users: 57
+Neutral Users: 12
+Negative Users: 12
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Europa Universalis IV: Wealth of Nations
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: May 29, 2014
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 85
+------------------------------------------------------------------
+Game: Ultimate General: Gettysburg
+Platform: PC
+Developer: Game-Labs
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Oct 16, 2014
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 55
+Neutral Users: 8
+Negative Users: 5
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Endless Legend
+Platform: PC
+Developer: Amplitude Studios
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Apr 24, 2014
+Positive Critics: 34
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 81
+Neutral Users: 22
+Negative Users: 13
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: Company of Heroes 2: Ardennes Assault
+Platform: PC
+Developer: Relic, Sega, Relic Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Nov 17, 2014
+Positive Critics: 34
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 8
+Metascore: 81
+Users Score: 62
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization: Beyond Earth'
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Oct 23, 2014
+Positive Critics: 65
+Neutral Critics: 12
+Negative Critics: 1
+Positive Users: 69
+Neutral Users: 113
+Negative Users: 141
+Metascore: 81
+Users Score: 55
+------------------------------------------------------------------
+Game: Galactic Civilizations III
+Platform: PC
+Developer: Stardock
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Mar 27, 2014
+Positive Critics: 25
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 22
+Neutral Users: 19
+Negative Users: 16
+Metascore: 81
+Users Score: 66
+------------------------------------------------------------------
+Game: Europa Universalis IV: Conquest of Paradise
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Jan 14, 2014
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 5
+Negative Users: 4
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Company of Heroes 2: The Western Front Armies
+Platform: PC
+Developer: Relic, Relic Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Jun 23, 2014
+Positive Critics: 26
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 3
+Negative Users: 4
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: Age of Wonders III
+Platform: PC
+Developer: Triumph Studios
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Mar 31, 2014
+Positive Critics: 29
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 90
+Neutral Users: 21
+Negative Users: 13
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Hearthstone: Heroes of Warcraft - The Grand Tournament
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Aug 24, 2015
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 5
+Negative Users: 11
+Metascore: 84
+Users Score: 42
+------------------------------------------------------------------
+Game: Hearthstone: Heroes of Warcraft - Blackrock Mountain
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr  2, 2015
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 60
+------------------------------------------------------------------
+Game: Order of Battle: Pacific
+Platform: PC
+Developer: The Artistocrats
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr 30, 2015
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 2
+Metascore: 81
+Users Score: 56
+------------------------------------------------------------------
+Game: Age of Wonders III - Eternal Lords
+Platform: PC
+Developer: Triumph Studios
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr 14, 2015
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 84
+------------------------------------------------------------------
+Game: Company of Heroes 2: The British Forces
+Platform: PC
+Developer: Relic, Relic Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Sep  2, 2015
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 2
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: 'Nobunaga''s Ambition: Sphere of Influence'
+Platform: PS4
+Developer: Koei Tecmo Games
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep  1, 2015
+Positive Critics: 16
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: Total War: Attila
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Feb 17, 2015
+Positive Critics: 52
+Neutral Critics: 14
+Negative Critics: 0
+Positive Users: 77
+Neutral Users: 16
+Negative Users: 32
+Metascore: 80
+Users Score: 73
+------------------------------------------------------------------
+Game: SMITE
+Platform: XONE
+Developer: Hi-Rez Studios
+Genre: Strategy
+Number of Players: Up to 10 
+Rating: T
+Release Date: Aug 19, 2015
+Positive Critics: 18
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 4
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: XCOM 2
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 2
+Rating: T
+Release Date: Feb  5, 2016
+Positive Critics: 97
+Neutral Critics: 6
+Negative Critics: 1
+Positive Users: 191
+Neutral Users: 79
+Negative Users: 112
+Metascore: 88
+Users Score: 72
+------------------------------------------------------------------
+Game: Fire Emblem Fates: Special Edition
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Strategy
+Number of Players: 2
+Rating: T
+Release Date: Feb 19, 2016
+Positive Critics: 36
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 6
+Negative Users: 7
+Metascore: 88
+Users Score: 82
+------------------------------------------------------------------
+Game: Fire Emblem Fates: Revelation
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Mar 10, 2016
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 6
+Negative Users: 5
+Metascore: 88
+Users Score: 76
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization VI'
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: E10+
+Release Date: Oct 20, 2016
+Positive Critics: 79
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 91
+Neutral Users: 61
+Negative Users: 94
+Metascore: 88
+Users Score: 70
+------------------------------------------------------------------
+Game: XCOM 2
+Platform: PS4
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 2
+Rating: T
+Release Date: Sep 27, 2016
+Positive Critics: 27
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 44
+Neutral Users: 14
+Negative Users: 20
+Metascore: 87
+Users Score: 73
+------------------------------------------------------------------
+Game: SteamWorld Heist
+Platform: WIIU
+Developer: Image & Form
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Oct 20, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 87
+Users Score: 79
+------------------------------------------------------------------
+Game: XCOM 2
+Platform: XONE
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 2
+Rating: T
+Release Date: Sep 27, 2016
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 1
+Negative Users: 2
+Metascore: 87
+Users Score: 74
+------------------------------------------------------------------
+Game: Total War: WARHAMMER
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: May 24, 2016
+Positive Critics: 72
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 94
+Neutral Users: 31
+Negative Users: 29
+Metascore: 86
+Users Score: 74
+------------------------------------------------------------------
+Game: Fire Emblem Fates: Birthright
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Strategy
+Number of Players: 2
+Rating: T
+Release Date: Feb 19, 2016
+Positive Critics: 30
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 45
+Neutral Users: 3
+Negative Users: 7
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: Hearthstone: Heroes of Warcraft - Whispers of the Old Gods
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr 26, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 9
+Metascore: 85
+Users Score: 54
+------------------------------------------------------------------
+Game: Shadow Tactics: Blades of the Shogun
+Platform: PC
+Developer: Mimimi Productions
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec  6, 2016
+Positive Critics: 39
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 3
+Negative Users: 2
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: Valkyria Chronicles Remastered
+Platform: PS4
+Developer: Sega
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 17, 2016
+Positive Critics: 54
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 2
+Negative Users: 4
+Metascore: 84
+Users Score: 82
+------------------------------------------------------------------
+Game: Planet Coaster
+Platform: PC
+Developer: Frontier Developments
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 17, 2016
+Positive Critics: 56
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 71
+Neutral Users: 8
+Negative Users: 17
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: The Banner Saga 2
+Platform: XONE
+Developer: Stoic Jester Studios, Stoic
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Jul  1, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 2
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Lara Croft GO
+Platform: PS4
+Developer: Square Enix
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Dec  3, 2016
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 55
+------------------------------------------------------------------
+Game: SteamWorld Heist
+Platform: PS4
+Developer: Image & Form
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Jun  7, 2016
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 74
+------------------------------------------------------------------
+Game: Duskers
+Platform: PC
+Developer: Misfits Attic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 18, 2016
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 71
+------------------------------------------------------------------
+Game: XCOM: Enemy Unknown Plus
+Platform: VITA
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Mar 22, 2016
+Positive Critics: 5
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 11
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: SteamWorld Heist
+Platform: PC
+Developer: Image & Form
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun  7, 2016
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Awesomenauts Assemble!
+Platform: XONE
+Developer: Abstraction Games, Ronimo Games
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Sep  7, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 72
+------------------------------------------------------------------
+Game: Prison Architect
+Platform: PS4
+Developer: Introversion, Double Eleven
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Jun 28, 2016
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Cities: Skylines - Natural Disasters
+Platform: PC
+Developer: Colossal Order
+Genre: Strategy
+Number of Players: 
+Rating: E
+Release Date: Nov 29, 2016
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 62
+------------------------------------------------------------------
+Game: World of Van Helsing: Deathtrap
+Platform: XONE
+Developer: NeocoreGames
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Dec 30, 2016
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 69
+------------------------------------------------------------------
+Game: SteamWorld Heist: Ultimate Edition
+Platform: Switch
+Developer: Image & Form
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec 28, 2017
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 0
+Metascore: 91
+Users Score: 85
+------------------------------------------------------------------
+Game: XCOM 2: War of the Chosen
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Aug 29, 2017
+Positive Critics: 39
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 24
+Neutral Users: 2
+Negative Users: 8
+Metascore: 88
+Users Score: 78
+------------------------------------------------------------------
+Game: Total War: WARHAMMER II
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Sep 28, 2017
+Positive Critics: 65
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 30
+Neutral Users: 6
+Negative Users: 12
+Metascore: 87
+Users Score: 75
+------------------------------------------------------------------
+Game: Battlerite
+Platform: PC
+Developer: Stunlock Studios
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Nov  8, 2017
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 1
+Negative Users: 3
+Metascore: 85
+Users Score: 74
+------------------------------------------------------------------
+Game: Galactic Civilizations III: Crusade
+Platform: PC
+Developer: Stardock
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: May  4, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 3
+Metascore: 85
+Users Score: 67
+------------------------------------------------------------------
+Game: Starcraft Remastered
+Platform: PC
+Developer: Blizzard Entertainment
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Aug 14, 2017
+Positive Critics: 27
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 4
+Negative Users: 5
+Metascore: 85
+Users Score: 77
+------------------------------------------------------------------
+Game: Shadow Tactics: Blades of the Shogun
+Platform: PS4
+Developer: Mimimi Productions
+Genre: Strategy
+Number of Players: 
+Rating: M
+Release Date: Aug  1, 2017
+Positive Critics: 16
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 79
+------------------------------------------------------------------
+Game: Steel Division: Normandy 44
+Platform: PC
+Developer: Eugen Systems
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: May 23, 2017
+Positive Critics: 24
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 2
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: Worms W.M.D
+Platform: Switch
+Developer: Team 17
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Nov 23, 2017
+Positive Critics: 20
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Stellaris: Utopia
+Platform: PC
+Developer: Paradox Development Studio
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Apr  6, 2017
+Positive Critics: 8
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Disgaea 5 Complete
+Platform: Switch
+Developer: Nippon Ichi Software
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 23, 2017
+Positive Critics: 29
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 16
+Neutral Users: 4
+Negative Users: 0
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Cities: Skylines - PlayStation 4 Edition
+Platform: PS4
+Developer: Tantalus
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug 15, 2017
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 4
+Negative Users: 1
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Fire Emblem Echoes: Shadows of Valentia
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 19, 2017
+Positive Critics: 67
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 47
+Neutral Users: 5
+Negative Users: 4
+Metascore: 81
+Users Score: 85
+------------------------------------------------------------------
+Game: Cities: Skylines - Xbox One Edition
+Platform: XONE
+Developer: Tantalus
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Apr 21, 2017
+Positive Critics: 25
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 61
+------------------------------------------------------------------
+Game: Antihero
+Platform: PC
+Developer: Tim Conkling
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Jul 10, 2017
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 1
+Metascore: 81
+Users Score: 67
+------------------------------------------------------------------
+Game: Halo Wars: Definitive Edition
+Platform: XONE
+Developer: Microsoft Game Studios, Microsoft
+Genre: Strategy
+Number of Players: 
+Rating: T
+Release Date: Feb 21, 2017
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 71
+------------------------------------------------------------------
+Game: Endless Space 2
+Platform: PC
+Developer: Amplitude Studios
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: E10+
+Release Date: May 19, 2017
+Positive Critics: 42
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 5
+Negative Users: 6
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Battle Brothers
+Platform: PC
+Developer: Overhype Studios
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 24, 2017
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 4
+Negative Users: 6
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Tooth and Tail
+Platform: PC
+Developer: Pocketwatch Games
+Genre: Strategy
+Number of Players: Online Multiplayer
+Rating: 
+Release Date: Sep 12, 2017
+Positive Critics: 12
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Into the Breach
+Platform: PC
+Developer: Subset Games
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 27, 2018
+Positive Critics: 55
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 11
+Negative Users: 2
+Metascore: 90
+Users Score: 76
+------------------------------------------------------------------
+Game: Into the Breach
+Platform: Switch
+Developer: Subset Games
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 28, 2018
+Positive Critics: 13
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 1
+Metascore: 89
+Users Score: 75
+------------------------------------------------------------------
+Game: The Banner Saga 3
+Platform: XONE
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 26, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 88
+Users Score: 81
+------------------------------------------------------------------
+Game: RimWorld
+Platform: PC
+Developer: Ludeon Studios
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 17, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 37
+Neutral Users: 1
+Negative Users: 1
+Metascore: 86
+Users Score: 89
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization VI'
+Platform: Switch
+Developer: Aspyr
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Nov 16, 2018
+Positive Critics: 29
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 1
+Negative Users: 5
+Metascore: 86
+Users Score: 78
+------------------------------------------------------------------
+Game: Mini Metro
+Platform: Switch
+Developer: Dinosaur Polo Club
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug 30, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 85
+------------------------------------------------------------------
+Game: The Banner Saga 3
+Platform: Switch
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 26, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: Valkyria Chronicles 4
+Platform: PS4
+Developer: Sega, Media Vision
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 25, 2018
+Positive Critics: 45
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Valkyria Chronicles
+Platform: Switch
+Developer: Sega
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 16, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 1
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Total War: WARHAMMER II - Rise of the Tomb Kings
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Jan 23, 2018
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 84
+Users Score: 71
+------------------------------------------------------------------
+Game: Disgaea 1 Complete
+Platform: PS4
+Developer: Nippon Ichi Software
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Oct  9, 2018
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: Valkyria Chronicles 4
+Platform: PC
+Developer: Sega
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 25, 2018
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 0
+Negative Users: 1
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Total War: WARHAMMER II - Curse of the Vampire Coast
+Platform: PC
+Developer: Creative Assembly
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Nov  8, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 1
+Metascore: 83
+Users Score: 75
+------------------------------------------------------------------
+Game: Mario + Rabbids: Kingdom Battle - Donkey Kong Adventure
+Platform: Switch
+Developer: Ubisoft Milan
+Genre: Strategy
+Number of Players: 
+Rating: E10+
+Release Date: Jun 26, 2018
+Positive Critics: 28
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
+Game: Valkyria Chronicles 4
+Platform: Switch
+Developer: Sega
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 25, 2018
+Positive Critics: 23
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 1
+Negative Users: 1
+Metascore: 82
+Users Score: 86
+------------------------------------------------------------------
+Game: The Banner Saga 3
+Platform: PC
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 26, 2018
+Positive Critics: 45
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 7
+Negative Users: 1
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: The Banner Saga 2
+Platform: Switch
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jun  7, 2018
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Arena of Valor
+Platform: Switch
+Developer: Tencent, Tencent Games
+Genre: Strategy
+Number of Players: Up to 10 
+Rating: T
+Release Date: Sep 25, 2018
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 75
+------------------------------------------------------------------
+Game: The Banner Saga 1
+Platform: Switch
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: May 17, 2018
+Positive Critics: 13
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 81
+------------------------------------------------------------------
+Game: Mutant Year Zero: Road to Eden
+Platform: XONE
+Developer: The Bearded Ladies Consulting
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec  4, 2018
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 3
+Negative Users: 1
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: This War of Mine: Complete Edition
+Platform: Switch
+Developer: 11 bit studios
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Nov 27, 2018
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: The Banner Saga 3
+Platform: PS4
+Developer: Stoic
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 26, 2018
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: Slay the Spire
+Platform: PC
+Developer: Mega Crit Games
+Genre: Strategy
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 23, 2019
+Positive Critics: 21
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 3
+Negative Users: 2
+Metascore: 89
+Users Score: 65
+------------------------------------------------------------------
+Game: Wargroove
+Platform: Switch
+Developer: Chucklefish
+Genre: Strategy
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Feb  1, 2019
+Positive Critics: 38
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 4
+Negative Users: 2
+Metascore: 84
+Users Score: 77
+------------------------------------------------------------------
+Game: 'Sid Meier''s Civilization VI: Gathering Storm'
+Platform: PC
+Developer: Firaxis Games
+Genre: Strategy
+Number of Players: 
+Rating: 
+Release Date: Feb 14, 2019
+Positive Critics: 26
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 4
+Negative Users: 3
+Metascore: 82
+Users Score: 67
+------------------------------------------------------------------

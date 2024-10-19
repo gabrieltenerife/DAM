@@ -1,0 +1,480 @@
+Game: Professor Layton and the Miracle Mask
+Platform: 3DS
+Developer: Level 5
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Oct 28, 2012
+Positive Critics: 48
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 4
+Negative Users: 0
+Metascore: 82
+Users Score: 81
+------------------------------------------------------------------
+Game: Waveform
+Platform: PC
+Developer: Eden Industries
+Genre: Puzzle
+Number of Players: 
+Rating: 
+Release Date: Mar 20, 2012
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 3
+Negative Users: 1
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Art of Balance
+Platform: WIIU
+Developer: 'Shin''en'
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Oct  9, 2014
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: Siesta Fiesta
+Platform: 3DS
+Developer: Mojo Bones
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Jul 24, 2014
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 74
+------------------------------------------------------------------
+Game: Stretchmo
+Platform: 3DS
+Developer: Intelligent Systems
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: May 14, 2015
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 83
+Users Score: 78
+------------------------------------------------------------------
+Game: BOXBOY!
+Platform: 3DS
+Developer: HAL Labs
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Apr  2, 2015
+Positive Critics: 28
+Neutral Critics: 6
+Negative Critics: 1
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: 'Stephen''s Sausage Roll'
+Platform: PC
+Developer: increpare
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 17, 2016
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 3
+Metascore: 90
+Users Score: 55
+------------------------------------------------------------------
+Game: Picross 3D: Round 2
+Platform: 3DS
+Developer: HAL Labs
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Sep  1, 2016
+Positive Critics: 16
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 0
+Negative Users: 1
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Pony Island
+Platform: PC
+Developer: Daniel Mullins Games
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan  4, 2016
+Positive Critics: 28
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 11
+Negative Users: 2
+Metascore: 86
+Users Score: 74
+------------------------------------------------------------------
+Game: Chime Sharp
+Platform: PC
+Developer: Twistplay, Ste Curran
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jul 19, 2016
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 85
+Users Score: 48
+------------------------------------------------------------------
+Game: Metrico+
+Platform: PS4
+Developer: Digital Dreams
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Aug 23, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 63
+------------------------------------------------------------------
+Game: Zombie Night Terror
+Platform: PC
+Developer: NoClip
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jul 20, 2016
+Positive Critics: 17
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 78
+------------------------------------------------------------------
+Game: BoxBoxBoy!
+Platform: 3DS
+Developer: HAL Labs
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Jun 30, 2016
+Positive Critics: 24
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: OneShot
+Platform: PC
+Developer: Team Oneshot
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec  8, 2016
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 0
+Negative Users: 4
+Metascore: 80
+Users Score: 87
+------------------------------------------------------------------
+Game: Gorogoa
+Platform: PC
+Developer: Jason Roberts, Buried Signal
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Dec 14, 2017
+Positive Critics: 29
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 17
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 85
+------------------------------------------------------------------
+Game: Snipperclips Plus: Cut It Out, Together!
+Platform: Switch
+Developer: SFB Games
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Nov 10, 2017
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: World of Goo
+Platform: Switch
+Developer: Tomorrow Corporation
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Mar 16, 2017
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 3
+Negative Users: 1
+Metascore: 84
+Users Score: 76
+------------------------------------------------------------------
+Game: Puyo Puyo Tetris
+Platform: PS4
+Developer: Sega, Sonic Team
+Genre: Puzzle
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Apr 25, 2017
+Positive Critics: 12
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 2
+Negative Users: 1
+Metascore: 83
+Users Score: 74
+------------------------------------------------------------------
+Game: BYE-BYE BOXBOY!
+Platform: 3DS
+Developer: HAL Labs
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Apr 12, 2017
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Gorogoa
+Platform: Switch
+Developer: Jason Roberts
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Dec 14, 2017
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 6
+Neutral Users: 2
+Negative Users: 1
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: She Remembered Caterpillars
+Platform: PC
+Developer: Ysbryd Games
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 17, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 2
+Negative Users: 0
+Metascore: 82
+Users Score: 59
+------------------------------------------------------------------
+Game: Puyo Puyo Tetris
+Platform: Switch
+Developer: Sonic Team
+Genre: Puzzle
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Apr 25, 2017
+Positive Critics: 45
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 9
+Negative Users: 3
+Metascore: 81
+Users Score: 81
+------------------------------------------------------------------
+Game: Snipperclips - Cut it out, together!
+Platform: Switch
+Developer: Nintendo, SFB Games
+Genre: Puzzle
+Number of Players: 
+Rating: E
+Release Date: Mar  3, 2017
+Positive Critics: 54
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 59
+Neutral Users: 7
+Negative Users: 2
+Metascore: 80
+Users Score: 82
+------------------------------------------------------------------
+Game: Ironcast
+Platform: Switch
+Developer: Dreadbit
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Aug 10, 2017
+Positive Critics: 11
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Tetris Effect
+Platform: PS4
+Developer: Enhance Games
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov  9, 2018
+Positive Critics: 69
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 4
+Negative Users: 2
+Metascore: 89
+Users Score: 77
+------------------------------------------------------------------
+Game: Toki Tori 2 +
+Platform: Switch
+Developer: Two Tribes
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Feb 23, 2018
+Positive Critics: 13
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Lumines Remastered
+Platform: Switch
+Developer: Enhance Games
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 26, 2018
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 81
+------------------------------------------------------------------
+Game: Toki Tori
+Platform: Switch
+Developer: Two Tribes
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Mar 30, 2018
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 79
+------------------------------------------------------------------
+Game: Lumines Remastered
+Platform: PS4
+Developer: Enhance Games
+Genre: Puzzle
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jun 26, 2018
+Positive Critics: 14
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 52
+------------------------------------------------------------------
+Game: Tetris 99
+Platform: Switch
+Developer: Arika, Nintendo
+Genre: Puzzle
+Number of Players: Up to more than 64 
+Rating: E
+Release Date: Feb 13, 2019
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 34
+Neutral Users: 5
+Negative Users: 4
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------

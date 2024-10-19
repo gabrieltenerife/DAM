@@ -1,0 +1,64 @@
+Game: Dragon Age: Inquisition
+Platform: PC
+Developer: BioWare
+Genre: PC-style RPG
+Number of Players: Up to 4 
+Rating: M
+Release Date: Nov 18, 2014
+Positive Critics: 40
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 512
+Neutral Users: 294
+Negative Users: 644
+Metascore: 85
+Users Score: 59
+------------------------------------------------------------------
+Game: Wasteland 2
+Platform: PC
+Developer: InXile Entertainment
+Genre: PC-style RPG
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 18, 2014
+Positive Critics: 53
+Neutral Critics: 12
+Negative Critics: 0
+Positive Users: 169
+Neutral Users: 53
+Negative Users: 51
+Metascore: 81
+Users Score: 73
+------------------------------------------------------------------
+Game: Pillars of Eternity
+Platform: PC
+Developer: Obsidian Entertainment
+Genre: PC-style RPG
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Mar 26, 2015
+Positive Critics: 70
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 328
+Neutral Users: 85
+Negative Users: 49
+Metascore: 89
+Users Score: 83
+------------------------------------------------------------------
+Game: The Age of Decadence
+Platform: PC
+Developer: Iron Tower Studio
+Genre: PC-style RPG
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 15, 2015
+Positive Critics: 13
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 36
+Neutral Users: 6
+Negative Users: 10
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------

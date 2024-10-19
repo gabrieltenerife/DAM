@@ -1,0 +1,16 @@
+Game: Super Smash Bros. for Nintendo 3DS
+Platform: 3DS
+Developer: Bandai Namco Games
+Genre: Fighting
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Oct  3, 2014
+Positive Critics: 71
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 201
+Neutral Users: 38
+Negative Users: 14
+Metascore: 85
+Users Score: 86
+------------------------------------------------------------------

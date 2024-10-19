@@ -1,0 +1,1504 @@
+Game: The Book of Unwritten Tales
+Platform: PC
+Developer: KING Art
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Oct 28, 2011
+Positive Critics: 28
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 4
+Negative Users: 2
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: Gemini Rue
+Platform: PC
+Developer: Wadjet Eye Games, Joshua Nuernberger
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Feb 24, 2011
+Positive Critics: 21
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 7
+Negative Users: 3
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: 'Zero Escape: Virtue''s Last Reward'
+Platform: 3DS
+Developer: ChunSoft
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 23, 2012
+Positive Critics: 14
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 40
+Neutral Users: 4
+Negative Users: 5
+Metascore: 88
+Users Score: 88
+------------------------------------------------------------------
+Game: Thirty Flights of Loving
+Platform: PC
+Developer: Blendo Games
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Aug 20, 2012
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 14
+Negative Users: 35
+Metascore: 88
+Users Score: 50
+------------------------------------------------------------------
+Game: 'Zero Escape: Virtue''s Last Reward'
+Platform: VITA
+Developer: ChunSoft
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 23, 2012
+Positive Critics: 28
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 49
+Neutral Users: 2
+Negative Users: 2
+Metascore: 84
+Users Score: 88
+------------------------------------------------------------------
+Game: Superbrothers: Sword & Sworcery EP
+Platform: PC
+Developer: Capy Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 16, 2012
+Positive Critics: 7
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 15
+Negative Users: 29
+Metascore: 83
+Users Score: 64
+------------------------------------------------------------------
+Game: Botanicula
+Platform: PC
+Developer: Amanita Design
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Apr 19, 2012
+Positive Critics: 32
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 52
+Neutral Users: 8
+Negative Users: 3
+Metascore: 82
+Users Score: 83
+------------------------------------------------------------------
+Game: The Cat Lady
+Platform: PC
+Developer: Harvester Games
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Dec  7, 2012
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 39
+Neutral Users: 6
+Negative Users: 5
+Metascore: 81
+Users Score: 87
+------------------------------------------------------------------
+Game: Papers, Please
+Platform: PC
+Developer: Lucas Pope
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  8, 2013
+Positive Critics: 39
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 202
+Neutral Users: 34
+Negative Users: 17
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: 'Monaco: What''s Yours Is Mine'
+Platform: PC
+Developer: Pocketwatch Games
+Genre: Adventure
+Number of Players: 1-4 
+Rating: T
+Release Date: Apr 24, 2013
+Positive Critics: 39
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 26
+Neutral Users: 12
+Negative Users: 4
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Kentucky Route Zero - Act II
+Platform: PC
+Developer: Cardboard Computer
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: May 31, 2013
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Phoenix Wright: Ace Attorney - Dual Destinies
+Platform: 3DS
+Developer: Capcom
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct 24, 2013
+Positive Critics: 55
+Neutral Critics: 8
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 9
+Negative Users: 1
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Kentucky Route Zero - Act I
+Platform: PC
+Developer: Cardboard Computer
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Jan  7, 2013
+Positive Critics: 24
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 6
+Negative Users: 9
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------
+Game: Goodbye Deponia
+Platform: PC
+Developer: Daedalic Entertainment
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 17, 2013
+Positive Critics: 24
+Neutral Critics: 9
+Negative Critics: 1
+Positive Users: 10
+Neutral Users: 4
+Negative Users: 5
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Proteus
+Platform: PC
+Developer: Ed Key and David Kanaga
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 30, 2013
+Positive Critics: 18
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 20
+Neutral Users: 12
+Negative Users: 29
+Metascore: 80
+Users Score: 56
+------------------------------------------------------------------
+Game: Kentucky Route Zero - Act III
+Platform: PC
+Developer: Cardboard Computer
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: May  6, 2014
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 3
+Negative Users: 1
+Metascore: 91
+Users Score: 66
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 5 - The Vault of the Traveler
+Platform: PS4
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 1
+Metascore: 90
+Users Score: 80
+------------------------------------------------------------------
+Game: The Talos Principle
+Platform: PS4
+Developer: Croteam
+Genre: Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Oct 13, 2015
+Positive Critics: 31
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 4
+Negative Users: 2
+Metascore: 88
+Users Score: 82
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 5 - The Vault of the Traveler
+Platform: PC
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Oct 20, 2015
+Positive Critics: 30
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 87
+------------------------------------------------------------------
+Game: Tales from the Borderlands: A Telltale Game Series
+Platform: PS4
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 42
+Neutral Users: 7
+Negative Users: 4
+Metascore: 86
+Users Score: 81
+------------------------------------------------------------------
+Game: Her Story
+Platform: PC
+Developer: Sam Barlow
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jun 24, 2015
+Positive Critics: 46
+Neutral Critics: 2
+Negative Critics: 1
+Positive Users: 28
+Neutral Users: 18
+Negative Users: 17
+Metascore: 86
+Users Score: 60
+------------------------------------------------------------------
+Game: Code:Realize - Guardian of Rebirth
+Platform: VITA
+Developer: Otomate
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Oct 20, 2015
+Positive Critics: 10
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 1
+Metascore: 86
+Users Score: 80
+------------------------------------------------------------------
+Game: Tales from the Borderlands: A Telltale Game Series
+Platform: PC
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Oct 20, 2015
+Positive Critics: 18
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 47
+Neutral Users: 3
+Negative Users: 2
+Metascore: 85
+Users Score: 85
+------------------------------------------------------------------
+Game: 80 Days (2015)
+Platform: PC
+Developer: inkle, Cape Guy
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 29, 2015
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 71
+------------------------------------------------------------------
+Game: Grim Fandango Remastered
+Platform: VITA
+Developer: Double Fine Productions
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Jan 27, 2015
+Positive Critics: 8
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 3
+Negative Users: 0
+Metascore: 84
+Users Score: 72
+------------------------------------------------------------------
+Game: Grim Fandango Remastered
+Platform: PC
+Developer: Double Fine Productions
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jan 26, 2015
+Positive Critics: 34
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 27
+Neutral Users: 10
+Negative Users: 7
+Metascore: 84
+Users Score: 80
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 3 - Catch A Ride
+Platform: PS4
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Jun 23, 2015
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 76
+------------------------------------------------------------------
+Game: The Talos Principle: Road To Gehenna
+Platform: PC
+Developer: Croteam
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Jul 23, 2015
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 4
+Negative Users: 0
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: 'King''s Quest Chapter 1: A Knight to Remember'
+Platform: PC
+Developer: The Odd Gentlemen
+Genre: Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Jul 28, 2015
+Positive Critics: 19
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 4
+Metascore: 82
+Users Score: 73
+------------------------------------------------------------------
+Game: Technobabylon
+Platform: PC
+Developer: Technocrat
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: May 21, 2015
+Positive Critics: 24
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 3
+Negative Users: 1
+Metascore: 82
+Users Score: 77
+------------------------------------------------------------------
+Game: Year Walk
+Platform: WIIU
+Developer: Simogo
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Sep 17, 2015
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 78
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 3 - Catch A Ride
+Platform: PC
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Jun 23, 2015
+Positive Critics: 18
+Neutral Critics: 6
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 2
+Metascore: 81
+Users Score: 84
+------------------------------------------------------------------
+Game: Tales From The Borderlands: Episode 2 - Atlas Mugged
+Platform: PS4
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Mar 17, 2015
+Positive Critics: 8
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 1
+Metascore: 81
+Users Score: 75
+------------------------------------------------------------------
+Game: The Book of Unwritten Tales 2
+Platform: PC
+Developer: KING Art
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Feb 20, 2015
+Positive Critics: 34
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 0
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Dropsy
+Platform: PC
+Developer: Tendershoot, A Jolly Corpse
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 10, 2015
+Positive Critics: 23
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 74
+------------------------------------------------------------------
+Game: 'King''s Quest Chapter 1: A Knight to Remember'
+Platform: XONE
+Developer: The Odd Gentlemen
+Genre: Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Jul 29, 2015
+Positive Critics: 22
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 78
+------------------------------------------------------------------
+Game: Kentucky Route Zero - Act IV
+Platform: PC
+Developer: Cardboard Computer
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Jul 20, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 2
+Metascore: 90
+Users Score: 63
+------------------------------------------------------------------
+Game: Keep Talking and Nobody Explodes
+Platform: PS4
+Developer: Steel Crate Games
+Genre: Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Oct 13, 2016
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 1
+Negative Users: 1
+Metascore: 88
+Users Score: 67
+------------------------------------------------------------------
+Game: The Witness
+Platform: XONE
+Developer: Thekla, Inc
+Genre: Adventure
+Number of Players: 
+Rating: E
+Release Date: Sep 13, 2016
+Positive Critics: 10
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 5
+Negative Users: 4
+Metascore: 86
+Users Score: 66
+------------------------------------------------------------------
+Game: Day of the Tentacle Remastered
+Platform: PC
+Developer: Double Fine Productions
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 21, 2016
+Positive Critics: 35
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 19
+Neutral Users: 1
+Negative Users: 2
+Metascore: 86
+Users Score: 79
+------------------------------------------------------------------
+Game: Firewatch
+Platform: XONE
+Developer: Campo Santo
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Sep 21, 2016
+Positive Critics: 8
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 3
+Negative Users: 8
+Metascore: 85
+Users Score: 44
+------------------------------------------------------------------
+Game: The Last Door: Season 2
+Platform: PC
+Developer: The Game Kitchen
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 29, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 1
+Metascore: 85
+Users Score: 73
+------------------------------------------------------------------
+Game: Gone Home: Console Edition
+Platform: PS4
+Developer: The Fullbright Company, Midnight City
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Jan 12, 2016
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 33
+Neutral Users: 27
+Negative Users: 59
+Metascore: 85
+Users Score: 45
+------------------------------------------------------------------
+Game: Day of the Tentacle Remastered
+Platform: PS4
+Developer: Double Fine Productions
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Mar 22, 2016
+Positive Critics: 18
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 5
+Negative Users: 0
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Zero Escape: Zero Time Dilemma
+Platform: VITA
+Developer: Spike Chunsoft, Chime
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 28, 2016
+Positive Critics: 26
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 6
+Negative Users: 3
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Batman: The Telltale Series - Episode 2: Children of Arkham
+Platform: XONE
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Sep 20, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 66
+------------------------------------------------------------------
+Game: Danganronpa: Trigger Happy Havoc
+Platform: PC
+Developer: Spike Chunsoft
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Feb 18, 2016
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 4
+Negative Users: 1
+Metascore: 82
+Users Score: 85
+------------------------------------------------------------------
+Game: I Expect You To Die
+Platform: PS4
+Developer: Schell Games
+Genre: Adventure
+Number of Players: 
+Rating: E10+
+Release Date: Dec 13, 2016
+Positive Critics: 15
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 13
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 76
+------------------------------------------------------------------
+Game: Phoenix Wright: Ace Attorney - Spirit of Justice
+Platform: 3DS
+Developer: Capcom
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep  8, 2016
+Positive Critics: 57
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 0
+Negative Users: 1
+Metascore: 81
+Users Score: 84
+------------------------------------------------------------------
+Game: Nelly Cootalot: The Fowl Fleet
+Platform: PC
+Developer: Application Systems Heidelberg Software GmbH, Application Systems Heidelberg
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 22, 2016
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 77
+------------------------------------------------------------------
+Game: Zero Escape: Zero Time Dilemma
+Platform: 3DS
+Developer: Spike Chunsoft, Chime
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jun 28, 2016
+Positive Critics: 15
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 2
+Negative Users: 1
+Metascore: 81
+Users Score: 82
+------------------------------------------------------------------
+Game: 'King''s Quest Chapter 3: Once Upon a Climb'
+Platform: XONE
+Developer: The Odd Gentlemen
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Apr 26, 2016
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 57
+------------------------------------------------------------------
+Game: Virginia
+Platform: XONE
+Developer: 505 Games
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Sep 22, 2016
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 1
+Positive Users: 3
+Neutral Users: 2
+Negative Users: 2
+Metascore: 80
+Users Score: 61
+------------------------------------------------------------------
+Game: 1979 Revolution: Black Friday
+Platform: PC
+Developer: N-Fusion Interactive Entertainment Corp., iNK Stories
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr  4, 2016
+Positive Critics: 22
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: What Remains of Edith Finch
+Platform: XONE
+Developer: Giant Sparrow
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 19, 2017
+Positive Critics: 12
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 2
+Negative Users: 3
+Metascore: 92
+Users Score: 73
+------------------------------------------------------------------
+Game: What Remains of Edith Finch
+Platform: PC
+Developer: Giant Sparrow
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr 24, 2017
+Positive Critics: 22
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 70
+Neutral Users: 11
+Negative Users: 14
+Metascore: 89
+Users Score: 82
+------------------------------------------------------------------
+Game: Thimbleweed Park
+Platform: PS4
+Developer: Ron Gilbert and Gary Winnick
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Aug 22, 2017
+Positive Critics: 7
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 86
+Users Score: 75
+------------------------------------------------------------------
+Game: Observer
+Platform: XONE
+Developer: Bloober Team
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: Aug 15, 2017
+Positive Critics: 8
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 3
+Negative Users: 3
+Metascore: 86
+Users Score: 76
+------------------------------------------------------------------
+Game: Paradigm
+Platform: PC
+Developer: Jacob Janerka
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Apr  5, 2017
+Positive Critics: 7
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 6
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 76
+------------------------------------------------------------------
+Game: Statik
+Platform: PS4
+Developer: Tarsier Studios
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Apr 24, 2017
+Positive Critics: 16
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 15
+Neutral Users: 3
+Negative Users: 0
+Metascore: 84
+Users Score: 78
+------------------------------------------------------------------
+Game: Rakuen
+Platform: PC
+Developer: Laura Shigihara
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: May 10, 2017
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 11
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 83
+------------------------------------------------------------------
+Game: Thimbleweed Park
+Platform: XONE
+Developer: Ron Gilbert and Gary Winnick
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Mar 30, 2017
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 73
+------------------------------------------------------------------
+Game: Thimbleweed Park
+Platform: PC
+Developer: Ron Gilbert and Gary Winnick
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 30, 2017
+Positive Critics: 52
+Neutral Critics: 7
+Negative Critics: 0
+Positive Users: 31
+Neutral Users: 9
+Negative Users: 2
+Metascore: 84
+Users Score: 81
+------------------------------------------------------------------
+Game: Detention
+Platform: PC
+Developer: Red Candle Game
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 12, 2017
+Positive Critics: 17
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 10
+Neutral Users: 4
+Negative Users: 1
+Metascore: 83
+Users Score: 79
+------------------------------------------------------------------
+Game: Hakuoki: Kyoto Winds
+Platform: VITA
+Developer: Idea Factory, Otomate
+Genre: Adventure
+Number of Players: 
+Rating: M
+Release Date: May 16, 2017
+Positive Critics: 5
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 73
+------------------------------------------------------------------
+Game: The Sexy Brutale
+Platform: PC
+Developer: Tequila Works, Cavalier Game Studios
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Apr 11, 2017
+Positive Critics: 26
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 12
+Neutral Users: 5
+Negative Users: 2
+Metascore: 83
+Users Score: 77
+------------------------------------------------------------------
+Game: Detention
+Platform: PS4
+Developer: Red Candle Game
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Oct  3, 2017
+Positive Critics: 11
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 69
+------------------------------------------------------------------
+Game: The Sexy Brutale
+Platform: XONE
+Developer: Abstraction Games, Tequila Works, Cavalier Game Studios
+Genre: Adventure
+Number of Players: 
+Rating: T
+Release Date: Apr 11, 2017
+Positive Critics: 12
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 69
+------------------------------------------------------------------
+Game: L.A. Noire: The VR Case Files
+Platform: PC
+Developer: Rockstar Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Dec 15, 2017
+Positive Critics: 22
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 1
+Negative Users: 0
+Metascore: 82
+Users Score: 68
+------------------------------------------------------------------
+Game: Thimbleweed Park
+Platform: Switch
+Developer: Ron Gilbert and Gary Winnick, Terrible Toybox
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Sep 21, 2017
+Positive Critics: 7
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 8
+Negative Users: 0
+Metascore: 82
+Users Score: 84
+------------------------------------------------------------------
+Game: Stories Untold
+Platform: PC
+Developer: No Code
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Feb 27, 2017
+Positive Critics: 16
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 7
+Neutral Users: 4
+Negative Users: 0
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: Danganronpa V3: Killing Harmony
+Platform: VITA
+Developer: Spike Chunsoft
+Genre: Adventure
+Number of Players: 2
+Rating: M
+Release Date: Sep 26, 2017
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 1
+Negative Users: 1
+Metascore: 80
+Users Score: 77
+------------------------------------------------------------------
+Game: Zero Escape: Zero Time Dilemma
+Platform: PS4
+Developer: Aksys Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Aug 18, 2017
+Positive Critics: 6
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 2
+Metascore: 80
+Users Score: 68
+------------------------------------------------------------------
+Game: Return of the Obra Dinn
+Platform: PC
+Developer: Lucas Pope
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Oct 18, 2018
+Positive Critics: 32
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 25
+Neutral Users: 4
+Negative Users: 3
+Metascore: 89
+Users Score: 78
+------------------------------------------------------------------
+Game: Subnautica
+Platform: PC
+Developer: Unknown Worlds Entertainment
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Jan 23, 2018
+Positive Critics: 39
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 119
+Neutral Users: 7
+Negative Users: 11
+Metascore: 87
+Users Score: 84
+------------------------------------------------------------------
+Game: Unavowed
+Platform: PC
+Developer: Wadjet Eye Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Aug  8, 2018
+Positive Critics: 30
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 8
+Neutral Users: 2
+Negative Users: 1
+Metascore: 87
+Users Score: 78
+------------------------------------------------------------------
+Game: Batman: The Enemy Within - Episode 5: Same Stitch
+Platform: PC
+Developer: Telltale Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 26, 2018
+Positive Critics: 13
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 85
+Users Score: 75
+------------------------------------------------------------------
+Game: Keep Talking and Nobody Explodes
+Platform: Switch
+Developer: Steel Crate Games
+Genre: Adventure
+Number of Players: Up to 4 
+Rating: E10+
+Release Date: Aug 16, 2018
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 84
+Users Score: 79
+------------------------------------------------------------------
+Game: Forgotton Anne
+Platform: XONE
+Developer: Throughline Games
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: May 15, 2018
+Positive Critics: 11
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 83
+Users Score: 52
+------------------------------------------------------------------
+Game: 'The Lion''s Song'
+Platform: Switch
+Developer: 'Mi''pu''mi Games'
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: T
+Release Date: Jul 10, 2018
+Positive Critics: 14
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 2
+Negative Users: 0
+Metascore: 81
+Users Score: 80
+------------------------------------------------------------------
+Game: CHUCHEL
+Platform: PC
+Developer: Amanita Design
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar  7, 2018
+Positive Critics: 20
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 5
+Negative Users: 10
+Metascore: 81
+Users Score: 60
+------------------------------------------------------------------
+Game: Minit
+Platform: PS4
+Developer: JW, Kitty, Jukio, and Dom
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Apr  3, 2018
+Positive Critics: 25
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 3
+Neutral Users: 0
+Negative Users: 0
+Metascore: 81
+Users Score: 69
+------------------------------------------------------------------
+Game: The Darkside Detective
+Platform: Switch
+Developer: Spooky Doorway
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Feb  7, 2018
+Positive Critics: 5
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 79
+------------------------------------------------------------------
+Game: Subnautica
+Platform: XONE
+Developer: Unknown Worlds Entertainment
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec  4, 2018
+Positive Critics: 9
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 1
+Negative Users: 0
+Metascore: 81
+Users Score: 83
+------------------------------------------------------------------
+Game: Subnautica
+Platform: PS4
+Developer: Unknown Worlds Entertainment, Panic Button
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E10+
+Release Date: Dec  4, 2018
+Positive Critics: 13
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 14
+Neutral Users: 3
+Negative Users: 4
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: The Gardens Between
+Platform: PC
+Developer: The Voxel Agents
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Sep 19, 2018
+Positive Critics: 9
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 71
+------------------------------------------------------------------
+Game: ABZU
+Platform: Switch
+Developer: Giant Squid
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Nov 29, 2018
+Positive Critics: 16
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 1
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: The Red Strings Club
+Platform: PC
+Developer: Deconstructeam
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 22, 2018
+Positive Critics: 37
+Neutral Critics: 8
+Negative Critics: 1
+Positive Users: 11
+Neutral Users: 2
+Negative Users: 1
+Metascore: 80
+Users Score: 76
+------------------------------------------------------------------
+Game: Unforeseen Incidents
+Platform: PC
+Developer: Backwoods Entertainment
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: May 24, 2018
+Positive Critics: 11
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 9
+Neutral Users: 0
+Negative Users: 1
+Metascore: 80
+Users Score: 72
+------------------------------------------------------------------
+Game: Minit
+Platform: Switch
+Developer: JW, Kitty, Jukio, and Dom
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: E
+Release Date: Aug  9, 2018
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 1
+Negative Users: 0
+Metascore: 80
+Users Score: 79
+------------------------------------------------------------------
+Game: Layers of Fear: Legacy
+Platform: Switch
+Developer: Bloober Team
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Feb 21, 2018
+Positive Critics: 21
+Neutral Critics: 4
+Negative Critics: 0
+Positive Users: 2
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 80
+------------------------------------------------------------------
+Game: Hypnospace Outlaw
+Platform: PC
+Developer: Tendershoot
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Mar 12, 2019
+Positive Critics: 12
+Neutral Critics: 2
+Negative Critics: 0
+Positive Users: 5
+Neutral Users: 0
+Negative Users: 0
+Metascore: 82
+Users Score: 62
+------------------------------------------------------------------
+Game: Bury Me, My Love
+Platform: PC
+Developer: The Pixel Hunt
+Genre: Adventure
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Jan 10, 2019
+Positive Critics: 6
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 0
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 53
+------------------------------------------------------------------
+Game: The Walking Dead: The Telltale Series - The Final Season Episode 4: Take Us Back
+Platform: PC
+Developer: Telltale Games, Skybound Games
+Genre: Adventure
+Number of Players: 
+Rating: 
+Release Date: Mar 26, 2019
+Positive Critics: 9
+Neutral Critics: 3
+Negative Critics: 0
+Positive Users: 4
+Neutral Users: 0
+Negative Users: 0
+Metascore: 80
+Users Score: 85
+------------------------------------------------------------------

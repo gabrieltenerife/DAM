@@ -1,3 +1,99 @@
+Game: Outlast
+Platform: PC
+Developer: Red Barrels
+Genre: Horror
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep  4, 2013
+Positive Critics: 50
+Neutral Critics: 9
+Negative Critics: 0
+Positive Users: 216
+Neutral Users: 68
+Negative Users: 24
+Metascore: 80
+Users Score: 83
+------------------------------------------------------------------
+Game: The Binding of Isaac: Rebirth
+Platform: PS4
+Developer: Nicalis
+Genre: Horror
+Number of Players: 
+Rating: M
+Release Date: Nov  4, 2014
+Positive Critics: 15
+Neutral Critics: 0
+Negative Critics: 0
+Positive Users: 62
+Neutral Users: 7
+Negative Users: 8
+Metascore: 88
+Users Score: 77
+------------------------------------------------------------------
+Game: The Binding of Isaac: Rebirth
+Platform: PC
+Developer: Nicalis
+Genre: Horror
+Number of Players: No Online Multiplayer
+Rating: 
+Release Date: Nov  4, 2014
+Positive Critics: 9
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 86
+Neutral Users: 7
+Negative Users: 8
+Metascore: 86
+Users Score: 84
+------------------------------------------------------------------
+Game: SOMA
+Platform: PC
+Developer: Frictional Games
+Genre: Horror
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Sep 21, 2015
+Positive Critics: 63
+Neutral Critics: 4
+Negative Critics: 1
+Positive Users: 130
+Neutral Users: 16
+Negative Users: 10
+Metascore: 84
+Users Score: 84
+------------------------------------------------------------------
+Game: Resident Evil HD Remaster
+Platform: PS4
+Developer: Capcom
+Genre: Horror
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 20, 2015
+Positive Critics: 44
+Neutral Critics: 5
+Negative Critics: 0
+Positive Users: 66
+Neutral Users: 10
+Negative Users: 6
+Metascore: 83
+Users Score: 83
+------------------------------------------------------------------
+Game: Resident Evil HD Remaster
+Platform: XONE
+Developer: Capcom
+Genre: Horror
+Number of Players: No Online Multiplayer
+Rating: M
+Release Date: Jan 20, 2015
+Positive Critics: 15
+Neutral Critics: 1
+Negative Critics: 0
+Positive Users: 21
+Neutral Users: 2
+Negative Users: 1
+Metascore: 82
+Users Score: 80
+------------------------------------------------------------------
 Game: The Forest
 Platform: PC
 Developer: SKS Games
