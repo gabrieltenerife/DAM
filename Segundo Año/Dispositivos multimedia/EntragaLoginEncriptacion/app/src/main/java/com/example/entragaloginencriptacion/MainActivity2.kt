@@ -45,7 +45,7 @@ class MainActivity2 : AppCompatActivity() {
                             Texto.text.toString(),
                             "woiwiadinwr2wadaw214588af8aw8f8"
                         )
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
@@ -54,7 +54,7 @@ class MainActivity2 : AppCompatActivity() {
                     if (Texto.text.isNotBlank()) {
                         val resultado =
                             cifradoCesarNumeros(Texto.text.toString(), "231523894723684")
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
@@ -63,10 +63,11 @@ class MainActivity2 : AppCompatActivity() {
                     if (Texto.text.isNotBlank()) {
                         val resultado =
                             cifradoCesarestandar(Texto.text.toString(), "1142iawd8awkn1b4h3b");
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
+
             }
         }
 
@@ -79,7 +80,7 @@ class MainActivity2 : AppCompatActivity() {
                             Texto.text.toString(),
                             "woiwiadinwr2wadaw214588af8aw8f8"
                         );
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
@@ -88,7 +89,7 @@ class MainActivity2 : AppCompatActivity() {
                     if (Texto.text.isNotBlank()) {
                         var resultado =
                             descifradoCesarNumeros(Texto.text.toString(), "231523894723684");
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
@@ -97,10 +98,11 @@ class MainActivity2 : AppCompatActivity() {
                     if (Texto.text.isNotBlank()) {
                         var resultado =
                             descifradoCesarComplejo(Texto.text.toString(), "1142iawd8awkn1b4h3b");
-                        val intento = Intent(this, MainActivity2::class.java)
+                        val intento = Intent(this, MainActivity3::class.java)
                         intento.putExtra("encripted", resultado)
                         startActivity(intento)
                     }
+
             }
         }
     }
