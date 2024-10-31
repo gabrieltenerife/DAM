@@ -44,7 +44,7 @@
       android:layout_height="96dp"
       android:layout_marginStart="84dp"
       android:layout_marginTop="180dp"
-      android:text="Alejandro Magno conquistó Egipto en el siglo IV a.C."
+      android:text="La Guerra Fría fue un conflicto militar directo entre EE. UU. y la URSS."
       android:textAlignment="center"
       android:textSize="20sp"
       app:layout_constraintStart_toStartOf="parent"

@@ -35,6 +35,7 @@ class BienvenidaActivity : AppCompatActivity() {
 
         testbutton.setOnClickListener {
             var intent =  Intent (this, Pregunta1::class.java)
+            intent.putExtra("usuario", user)
             startActivity(intent)
         }
     }

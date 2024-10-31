@@ -44,7 +44,7 @@
       android:layout_height="96dp"
       android:layout_marginStart="84dp"
       android:layout_marginTop="180dp"
-      android:text="Alejandro Magno conquistó Egipto en el siglo IV a.C."
+      android:text="La Gran Muralla China fue construida en una sola dinastía."
       android:textAlignment="center"
       android:textSize="20sp"
       app:layout_constraintStart_toStartOf="parent"

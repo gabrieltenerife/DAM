@@ -38,6 +38,7 @@ class Pregunta4 : AppCompatActivity() {
 
         val respuestas = bundle?.getBooleanArray("Array")!!
         var posicion = bundle?.getInt("Posicion")!!
+        var user = bundle?.getString("usuario")
         var ready = false
 
         if (r1.isChecked || r2.isChecked) {
@@ -60,6 +61,7 @@ class Pregunta4 : AppCompatActivity() {
             val intento = Intent(this, Pregunta5::class.java)
             intento.putExtra("Array", respuestas)
             intento.putExtra("Posicion", posicion)
+            intento.putExtra("usuario", user)
             startActivity(intento)
         }
     }

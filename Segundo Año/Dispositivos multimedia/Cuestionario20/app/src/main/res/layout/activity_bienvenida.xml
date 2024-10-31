@@ -5,14 +5,16 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BienvenidaActivity">
+    tools:context=".BienvenidaActivity"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="102dp">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="177dp"
         android:layout_height="36dp"
         android:layout_marginStart="116dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="200dp"
         android:text="Bienvenido !"
         android:textAlignment="center"
         android:textSize="20sp"
@@ -24,7 +26,7 @@
         android:layout_width="177dp"
         android:layout_height="36dp"
         android:layout_marginStart="116dp"
-        android:layout_marginTop="148dp"
+        android:layout_marginTop="248dp"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -45,8 +47,8 @@
         android:id="@+id/testbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="141dp"
-        android:layout_marginBottom="292dp"
+        android:layout_marginStart="140dp"
+        android:layout_marginBottom="316dp"
         android:text="Realizar test"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

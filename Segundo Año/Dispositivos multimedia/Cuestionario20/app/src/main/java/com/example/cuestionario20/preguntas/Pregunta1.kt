@@ -36,6 +36,9 @@ class Pregunta1 : AppCompatActivity() {
 
     fun respuesta() {
 
+        var bundle = intent.extras
+        var user = bundle?.getString("usuario")
+
         val respuestas = BooleanArray(10)
         var posicion = 0
         var ready = false
@@ -60,6 +63,7 @@ class Pregunta1 : AppCompatActivity() {
             val intento = Intent(this, Pregunta2::class.java)
             intento.putExtra("Array", respuestas)
             intento.putExtra("Posicion", posicion)
+            intento.putExtra("usuario", user)
             startActivity(intento)
         }
     }

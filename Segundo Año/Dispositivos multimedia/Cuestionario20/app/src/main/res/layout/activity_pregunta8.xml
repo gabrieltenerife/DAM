@@ -44,7 +44,7 @@
       android:layout_height="96dp"
       android:layout_marginStart="84dp"
       android:layout_marginTop="180dp"
-      android:text="Alejandro Magno conquistó Egipto en el siglo IV a.C."
+      android:text="La peste negra, una de las pandemias más mortales, ocurrió durante la Edad Media."
       android:textAlignment="center"
       android:textSize="20sp"
       app:layout_constraintStart_toStartOf="parent"

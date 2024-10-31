@@ -11,9 +11,9 @@
       android:id="@+id/boton"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:layout_marginStart="44dp"
-      android:layout_marginBottom="276dp"
-      android:text="Responder y avanzar a la siguiente pregunta"
+      android:layout_marginStart="60dp"
+      android:layout_marginBottom="272dp"
+      android:text="Finalizar cuestionario y ver resultados"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintStart_toStartOf="parent" />
 
@@ -44,7 +44,7 @@
       android:layout_height="96dp"
       android:layout_marginStart="84dp"
       android:layout_marginTop="180dp"
-      android:text="Alejandro Magno conquistó Egipto en el siglo IV a.C."
+      android:text="Napoleón Bonaparte fue exiliado dos veces."
       android:textAlignment="center"
       android:textSize="20sp"
       app:layout_constraintStart_toStartOf="parent"

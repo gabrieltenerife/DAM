@@ -7,8 +7,6 @@ import android.widget.RadioButton
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.example.cuestionario20.R
 
 
@@ -38,6 +36,7 @@ class Pregunta10 : AppCompatActivity() {
 
         val respuestas = bundle?.getBooleanArray("Array")!!
         var posicion = bundle?.getInt("Posicion")!!
+        var user = bundle?.getString("usuario")
         var ready = false
 
         if (r1.isChecked || r2.isChecked) {
@@ -55,9 +54,10 @@ class Pregunta10 : AppCompatActivity() {
         ).show()
 
         if (ready) {
-            val intento = Intent(this, Respuestas::class.java)
+            val intento = Intent(this, ResultadosActivity::class.java)
             intento.putExtra("Array", respuestas)
             intento.putExtra("Posicion", posicion)
+            intento.putExtra("usuario", user)
             startActivity(intento)
         }
     }
