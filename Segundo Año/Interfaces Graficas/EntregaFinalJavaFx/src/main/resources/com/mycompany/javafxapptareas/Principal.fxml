@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="430.0" prefWidth="780.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapptareas.PrincipalController">
+   <center>
+      <VBox alignment="CENTER" spacing="20.0" style="-fx-background-color: #EAF6FF; -fx-background-radius: 20;">
+          <children>
+              <!-- Título de la Barra de Tareas -->
+              <Label style="-fx-font-size: 18px; -fx-font-weight: bold;" text="BARRA DE TAREAS">
+               <VBox.margin>
+                  <Insets top="5.0" />
+               </VBox.margin></Label>
+      
+              <HBox alignment="CENTER" spacing="20.0">
+                  <!-- Columna de Tareas Pendientes -->
+                  <VBox spacing="10" style="-fx-background-color: #FF7F7F; -fx-padding: 20; -fx-background-radius: 10;">
+                      <children>
+                          <Label onMouseClicked="#popAudio" style="-fx-font-size: 16px; -fx-font-weight: bold;" text="🔊 Pendientes" />
+                          <VBox spacing="10">
+                              <children>
+                                  <VBox spacing="5" style="-fx-background-color: #FFD1D1; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                                  <!-- Repite el bloque anterior tantas veces como sea necesario -->
+                                  <VBox spacing="5" style="-fx-background-color: #FFD1D1; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                              </children>
+                          </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #FFD1D1; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #FFD1D1; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                      </children>
+                  </VBox>
+      
+                  <!-- Columna de Tareas En Progreso -->
+                  <VBox spacing="10" style="-fx-background-color: #FFD93D; -fx-padding: 20; -fx-background-radius: 10;">
+                      <children>
+                          <Label onMouseClicked="#popAudio" style="-fx-font-size: 16px; -fx-font-weight: bold;" text="🔊 En progreso" />
+                          <VBox spacing="10">
+                              <children>
+                                  <VBox spacing="5" style="-fx-background-color: #FFF2CC; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                                  <!-- Repite el bloque anterior tantas veces como sea necesario -->
+                                  <VBox spacing="5" style="-fx-background-color: #FFF2CC; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                              </children>
+                          </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #FFF2CC; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #FFF2CC; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                      </children>
+                  </VBox>
+      
+                  <!-- Columna de Tareas Terminadas -->
+                  <VBox spacing="10" style="-fx-background-color: #7FC8A9; -fx-padding: 20; -fx-background-radius: 10;">
+                      <children>
+                          <Label onMouseClicked="#popAudio" style="-fx-font-size: 16px; -fx-font-weight: bold;" text="🔊 Terminadas" />
+                          <VBox spacing="10">
+                              <children>
+                                  <VBox spacing="5" style="-fx-background-color: #DFF2E1; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                                  <!-- Repite el bloque anterior tantas veces como sea necesario -->
+                                  <VBox spacing="5" style="-fx-background-color: #DFF2E1; -fx-padding: 10; -fx-background-radius: 5;">
+                                      <children>
+                                          <Label style="-fx-font-weight: bold;" text="Tarea" />
+                                          <Label text="Esta tabla tarea es sobre cosas" />
+                                      </children>
+                                  </VBox>
+                              </children>
+                          </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #DFF2E1; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                     <VBox spacing="5" style="-fx-background-color: #DFF2E1; -fx-padding: 10; -fx-background-radius: 5;">
+                        <children>
+                           <Label style="-fx-font-weight: bold;" text="Tarea" />
+                           <Label text="Esta tabla tarea es sobre cosas" />
+                        </children>
+                     </VBox>
+                      </children>
+                  </VBox>
+               <VBox.margin>
+                  <Insets bottom="30.0" left="30.0" right="30.0" />
+               </VBox.margin>
+              </HBox>
+          </children>
+         <BorderPane.margin>
+            <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+         </BorderPane.margin>
+      </VBox>
+   </center>
+   <top>
+      <MenuBar style="-fx-background-color: #4A99E2;" BorderPane.alignment="CENTER">
+         <menus>
+            <Menu mnemonicParsing="false" text="Ventanas">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarPrincipal" text="Pantalla Principal" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarAñadirTareas" text="Añadir Tareas" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarFiltroTareas" text="Filtrar Tareas" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarPanelObjetivos" text="Panel Objetivos" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarConfiguracion" text="Configuracion" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Configuracion">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarConfiguracion" text="Ventana de configuracion" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Ayuda">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#popAyuda" text="Ayuda sobre la app" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Encuesta Satisfacción">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#switchEncuesta" text="Rellenar ahora!" />
+              </items>
+            </Menu>
+         </menus>
+      </MenuBar>
+   </top>
+   <bottom>
+      <Pane prefHeight="16.0" prefWidth="780.0" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>

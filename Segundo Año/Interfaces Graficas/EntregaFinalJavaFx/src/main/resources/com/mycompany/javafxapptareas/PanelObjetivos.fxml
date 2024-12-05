@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="537.0" prefWidth="776.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapptareas.PanelObjetivosController">
+   <center>
+      <VBox alignment="CENTER" prefHeight="548.0" prefWidth="793.0" spacing="20.0" style="-fx-background-color: #EAF6FF; -fx-background-radius: 20;">
+      <children>
+        <!-- Barra de Título -->
+        <Label style="-fx-font-size: 18px; -fx-font-weight: bold;" text="PANEL DE OBJETIVOS" />
+        
+              <!-- Etiqueta de Puntos -->
+        <Label style="-fx-font-size: 14px;" text="Puntos: 0" />
+      
+        <HBox alignment="CENTER" spacing="20.0">
+            <!-- Panel de Objetivos Principales -->
+            <VBox spacing="15" style="-fx-background-color: #FF6B6B; -fx-padding: 20; -fx-background-radius: 20;">
+                <children>
+                    <Label style="-fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: white;" text="Objetivos principales" />
+                    
+                          <!-- Objetivo Principal 1 -->
+                    <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                            <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="Completa 10 objetivos este trimestre" />
+                            <Label text="Descripción del objetivo. " />
+                        </children>
+                    </VBox>
+      
+                    <!-- Objetivo Principal 2 -->
+                    <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                            <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="Completa 100 tareas este trimestre" />
+                            <Label text="Descripción del objetivo." />
+                        </children>
+                    </VBox>
+      
+                    <!-- Objetivo Principal 3 -->
+                    <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                            <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="Lleva tus tareas al día durante 1 año" />
+                            <Label text="Descripción del objetivo." />
+                        </children>
+                    </VBox>
+                     <ProgressBar prefWidth="200.0" progress="0.0" />
+      
+                    <!-- Botón Nuevo Objetivo Aleatorio -->
+                    <Button onMouseClicked="#popCambiarObjetivo" style="-fx-background-color: #333333; -fx-text-fill: white; -fx-background-radius: 10; -fx-padding: 5 15;" text="Nuevo Objetivo Aleatorio" />
+                </children>
+                  <HBox.margin>
+                     <Insets bottom="30.0" />
+                  </HBox.margin>
+            </VBox>
+      
+            <!-- Panel de Objetivos Secundarios -->
+            <VBox spacing="15" style="-fx-background-color: #FFD93D; -fx-padding: 20; -fx-background-radius: 20;">
+                <children>
+                    <Label style="-fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: white;" text="Objetivos Secundarios" />
+                    
+                          <!-- Objetivo Secundario 1 -->
+                    <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                            <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="5 tareas" />
+                            <Label text="Completa esta semana" />
+                        </children>
+                    </VBox>
+      
+                    <!-- Objetivo Secundario 2 -->
+                    <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                            <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="3 revisa" />
+                            <Label text="Revisa 3 días seguidos tus tareas" />
+                        </children>
+                    </VBox>
+                     <VBox spacing="5" style="-fx-background-color: white; -fx-padding: 10; -fx-background-radius: 10;">
+                        <children>
+                           <Label style="-fx-font-size: 14px; -fx-font-weight: bold;" text="1 tarea" />
+                           <Label text="Completa esta semana" />
+                        </children>
+                     </VBox>
+                     <ProgressBar prefWidth="200.0" progress="0.0" />
+      
+                    <!-- Botón Nuevo Objetivo Aleatorio -->
+                    <Button onMouseClicked="#popCambiarObjetivo" style="-fx-background-color: #333333; -fx-text-fill: white; -fx-background-radius: 10; -fx-padding: 5 15;" text="Nuevo Objetivo Aleatorio" />
+                </children>
+                  <HBox.margin>
+                     <Insets bottom="30.0" />
+                  </HBox.margin>
+            </VBox>
+        </HBox>
+      </children>
+         <BorderPane.margin>
+            <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+         </BorderPane.margin>
+      </VBox>
+   </center>
+   <top>
+      <MenuBar style="-fx-background-color: #4A99E2;" BorderPane.alignment="CENTER">
+         <menus>
+            <Menu mnemonicParsing="false" text="Ventanas">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarPrincipal" text="Pantalla Principal" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarAñadirTareas" text="Añadir Tareas" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarFiltroTareas" text="Filtrar Tareas" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarPanelObjetivos" text="Panel Objetivos" />
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarConfiguracion" text="Configuracion" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Configuracion">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#CambiarConfiguracion" text="Ventana de configuracion" />
+               </items>
+            </Menu>
+            <Menu mnemonicParsing="false" text="Ayuda">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#popAyuda" text="Ayuda sobre la app" />
+               </items>
+            </Menu>
+         </menus>
+      </MenuBar>
+   </top>
+</BorderPane>
