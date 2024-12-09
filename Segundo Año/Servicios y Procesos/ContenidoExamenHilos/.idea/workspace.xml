@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5cdfd37-8030-48d0-b0ef-09a3457c896f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oQXRiUW9k4tad0h596g3n7DOsK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.EjercicioCuentaCorriente.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.SubprocesosYcolasbloqueo.EntrenoExamen.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.SubprocesosYcolasbloqueo.Semaforos.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.synchronizedYlockSyncronized.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gamba/IdeaProjects/Hilos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gamba/IdeaProjects/untitled1/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SubprocesosYcolasbloqueo.EjercicioPeluqueria.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SubprocesosYcolasbloqueo.EjercicioPeluqueria.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.SubprocesosYcolasbloqueo.EntrenoExamen.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SubprocesosYcolasbloqueo.EntrenoExamen.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SubprocesosYcolasbloqueo.EntrenoExamen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.SubprocesosYcolasbloqueo.Semaforos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SubprocesosYcolasbloqueo.Semaforos.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SubprocesosYcolasbloqueo.Semaforos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.example.SubprocesosYcolasbloqueo.EntrenoExamen.Main" />
+        <item itemvalue="Application.org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.Main" />
+        <item itemvalue="Application.org.example.SubprocesosYcolasbloqueo.Semaforos.Main" />
+        <item itemvalue="Application.org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5cdfd37-8030-48d0-b0ef-09a3457c896f" name="Changes" comment="" />
+      <created>1730802767450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730802767450</updated>
+      <workItem from="1730802768526" duration="4239000" />
+      <workItem from="1730887505515" duration="1297000" />
+      <workItem from="1730977171218" duration="3466000" />
+      <workItem from="1730986214854" duration="1000" />
+      <workItem from="1731321623987" duration="39000" />
+      <workItem from="1731500632479" duration="4953000" />
+      <workItem from="1731578403891" duration="4434000" />
+      <workItem from="1732185370248" duration="4467000" />
+      <workItem from="1732274396095" duration="1307000" />
+      <workItem from="1732276404685" duration="1753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SubprocesosYcolasbloqueo/CondicionesBloqueos/Main.java</url>
+          <line>6</line>
+          <properties class="org.example.SubprocesosYcolasbloqueo.CondicionesBloqueos.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SubprocesosYcolasbloqueo/Semaforos/Main.java</url>
+          <line>7</line>
+          <properties class="org.example.SubprocesosYcolasbloqueo.Semaforos.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SubprocesosYcolasbloqueo/EjercicioSemaforoExamen/Main.java</url>
+          <line>6</line>
+          <properties class="org.example.SubprocesosYcolasbloqueo.EjercicioSemaforoExamen.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SubprocesosYcolasbloqueo/EjercicioSemaforoExamen/ColaImpresion.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

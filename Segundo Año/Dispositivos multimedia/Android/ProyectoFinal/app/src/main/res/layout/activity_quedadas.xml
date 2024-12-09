@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Quedadas">
+
+  <ImageView
+      android:id="@+id/cabecera"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:src="@drawable/arc_2"
+      android:scaleType="centerCrop"
+      app:layout_constraintTop_toTopOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintEnd_toEndOf="parent" />
+
+  <TextView
+      android:id="@+id/textView12"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="15dp"
+      android:text="REUNIONES"
+      android:textColor="#FFFFFF"
+      android:textSize="24sp"
+      android:textStyle="bold"
+      app:layout_constraintBottom_toBottomOf="@+id/constraintLayout2"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="@+id/cabecera" />
+
+  <androidx.constraintlayout.widget.ConstraintLayout
+      android:id="@+id/constraintLayout2"
+      android:layout_width="410dp"
+      android:layout_height="113dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent">
+
+  </androidx.constraintlayout.widget.ConstraintLayout>
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+      <com.google.android.material.card.MaterialCardView
+          android:layout_width="263dp"
+          android:layout_height="206dp"
+          android:layout_gravity="center"
+          android:layout_marginTop="100dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9AB1EF">
+
+          <ImageView
+              android:id="@+id/btn_lista_libros_parque_garcia_sanabria"
+              android:layout_width="38dp"
+              android:layout_height="28dp"
+              android:layout_marginStart="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintStart_toStartOf="parent"
+              app:srcCompat="@drawable/bottom_btn2" />
+
+          <ImageView
+              android:id="@+id/btn_mapa_parque_garcia_sanabria"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:srcCompat="@android:drawable/ic_dialog_map" />
+
+          <Button
+              android:id="@+id/btn_apuntar_parque_garcia_sanabria"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="72dp"
+              android:layout_marginBottom="32dp"
+              android:text="Apuntarse"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent" />
+
+          <TextView
+              android:id="@+id/textView4"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="16dp"
+              android:text="PARQUE GARCIA SANABRIA"
+              android:textSize="16sp"
+              android:textStyle="bold"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent" />
+
+          <CheckedTextView
+              android:id="@+id/checkedTextView"
+              android:layout_width="149dp"
+              android:layout_height="36dp"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="8dp"
+              android:text="Punto de intercambio de libros de aventuras"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+          <TextView
+              android:id="@+id/textView2"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="12dp"
+              android:text="08/12/2024 17:00"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/checkedTextView" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+      </com.google.android.material.card.MaterialCardView>
+      <com.google.android.material.card.MaterialCardView
+          android:layout_width="263dp"
+          android:layout_height="206dp"
+          android:layout_gravity="center"
+          android:layout_marginTop="16dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9AB1EF">
+
+          <ImageView
+              android:id="@+id/btn_lista_libros_plaza_espana"
+              android:layout_width="38dp"
+              android:layout_height="28dp"
+              android:layout_marginStart="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintStart_toStartOf="parent"
+              app:srcCompat="@drawable/bottom_btn2" />
+
+          <ImageView
+              android:id="@+id/btn_mapa_plaza_espana"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:srcCompat="@android:drawable/ic_dialog_map" />
+
+          <Button
+              android:id="@+id/btn_apuntar_plaza_espana"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="72dp"
+              android:layout_marginBottom="32dp"
+              android:text="Apuntarse"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent" />
+
+          <TextView
+              android:id="@+id/txt_nombre_evento_plaza_espana"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="16dp"
+              android:text="PLAZA ESPAÑA"
+              android:textSize="16sp"
+              android:textStyle="bold"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent" />
+
+          <CheckedTextView
+              android:id="@+id/txt_descripcion_evento_plaza_espana"
+              android:layout_width="149dp"
+              android:layout_height="36dp"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="8dp"
+              android:text="Punto de intercambio de libros de novelas"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/txt_nombre_evento_plaza_espana" />
+
+          <TextView
+              android:id="@+id/txt_fecha_evento_plaza_espana"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="12dp"
+              android:text="08/12/2024 16:00"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/txt_descripcion_evento_plaza_espana" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+      </com.google.android.material.card.MaterialCardView>
+      <com.google.android.material.card.MaterialCardView
+          android:layout_width="263dp"
+          android:layout_height="206dp"
+          android:layout_gravity="center"
+          android:layout_marginTop="16dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="209dp"
+            android:background="#9AB1EF">
+
+          <ImageView
+              android:id="@+id/btn_lista_libros_auditorio_tenerife"
+              android:layout_width="38dp"
+              android:layout_height="28dp"
+              android:layout_marginStart="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintStart_toStartOf="parent"
+              app:srcCompat="@drawable/bottom_btn2" />
+
+          <ImageView
+              android:id="@+id/btn_mapa_auditorio_tenerife"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="16dp"
+              android:layout_marginBottom="16dp"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent"
+              app:srcCompat="@android:drawable/ic_dialog_map" />
+
+          <Button
+              android:id="@+id/btn_apuntar_auditorio_tenerife"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginEnd="72dp"
+              android:layout_marginBottom="32dp"
+              android:text="Apuntarse"
+              app:layout_constraintBottom_toBottomOf="parent"
+              app:layout_constraintEnd_toEndOf="parent" />
+
+          <TextView
+              android:id="@+id/auditorio_nombre"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="16dp"
+              android:text="AUDITORIO DE TENERIFE"
+              android:textSize="16sp"
+              android:textStyle="bold"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toTopOf="parent" />
+
+          <CheckedTextView
+              android:id="@+id/auditorio_descripcion"
+              android:layout_width="149dp"
+              android:layout_height="36dp"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="8dp"
+              android:text="Punto de intercambio de libros de misterio"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/auditorio_nombre" />
+
+          <TextView
+              android:id="@+id/auditorio_fecha"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginStart="28dp"
+              android:layout_marginTop="12dp"
+              android:text="08/12/2024 20:00"
+              app:layout_constraintStart_toStartOf="parent"
+              app:layout_constraintTop_toBottomOf="@+id/auditorio_descripcion" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+      </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+  </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
