@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.entregagui.AñadirRecorrido_Controller" style="-fx-background-color: #DDE3F0;">
+    <VBox alignment="CENTER" layoutX="50.0" layoutY="30.0" spacing="20" style="-fx-padding: 20;">
+        <Text text="Añadir Recorrido" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-fill: #2F3C7E;" />
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Nombre del Recorrido:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="nombreField" prefHeight="25.0" prefWidth="215.0" promptText="Introduce el nombre del recorrido" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Distancia (km):" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="distanciaField" prefHeight="25.0" prefWidth="168.0" promptText="Introduce la distancia en km" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Desnivel (m):" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="desnivelField" prefHeight="25.0" prefWidth="168.0" promptText="Introduce el desnivel en metros" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <Button fx:id="añadirButton" onAction="#añadirRecorrido" text="Añadir Recorrido" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+    </VBox>
+
+    <Button layoutX="510.0" layoutY="346.0" mnemonicParsing="false" onAction="#salir" text="Cancelar" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+</AnchorPane>

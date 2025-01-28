@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.ImageView?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="org.example.entregagui.AñadirCiclista_Controller"
+            prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #DDE3F0;">
+
+    <VBox alignment="CENTER" spacing="20" layoutX="100" layoutY="50" style="-fx-padding: 20;">
+        <Text text="Añadir Ciclista" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-fill: #2F3C7E;" />
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Nombre:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="nombreField" promptText="Introduce el nombre" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Apellido:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="apellidoField" promptText="Introduce el apellido" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Bicicleta:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <HBox spacing="10">
+                <RadioButton text="Trek" fx:id="trekRadio" style="-fx-text-fill: #2F3C7E;" />
+                <RadioButton text="Megano" fx:id="meganoRadio" style="-fx-text-fill: #2F3C7E;" />
+                <RadioButton text="Otra" fx:id="otraRadio" style="-fx-text-fill: #2F3C7E;" />
+            </HBox>
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Peloton:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <ComboBox fx:id="lesionesComboBox" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <CheckBox text="El ciclista se encuentra dado de alta en la federación" fx:id="federacionCheck" style="-fx-text-fill: #2F3C7E;" />
+        </HBox>
+
+        <Button text="Añadir Ciclista" fx:id="añadirButton" onAction="#añadirCiclista" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+    </VBox>
+
+    <Button text="Salir" layoutX="500" layoutY="350" onAction="#salir" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+</AnchorPane>

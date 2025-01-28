@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.Pos?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.control.DatePicker?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="org.example.entregagui.AñadirLesionado_Controller"
+            prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #DDE3F0;">
+
+    <VBox alignment="CENTER" spacing="20" layoutX="100" layoutY="50" style="-fx-padding: 20;">
+        <Text text="Añadir Lesión" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-fill: #2F3C7E;" />
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Fecha de Lesión:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <DatePicker fx:id="fechaLesionField" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Meses de Recuperación:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="mesesRecuperacionField" promptText="Introduce los meses de recuperación" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Ciclista:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <ComboBox fx:id="ciclistasComboBox" promptText="Selecciona el ciclista" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;">
+                <!-- Aquí puedes cargar dinámicamente los ciclistas disponibles -->
+            </ComboBox>
+        </HBox>
+
+        <Button text="Añadir Lesión" fx:id="añadirButton" onAction="#añadirLesion" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+    </VBox>
+
+    <Button text="Salir" layoutX="500.0" layoutY="350.0" onAction="#salir" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+</AnchorPane>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane style="-fx-background-color: #F4F4F9; -fx-padding: 20;" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.entregagui.HelloController">
+
+    <!-- Barra superior -->
+    <top>
+        <VBox spacing="10" BorderPane.alignment="CENTER">
+            <MenuBar style="-fx-background-color: #DDE3F0; -fx-text-fill: white;">
+                <menus>
+                    <Menu mnemonicParsing="false" style="colo: white;" text="Recorridos">
+                        <items>
+                            <MenuItem mnemonicParsing="false" onAction="#CambiarVentana" text="Acceder Recorridos" />
+                        </items>
+                    </Menu>
+                    <Menu mnemonicParsing="false" style="-fx-text-fill: white;" text="Accesibilidad">
+                        <items>
+                            <MenuItem mnemonicParsing="false" onAction="#Accesibilidad" text="Opciones de Accesibilidad" />
+                        </items>
+                    </Menu>
+                </menus>
+            </MenuBar>
+            <FlowPane alignment="CENTER" hgap="10" vgap="10">
+                <HBox alignment="CENTER" spacing="15">
+                    <Label style="-fx-font-size: 16; -fx-text-fill: #2F3C7E;" text="ID:" />
+                    <Slider fx:id="buscarporidSlider" max="100" min="1" prefWidth="200" showTickLabels="true" showTickMarks="true" />
+                    <Label fx:id="sliderValueLabel" style="-fx-font-size: 16; -fx-text-fill: #2F3C7E;" text="1" />
+                    <Button fx:id="botonbuscar" onAction="#buscarpornombre" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Buscar por id" />
+                    <Button onAction="#RellenarTabla" style="-fx-font-size: 14; -fx-background-color: #F25C54; -fx-text-fill: white;" text="Limpiar" />
+                </HBox>
+                <HBox alignment="CENTER" spacing="15">
+                    <Spinner fx:id="buscarpelotonSpinner" editable="true" initialValue="1" max="1000" min="1" />
+                    <Button onAction="#buscarporpeloton" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Corredores por id Pelotón" />
+                </HBox>
+                <HBox alignment="CENTER" spacing="15">
+                    <TextField fx:id="buscarbici" promptText="Introduce bicicleta" style="-fx-padding: 5;" />
+                    <Button onAction="#buscarporbici" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Corredores por bicicleta" />
+                </HBox>
+            </FlowPane>
+        </VBox>
+    </top>
+
+    <!-- Contenido principal -->
+    <center>
+        <VBox alignment="CENTER" spacing="20" style="-fx-padding: 10;">
+            <TableView fx:id="tableView" prefHeight="300.0" prefWidth="600.0" style="-fx-background-color: #E8F1F2; -fx-border-color: #2F3C7E; -fx-border-radius: 10; -fx-background-radius: 10;">
+                <columns>
+                    <TableColumn fx:id="idColumn" prefWidth="100.0" text="ID" />
+                    <TableColumn fx:id="nombreColumn" prefWidth="150.0" text="Nombre" />
+                    <TableColumn fx:id="apellidoColumn" prefWidth="150.0" text="Apellido" />
+                    <TableColumn fx:id="bicicletaColumn" prefWidth="150.0" text="Bicicleta" />
+                    <TableColumn fx:id="pelotonRitmoColumn" prefWidth="150.0" text="Pelotón" />
+                </columns>
+            </TableView>
+        </VBox>
+    </center>
+
+    <!-- Botones inferiores -->
+    <bottom>
+        <HBox alignment="CENTER" spacing="15" style="-fx-padding: 10;">
+            <Button mnemonicParsing="false" onAction="#AñadirCiclista" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Nuevo Ciclista" />
+            <Button mnemonicParsing="false" onAction="#AñadirPeloton" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Nuevo Pelotón" />
+            <Button mnemonicParsing="false" onAction="#AñadirRecorrido" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Nuevo Recorrido" />
+            <Button mnemonicParsing="false" onAction="#AñadirLesion" style="-fx-font-size: 14; -fx-background-color: #6A8CAF; -fx-text-fill: white;" text="Nueva Lesión" />
+        </HBox>
+    </bottom>
+</BorderPane>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.entregagui.AñadirPeloton_Controller" style="-fx-background-color: #DDE3F0;">
+    <VBox alignment="CENTER" layoutX="50.0" layoutY="30.0" spacing="20" style="-fx-padding: 20;">
+        <Text text="Añadir Pelotón" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-fill: #2F3C7E;" />
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Nombre:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="nombre" prefHeight="25.0" prefWidth="215.0" promptText="Introduce el nombre del pelotón" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <HBox spacing="10" style="-fx-alignment: center;">
+            <Label text="Ritmo min/km:" style="-fx-font-size: 14px; -fx-text-fill: #2F3C7E;" />
+            <TextField fx:id="ritmoField" prefHeight="25.0" prefWidth="168.0" promptText="Introduce el ritmo" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+        </HBox>
+
+        <Button fx:id="añadirButton" onAction="#añadirPeloton" text="Añadir Pelotón" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+    </VBox>
+
+    <Button layoutX="510.0" layoutY="346.0" mnemonicParsing="false" onAction="#salir" text="Salir" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+</AnchorPane>

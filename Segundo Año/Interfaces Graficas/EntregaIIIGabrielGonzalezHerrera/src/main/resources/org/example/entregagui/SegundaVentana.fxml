@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.entregagui.SegundaVentana_Controller" style="-fx-background-color: #DDE3F0;">
+    <top>
+        <VBox style="-fx-background-color: #2F3C7E; -fx-padding: 10; -fx-spacing: 10;">
+            <Label text="Gestión de Rutas" style="-fx-font-size: 24px; -fx-font-weight: bold; -fx-text-fill: white; -fx-alignment: center;" />
+        </VBox>
+    </top>
+    <center>
+        <VBox alignment="CENTER" spacing="20" style="-fx-padding: 20;">
+            <TableView fx:id="tableView" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2;">
+                <columns>
+                    <TableColumn fx:id="idColumn" text="ID" style="-fx-alignment: CENTER;" />
+                    <TableColumn fx:id="nombreColumn" text="Nombre" style="-fx-alignment: CENTER;" />
+                    <TableColumn fx:id="distanciaColumn" text="Distancia" style="-fx-alignment: CENTER;" />
+                    <TableColumn fx:id="desnivelColumn" text="Desnivel" style="-fx-alignment: CENTER;" />
+                </columns>
+            </TableView>
+        </VBox>
+    </center>
+    <top>
+        <VBox spacing="10" style="-fx-padding: 10;">
+            <FlowPane hgap="10" style="-fx-alignment: center;">
+                <TextField fx:id="nombre" promptText="Buscar por nombre" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+                <Button mnemonicParsing="false" onAction="#buscarpornombre" text="Buscar" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+                <Button mnemonicParsing="false" onAction="#RellenarTabla" text="Reset" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+            </FlowPane>
+            <FlowPane hgap="10" style="-fx-alignment: center;">
+                <TextField fx:id="nivel" promptText="Desnivel mayor de" style="-fx-background-color: white; -fx-border-color: #2F3C7E; -fx-border-width: 2; -fx-padding: 5;" />
+                <Button mnemonicParsing="false" onAction="#buscarpornivel" text="Buscar" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+            </FlowPane>
+        </VBox>
+    </top>
+    <bottom>
+        <FlowPane hgap="10" style="-fx-alignment: center; -fx-padding: 10;">
+            <Button mnemonicParsing="false" onAction="#salir" text="Volver Atrás" style="-fx-background-color: #2F3C7E; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 10;" />
+        </FlowPane>
+    </bottom>
+</BorderPane>
